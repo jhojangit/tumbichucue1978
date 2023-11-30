@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Kurale&display=swap');
+
+
+:root {
+  --navbarHeight: 60px;
+  --principal-black: #413f3f;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  font-family: 'Kurale', serif;
+  font-size: 21px;
+
+  color: var(--principal-black);
+
+}
+
+img{
+  width: 100%;
+}
