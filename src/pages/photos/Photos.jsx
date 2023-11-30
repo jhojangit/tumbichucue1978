@@ -39,7 +39,7 @@ export default function Photos() {
                     categories.map(categoy => (
                     <SwiperSlide>
                         <img 
-                        key={categoy.id}
+                        key={categoy.name}
                         src={categoy.url} />
                         <p>{categoy.name}</p>
                     </SwiperSlide>
