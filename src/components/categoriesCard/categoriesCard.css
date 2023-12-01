@@ -25,10 +25,6 @@
     filter: brightness(120%);
 }
 
-.categoryCard__img img{
-    object-fit: cover;
-}
-
 
 .categoryCard__title{
     color: rgb(47, 48, 49);
