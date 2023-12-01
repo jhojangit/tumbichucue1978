@@ -6,12 +6,15 @@ import 'swiper/css/pagination';
 import { EffectCoverflow, Pagination } from 'swiper/modules';
 import categories from '../../json/categories.json'
 import './photos.css';
+import CategoriesCard from '../../components/categoriesCard/CategoriesCard';
 
 export default function Photos() {
 
 
     return (
         <section className='photos__container'>
+
+            <h2 className='photos__title'>CATEGORIAS</h2>
 
             <section className='photos__categories'>
             <Swiper
@@ -21,7 +24,6 @@ export default function Photos() {
                 slidesPerView={'auto'}
                 loop={true}
                 coverflowEffect={{
-                    rotate: 0,
                     stretch: 0,
                     depth: 500,
                     modifier: 1,
@@ -38,18 +40,12 @@ export default function Photos() {
                 {
                     categories.map(categoy => (
                     <SwiperSlide>
-                        <img 
-                        key={categoy.name}
-                        src={categoy.url} />
-                        <p>{categoy.name}</p>
+                        <div key={categoy.id}>
+                            <CategoriesCard category={categoy}/>
+                        </div>
                     </SwiperSlide>
                     ))
                 }
-
-
-
-
-
 
 
             </Swiper>

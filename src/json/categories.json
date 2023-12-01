@@ -1,29 +1,100 @@
 [
     {
         "id"  : 1,
-        "url" : "/folder1/img2.png",
-        "name": "image1",
-        "description": "Esta es la imagen 1"
+        "url" : "/categories/timbachucue.JPG",
+        "title": "27a Tumbichucue",
+        "description": "27a TUMBICHUCUE"
     },
 
     {
         "id"  : 2,
-        "url" : "/main.webp",
-        "name": "image2",
-        "description": "Esta es la imagen 2"
+        "url" : "/categories/actualidad.jpg",
+        "title": "Actualidad",
+        "description": "Actualidad"
     },
 
     {
         "id"  : 3,
-        "url" : "/folder1/img2.png",
-        "name": "image3",
-        "description": "Esta es la imagen 1"
+        "url" : "/categories/belalcazar.jpg",
+        "title": "Belalcazar Paez",
+        "description": "Belalcazar Paez"
     },
 
     {
         "id"  : 4,
-        "url" : "/main.webp",
-        "name": "image4",
-        "description": "Esta es la imagen 1"
+        "url" : "/categories/inza.jpg",
+        "title": "Inza",
+        "description": "Inza"
+    },
+
+    {
+        "id"  : 5,
+        "url" : "/categories/laplata.jpg",
+        "title": "LA PLATA HUILA",
+        "description": "LA PLATA HUILA, Antes sebastian de la plata o minas de la Plata"
+    },
+
+    {
+        "id"  : 6,
+        "url" : "/categories/vitonco.jpg",
+        "title": "Resguardo ancestral de Vitonco",
+        "description": "Resguardo ancestral de Vitonco, cuna del pueblo nasa. hijos de Juan Tama de las estrellas"
+    },
+
+    {
+        "id"  : 7,
+        "url" : "/categories/calderas.jpg",
+        "title": "Resguardo de Calderas",
+        "description": "Resguardo de Calderas"
+    },
+
+    {
+        "id"  : 8,
+        "url" : "/categories/cuetando.jpg",
+        "title": "Resguardo de Cuetando Paez Cauca",
+        "description": "Resguardo de Cuetando Paez Cauca"
+    },
+
+    {
+        "id"  : 9,
+        "url" : "/categories/lame.jpg",
+        "title": "Resguardo de Lame",
+        "description": "Resguardo de Lame"
+    },
+
+    {
+        "id"  : 10,
+        "url" : "/categories/mosoco.jpg",
+        "title": "Resguardo de Mosoco",
+        "description": "Resguardo de Mosoco"
+    },
+
+    {
+        "id"  : 11,
+        "url" : "/categories/pisimbala.jpg",
+        "title": "Resguardo de San Andres de Pisimbala",
+        "description": "Resguardo de San Andres de Pisimbala"
+    },
+
+    {
+        "id"  : 12,
+        "url" : "/categories/talaga.jpg",
+        "title": "resguardo de talaga",
+        "description": "resguardo de talaga"
+    },
+
+    {
+        "id"  : 13,
+        "url" : "/categories/tumbichcue.jpg",
+        "title": "Resguardo de Tumbichcue",
+        "description": "Resguardo de Tumbichcue, fue constituido en 1978, antes fue territorio de vitonco y luego en 1905 paso a Lame, y en 1914 de Calderas"
+    },
+
+    {
+        "id"  : 14,
+        "url" : "/categories/timana.jpg",
+        "title": "Timana Huila",
+        "description": "Timana Huila. territorio de los nasas o paeces"
     }
 ]
+

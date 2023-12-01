@@ -6,13 +6,25 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
+
+    background-image: url(/public/fondoFotos.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.photos__title{
+    position: absolute;
+    top: 80px;
+    font-size: 1.3rem;
 }
 
 
 .photos__categories{
-    width: 80%;
+    width: 100%;
     height: 100%;
+
     margin-top: 60px;
+
 }
 
 .mySwiper {
@@ -21,9 +33,8 @@
 }
 
 .swiper-slide {
-    background-size: cover;
+    background-size: contain;
     background-position: center;
-    border-radius: 10px;
 
     width: 80%;
 }
@@ -31,4 +42,14 @@
 .swiper-pagination {
     position: relative;
     bottom: 10px;
+
+}
+
+@media(width > 750px){
+    .photos__categories{
+        width: 80%;
+        height: 80%;
+        margin-top: 60px;
+    }
+    
 }

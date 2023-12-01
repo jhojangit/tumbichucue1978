@@ -72,6 +72,7 @@ const NavbarTransparent = () => {
                         <li > <Link onClick={handleChangeRoute} className='navbar__transparent--li' to="/fotografia">FOTOGRAFÍA</Link> </li>
                         <li > <Link onClick={handleChangeRoute} className='navbar__transparent--li' to="/documental">DOCUMENTAL</Link> </li>
                         <li > <Link onClick={handleChangeRoute} className='navbar__transparent--li' to="/blog">BLOG</Link> </li>
+                        <li > <Link onClick={handleChangeRoute} className='navbar__transparent--li' to="/blog">MÁS</Link> </li>
                     </ul>
 
 
