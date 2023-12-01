@@ -1,24 +1,29 @@
-import React from 'react'
-import './albumCard.css'
+import React, { useState } from 'react';
+import './albumCard.css';
 
-const AlbumCard = ({photo}) => {
+const AlbumCard = ({ photo }) => {
+  const [isExpanded, setIsExpanded] = useState(false);
+
+  const toggleExpand = () => {
+    setIsExpanded(!isExpanded);
+  };
 
   return (
+    <div  className={`albumCard__container ${isExpanded ? 'expanded' : ''}`}
+          onClick={toggleExpand}>
 
 
-    <div className='albumCard__container'>
-{/*         
-        <strong className='albumCard__title'>
-            {photo.title}
-        </strong> 
-*/}
-
-        <div className='albumCard__img'>
-            <img loading='lazy' src={photo.url} alt={photo.title} />
-        </div>
-
+      <div className='albumCard__img'>
+        <img
+          loading='lazy'
+          src={photo.url}
+          alt={photo.title}
+          className={isExpanded ? 'fullScreen' : ''}
+        />
+      </div>
+      
     </div>
-  )
-}
+  );
+};
 
-export default AlbumCard
+export default AlbumCard;
