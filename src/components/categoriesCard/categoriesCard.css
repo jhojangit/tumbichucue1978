@@ -45,6 +45,7 @@
     color: aliceblue;
     transition: all .2s ease;
     margin-bottom: 1rem;
+    z-index: 2;
 }
 
 .categoryCard__btn:hover{
