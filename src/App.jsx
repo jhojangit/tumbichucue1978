@@ -1,9 +1,10 @@
-import { HashRouter, Route, Routes } from 'react-router-dom'
+import { HashRouter, Route, Routes, Navigate } from 'react-router-dom'
 import './App.css'
 import Home from './pages/home/Home'
 import Information from './pages/information/Information'
 import NavbarTransparent from './components/navbar/NavbarTranparent'
 import Photos from './pages/photos/Photos'
+
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
         <NavbarTransparent/>
         
         <Routes>
+          <Route path='/' element={<Navigate to="/home" />} /> 
           <Route path='/home'         element={<Home/>} />
           <Route path='/information'  element={<Information/>} />
           <Route path='/fotografia'   element={<Photos/>} />

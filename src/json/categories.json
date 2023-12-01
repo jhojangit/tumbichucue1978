@@ -1,29 +1,29 @@
 [
     {
         "id"  : 1,
-        "url" : "../../public/folder1/img2.png",
+        "url" : "/folder1/img2.png",
         "name": "image1",
         "description": "Esta es la imagen 1"
     },
 
     {
         "id"  : 2,
-        "url" : "../../public/main.webp",
+        "url" : "/main.webp",
         "name": "image2",
         "description": "Esta es la imagen 2"
     },
 
     {
         "id"  : 3,
-        "url" : "../../public/folder1/img2.png",
-        "name": "image1",
+        "url" : "/folder1/img2.png",
+        "name": "image3",
         "description": "Esta es la imagen 1"
     },
 
     {
         "id"  : 4,
-        "url" : "../../public/main.webp",
-        "name": "image1",
+        "url" : "/main.webp",
+        "name": "image4",
         "description": "Esta es la imagen 1"
     }
 ]
