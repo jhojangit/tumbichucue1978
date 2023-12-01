@@ -13,19 +13,24 @@
     justify-content: center;
     gap: 1rem;
 
+    max-height: 80vh;
+
 }
 
 
 .categoryCard__img{
     transition: filter .2s;
-    max-height: 500px;
+    max-height: 90%;
+
 }
 
 .categoryCard__container:hover .categoryCard__img{
     filter: brightness(120%);
 }
 
-
+.categoryCard__img img{
+    object-fit: cover;
+}
 
 
 .categoryCard__title{
