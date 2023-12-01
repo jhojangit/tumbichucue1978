@@ -14,7 +14,7 @@ const AlbumCard = ({photo}) => {
 */}
 
         <div className='albumCard__img'>
-            <img src={photo.url} alt={photo.title} />
+            <img loading='lazy' src={photo.url} alt={photo.title} />
         </div>
 
     </div>

@@ -20,10 +20,10 @@ const Album = () => {
     return (
         <div className='album__container'>
 
-                <section className='album__description'>
-                    <h2 >{category[0].title}</h2>
-                    <p >{category[0].description}</p>
-                </section>
+                    <h2 className='album__description--title' >{category[0].title}</h2>
+
+                    <p  className='album__description--description'>{category[0].description}</p>
+
 
 
                 <div className='album__gallery--container'>
