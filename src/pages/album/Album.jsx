@@ -1,8 +1,11 @@
-import React from 'react'
+import React, { useState } from 'react'
 import './album.css'
 import { useParams } from 'react-router-dom'
 import album from '../../json/photos.json'
 import categories from '../../json/categories.json'
+import AlbumCard from '../../components/albumCard/AlbumCard'
+
+
 
 
 const Album = () => {
@@ -11,27 +14,25 @@ const Album = () => {
 
 
     const photos = album.filter(element => element.categoryId == id)
-
-    console.log(photos);
-
+    const category = categories.filter(element => element.id == id)
 
 
     return (
-        <div>
+        <div className='album__container'>
+
+                <section className='album__description'>
+                    <h2 >{category[0].title}</h2>
+                    <p >{category[0].description}</p>
+                </section>
 
 
-            <br />
-            <br />
-            <br />
-
-            {
-                photos.map(photo => (
-                    <img
-                        key={photo.id}
-                        src={photo.url} alt=""
-                    />
-                ))
-            }
+                <div className='album__gallery--container'>
+                {photos.map((photo) => (
+                    <div div  key={photo.url}>
+                        <AlbumCard photo={photo}/>
+                    </div>
+                ))}
+                </div>
 
         </div>
     )

@@ -12,9 +12,8 @@
     align-items: center;
     justify-content: center;
     gap: 1rem;
-
-
 }
+
 
 .categoryCard__img{
     transition: filter .2s;

@@ -1,0 +1,15 @@
+.albumCard__container{
+    width: 100%;
+}
+
+.albumCard__img{
+    border-radius: 4px;
+    
+}
+
+
+.albumCard__img img{
+    border-radius: 4px;
+    height: auto;
+    margin-bottom: 32px;
+}
