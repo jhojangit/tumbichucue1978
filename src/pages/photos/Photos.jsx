@@ -14,6 +14,7 @@ export default function Photos() {
     return (
         <section className='photos__container'>
 
+                                                            {/*Propuesta de palabra: Album*/}
             <h2 className='photos__title'>CATEGORIAS</h2>
 
             <section className='photos__categories'>
@@ -39,8 +40,8 @@ export default function Photos() {
 
                 {
                     categories.map(categoy => (
-                    <SwiperSlide>
-                        <div key={categoy.id}>
+                    <SwiperSlide key={categoy.id}>
+                        <div >
                             <CategoriesCard category={categoy}/>
                         </div>
                     </SwiperSlide>

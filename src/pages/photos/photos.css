@@ -7,7 +7,7 @@
     justify-content: center;
     flex-direction: column;
 
-    background-image: url(/public/fondoFotos.jpg);
+    background-image: url(/fondoFotos.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }

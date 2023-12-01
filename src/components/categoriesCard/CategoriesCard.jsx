@@ -1,8 +1,15 @@
 import React from 'react'
 import './categoriesCard.css'
+import { useNavigate } from 'react-router-dom'
 
 
 const CategoriesCard = ({category}) => {
+
+  const navigate = useNavigate()
+
+  const handleLink = (id) => {
+    navigate(`/album/${id}`)
+  }
 
 
   return (
@@ -15,7 +22,7 @@ const CategoriesCard = ({category}) => {
             <img  src={category.url} alt={category.title} />
         </div>
 
-        <button className='categoryCard__btn'>
+        <button onClick={() => handleLink(category.id)  } className='categoryCard__btn'>
             Ver galeria
         </button>
 

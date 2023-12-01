@@ -1,0 +1,43 @@
+[
+    {
+        "categoryId": 14,
+        "id": 1,
+        "title": "Calles de timana 1936",
+        "url": "/timana/Callesdetimana1936.jpg"
+    },
+
+    {
+        "categoryId": 14,
+        "id": 2,
+        "title": "La Cacería del venadopor los Alemanes.",
+        "url": "/timana/LaCaceríadelvenadoporlosAlemanes.jpg"
+    },
+
+    {
+        "categoryId": 14,
+        "id": 3,
+        "title": "La plaza de timana",
+        "url": "/timana/laplazadetimana.jpg"
+    },
+
+    {
+        "categoryId": 14,
+        "id": 4,
+        "title": "Pericongo",
+        "url": "/timana/pericongo.jpg"
+    },
+
+    {
+        "categoryId": 14,
+        "id": 5,
+        "title": "Plaza Principal de Timana huil. lo que hoy está la estatua de la Cacica Gaitana.",
+        "url": "/timana/PlazaPrincipaldeTimanahuilaloquehoyestalaestatuadelaCacicaGaitana.jpg"
+    },
+
+    {
+        "categoryId": 14,
+        "id": 6,
+        "title": "Timana Huila, al fondo se ve la iglesia y la casa cural.",
+        "url": "/timana/TimanaHuila,alfonosevelaiglesiaylacasacural.jpg"
+    }
+]

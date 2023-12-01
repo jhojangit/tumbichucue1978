@@ -8,7 +8,7 @@
     align-items: center;
     justify-content: center;
 
-    background-image: url(../../../public/main.webp);
+    background-image: url(/main.webp);
     background-repeat: no-repeat;
     background-size: cover;
 
