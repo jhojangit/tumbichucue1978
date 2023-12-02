@@ -8,6 +8,8 @@ const AlbumCard = ({ photo }) => {
         setIsExpanded(!isExpanded);
     };
 
+    const photoTitle = photo.title.charAt(0).toUpperCase() + photo.title.slice(1).replaceAll("_", " ")
+
     return (
         <div className={`albumCard__container ${isExpanded ? 'expanded' : ''}`} onClick={toggleExpand}>
             <div className='albumCard__content'>
@@ -20,7 +22,7 @@ const AlbumCard = ({ photo }) => {
                     />
                 </div>
                 {isExpanded && (
-                        <p className='albumCard__text'>{photo.title}</p>
+                        <p className='albumCard__text'>{photoTitle}</p>
                 )}
             </div>
         </div>
