@@ -32,7 +32,14 @@ export default function Photos() {
                     stretch: 0,
                     
                 }}
-                pagination={true}
+                pagination={{ 
+                    
+                    clickable: true,
+                    type: 'bullets',
+                    bulletClass: "photos__categoriesDots",
+                    bulletActiveClass: 'photos__categoriesDots--active', 
+
+                }}
                 modules={[EffectCoverflow, Pagination]}
                 className="mySwiper"
             >

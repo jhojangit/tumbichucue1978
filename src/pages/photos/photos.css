@@ -43,6 +43,26 @@
 
 }
 
+.photos__categoriesDots{
+    background-color: rgba(131, 122, 122, 0.555);
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    margin: 0 8px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.photos__categoriesDots--active{
+    background-color: rgb(12, 12, 12);
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    margin: 0 8px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
 @media(width > 750px){
     .photos__categories{
         width: 70%;
