@@ -10,11 +10,12 @@ import CategoriesCard from '../../components/categoriesCard/CategoriesCard';
 
 export default function Photos() {
 
+    categories.sort((a, b) =>   b.id - a.id);
+
 
     return (
         <section className='photos__container'>
 
-                                                            {/*Propuesta de palabra: Album*/}
             <h2 className='photos__title'>CATEGORIAS</h2>
 
             <section className='photos__categories'>
@@ -25,15 +26,17 @@ export default function Photos() {
                 slidesPerView={'auto'}
                 loop={true}
                 coverflowEffect={{
-                    stretch: 0,
                     depth: 500,
-                    modifier: 1,
+                    modifier: 3,
                     slideShadows: true,
+                    stretch: 0,
+                    
                 }}
                 pagination={true}
                 modules={[EffectCoverflow, Pagination]}
                 className="mySwiper"
             >
+
 
 
 

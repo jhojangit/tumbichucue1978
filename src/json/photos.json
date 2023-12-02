@@ -623,7 +623,427 @@
 
     {
         "categoryId": 6,
-        "title": "visita_resguardo_de_Suin..",
-        "url": "/vitonco/visita_resguardo_de_Suin..jpg"
+        "title": "visita_resguardo_de_Suin.",
+        "url": "/vitonco/visita_resguardo_de_Suin.jpg"
+    },
+
+    {
+        "categoryId": 5,
+        "title": "Aqui_podemos_apreciar_al_fondo_la_iglesia_de_la_plata_huila_y_lo_que_hoy_es_Parque_Principal_antes_tenía_prado.",
+        "url": "/plata/Aqui_podemos_apreciar_al_fondo_la_iglesia_de_la_plata_huila_y_lo_que_hoy_es_Parque_Principal_antes_tenía_prado.jpg"
+    },
+
+
+    {
+        "categoryId": 5,
+        "title": "CAMINO~1.",
+        "url": "/plata/CAMINO~1.JPG"
+    },
+
+
+    {
+        "categoryId": 5,
+        "title": "Celebración_de_la_vía_que_cunducía_de_la_Plata_pasando_por_Belalcazar_Páez_que_iba_dar_a_Santander_de_Quilichau_1979.",
+        "url": "/plata/Celebración_de_la_vía_que_cunducía_de_la_Plata_pasando_por_Belalcazar_Páez_que_iba_dar_a_Santander_de_Quilichau_1979.jpg"
+    },
+
+    {
+        "categoryId": 5,
+        "title": "estudiantes_de_la_Plata_1935.",
+        "url": "/plata/estudiantes_de_la_Plata_1935.jpg"
+    },
+
+    {
+        "categoryId": 5,
+        "title": "Estudiantes_y_algunas_madres_de_familia_en_la_Plata_Huila.",
+        "url": "/plata/Estudiantes_y_algunas_madres_de_familia_en_la_Plata_Huila.jpg"
+    },
+
+    {
+        "categoryId": 5,
+        "title": "La_iglesia_de_la_Plata_y_atrás_la_montaña_que_encierra_la_ciudad.",
+        "url": "/plata/La_iglesia_de_la_Plata_y_atrás_la_montaña_que_encierra_la_ciudad.jpg"
+    },
+
+    {
+        "categoryId": 5,
+        "title": "Llegada_de_los_expedicionarios_alemanes_a_la_plata_huila.",
+        "url": "/plata/Llegada_de_los_expedicionarios_alemanes_a_la_plata_huila.jpg"
+    },
+
+    {
+        "categoryId": 5,
+        "title": "niños_de_la_plata_Huila_en_el_año_1935.",
+        "url": "/plata/niños_de_la_plata_Huila_en_el_año_1935.jpg"
+    },
+
+    {
+        "categoryId": 5,
+        "title": "San_sebastían_de_la_plata_1935_salida_para_Bogota.",
+        "url": "/plata/San_sebastían_de_la_plata_1935_salida_para_Bogota.jpg"
+    },
+
+    {
+        "categoryId": 5,
+        "title": "Un_niño_en_la_calle_de_la_plata_con_su_basija_de_barro.",
+        "url": "/plata/Un_niño_en_la_calle_de_la_plata_con_su_basija_de_barro.jpg"
+    },
+
+    {
+        "categoryId": 5,
+        "title": "Una_mujer_y_un_niño_en_los_años_30_en_la_plata_además_podemos_apreciar_la_forma_de_vestir_y_los_pisos_de_la_casa.",
+        "url": "/plata/Una_mujer_y_un_niño_en_los_años_30_en_la_plata_además_podemos_apreciar_la_forma_de_vestir_y_los_pisos_de_la_casa.jpg"
+    },
+
+    {
+        "categoryId": 4,
+        "title": "la_primera_toma_guerrillera_en_colombia_en_la_base_de_inza_frente_a_la_iglesia_amo_jesus_de_guanacas.",
+        "url": "/inza/la_primera_toma_guerrillera_en_colombia_en_la_base_de_inza_frente_a_la_iglesia_amo_jesus_de_guanacas.jpg"
+    },
+    
+    {
+        "categoryId": 4,
+        "title": "mujer_nasa_en_plaza_de_mercado_aun_la_casa_existe_la_casa_fue_comprada_en_el_año_2005_por_resguardo_de_Tumbichucue.",
+        "url": "/inza/mujer_nasa_en_plaza_de_mercado_aun_la_casa_existe_la_casa_fue_comprada_en_el_año_2005_por_resguardo_de_Tumbichucue.jpg"
+    },
+
+    {
+        "categoryId": 3,
+        "title": "belalaczar_moderna.",
+        "url": "/belalcazar/belalaczar_moderna.jpg"
+    },
+    {
+        "categoryId": 3,
+        "title": "belalcazar.",
+        "url": "/belalcazar/belalcazar.jpg"
+    },
+    {
+        "categoryId": 3,
+        "title": "bendicion_de_la_imagen_de_san_vicente_de_paul_mos_Enrique_vallejo_padre_Gonzalo_reyes.",
+        "url": "/belalcazar/bendicion_de_la_imagen_de_san_vicente_de_paul_mos_Enrique_vallejo_padre_Gonzalo_reyes.jpg"
+    },
+    {
+        "categoryId": 3,
+        "title": "Capilla.",
+        "url": "/belalcazar/Capilla.jpg"
+    },
+    {
+        "categoryId": 3,
+        "title": "carta_de_reclamación_porque_no_eran_adecuados_para_las_niñas.",
+        "url": "/belalcazar/carta_de_reclamación_porque_no_eran_adecuados_para_las_niñas.jpg"
+    },
+    {
+        "categoryId": 3,
+        "title": "carta.",
+        "url": "/belalcazar/carta.jpg"
+    },
+    {
+        "categoryId": 3,
+        "title": "Comunidad_de_mujeres_2.",
+        "url": "/belalcazar/Comunidad_de_mujeres_2.jpg"
+    },
+    {
+        "categoryId": 3,
+        "title": "Comunidad_de_mujeres.",
+        "url": "/belalcazar/Comunidad_de_mujeres.jpg"
+    },
+    {
+        "categoryId": 3,
+        "title": "Comunidad_de_mujeres2.",
+        "url": "/belalcazar/Comunidad_de_mujeres2.jpg"
+    },
+    {
+        "categoryId": 3,
+        "title": "Comunidad_reunida.",
+        "url": "/belalcazar/Comunidad_reunida.jpg"
+    },
+    {
+        "categoryId": 3,
+        "title": "convento.",
+        "url": "/belalcazar/convento.jpg"
+    },
+    {
+        "categoryId": 3,
+        "title": "belalaczar_moderna.",
+        "url": "/belalcazar/belalaczar_moderna.jpg"
+    },
+    {
+        "categoryId": 3,
+        "title": "creacion_de_la_casa_cural_al_lado_de_la_iglesia_de_bellacazar.",
+        "url": "/belalcazar/creacion_de_la_casa_cural_al_lado_de_la_iglesia_de_bellacazar.jpg"
+    },
+    {
+        "categoryId": 3,
+        "title": "DESFILE_DE_ESTUDIANTES_DE_BELALCAZAR.",
+        "url": "/belalcazar/DESFILE_DE_ESTUDIANTES_DE_BELALCAZAR.jpg"
+    },
+    {
+        "categoryId": 3,
+        "title": "el_arbol_de_saman_se_cree_que_ya_tiene_25_años_de_sembrado_agunos_cabildos_de_comunidad_de_avirama.",
+        "url": "/belalcazar/el_arbol_de_saman_se_cree_que_ya_tiene_25_años_de_sembrado_agunos_cabildos_de_comunidad_de_avirama.jpg"
+    },
+    {
+        "categoryId": 3,
+        "title": "el_negro_pablo_emilio_lemus_valencia.",
+        "url": "/belalcazar/el_negro_pablo_emilio_lemus_valencia.jpg"
+    },
+    {
+        "categoryId": 3,
+        "title": "en_2015.",
+        "url": "/belalcazar/en_2015.jpg"
+    },
+    {
+        "categoryId": 3,
+        "title": "En_esta_fotografia_se_aprecia_niñas_negritas_que_llegaron_en_la_colonia_ppara_trabajar_en_minas_de_sal.",
+        "url": "/belalcazar/En_esta_fotografia_se_aprecia_niñas_negritas_que_llegaron_en_la_colonia_ppara_trabajar_en_minas_de_sal.jpg"
+    },
+    {
+        "categoryId": 3,
+        "title": "en_los_años_50.",
+        "url": "/belalcazar/en_los_años_50.jpg"
+    },
+    {
+        "categoryId": 3,
+        "title": "estudiantes_de_la_norma_superiror_de_monseñor_enrrique_vallejo_de_Tierradentro.",
+        "url": "/belalcazar/estudiantes_de_la_norma_superiror_de_monseñor_enrrique_vallejo_de_Tierradentro.jpg"
+    },
+    {
+        "categoryId": 3,
+        "title": "estudiantes_normal_superior_paez.",
+        "url": "/belalcazar/estudiantes_normal_superior_paez.jpg"
+    },
+    {
+        "categoryId": 3,
+        "title": "grupo_de_estudiantes_mujeres.",
+        "url": "/belalcazar/grupo_de_estudiantes_mujeres.jpg"
+    },
+    {
+        "categoryId": 3,
+        "title": "Grupo_musical_geremias_perdomo.",
+        "url": "/belalcazar/Grupo_musical_geremias_perdomo.jpg"
+    },
+    {
+        "categoryId": 3,
+        "title": "iglesia_de_Belalcazar.",
+        "url": "/belalcazar/iglesia_de_Belalcazar.jpg"
+    },
+    {
+        "categoryId": 3,
+        "title": "Iglesia.",
+        "url": "/belalcazar/Iglesia.jpg"
+    },
+    {
+        "categoryId": 3,
+        "title": "Iglesia(1).",
+        "url": "/belalcazar/Iglesia(1).jpg"
+    },
+    
+    {
+        "categoryId": 3,
+        "title": "interiro_de_la_Belalcazar.",
+        "url": "/belalcazar/interiro_de_la_Belalcazar.jpg"
+    },
+
+    {
+        "categoryId": 3,
+        "title": "intruducción_del_documento.",
+        "url": "/belalcazar/intruducción_del_documento.jpg"
+    },
+
+
+    {
+        "categoryId": 3,
+        "title": "la_carta_enviada_para_que_mandaran_todo_lo_necesario_para_enseñanza_de_los_estudiantes.",
+        "url": "/belalcazar/la_carta_enviada_para_que_mandaran_todo_lo_necesario_para_enseñanza_de_los_estudiantes.jpg"
+    },
+
+
+    {
+        "categoryId": 3,
+        "title": "monjas_de_la_escuela_normal_superior_1953..",
+        "url": "/belalcazar/monjas_de_la_escuela_normal_superior_1953..jpg"
+    },
+
+    {
+        "categoryId": 3,
+        "title": "Mujeres_Arrodilladas.",
+        "url": "/belalcazar/Mujeres_Arrodilladas.jpg"
+    },
+
+    {
+        "categoryId": 3,
+        "title": "Iglesia.",
+        "url": "/belalcazar/Iglesia.jpg"
+    },
+
+    {
+        "categoryId": 3,
+        "title": "mujeres_posando_sobre_la_iglesia_recien_cunstruida_amediados_de_los_años_30.",
+        "url": "/belalcazar/mujeres_posando_sobre_la_iglesia_recien_cunstruida_amediados_de_los_años_30.jpg"
+    },
+
+    {
+        "categoryId": 3,
+        "title": "Mujeres.",
+        "url": "/belalcazar/Mujeres.jpg"
+    },
+
+    {
+        "categoryId": 3,
+        "title": "Mujeres2.",
+        "url": "/belalcazar/Mujeres2.jpg"
+    },
+
+    {
+        "categoryId": 3,
+        "title": "nombre_del_documento.",
+        "url": "/belalcazar/nombre_del_documento.jpg"
+    },
+
+    {
+        "categoryId": 3,
+        "title": "obra_en_construccion.",
+        "url": "/belalcazar/obra_en_construccion.jpg"
+    },
+
+
+    {
+        "categoryId": 3,
+        "title": "padre_y_las_niñas_de_la_normal.",
+        "url": "/belalcazar/padre_y_las_niñas_de_la_normal.jpg"
+    },
+    {
+        "categoryId": 3,
+        "title": "practica_de_ejercicios.",
+        "url": "/belalcazar/practica_de_ejercicios.jpg"
+    },
+
+    {
+        "categoryId": 3,
+        "title": "primer_documento_escrito_en_nasa_yuwe_por_el_cura_de_talaga_en_1755_y_editado_en_paris_1877_el_docuemento_reposa_en_la_biblioteca_Nacional_de_Colombia.",
+        "url": "/belalcazar/primer_documento_escrito_en_nasa_yuwe_por_el_cura_de_talaga_en_1755_y_editado_en_paris_1877_el_docuemento_reposa_en_la_biblioteca_Nacional_de_Colombia.jpg"
+    },
+    {
+        "categoryId": 3,
+        "title": "Reunion_Alto_parroco.",
+        "url": "/belalcazar/Reunion_Alto_parroco.jpg"
+    },
+    {
+        "categoryId": 3,
+        "title": "salida_de_campesinos_para_pedir_el_mejoramiento_del_via_al_valle.",
+        "url": "/belalcazar/salida_de_campesinos_para_pedir_el_mejoramiento_del_via_al_valle.jpg"
+    },
+    {
+        "categoryId": 3,
+        "title": "saman_de_belalcazar_martin_horst.",
+        "url": "/belalcazar/saman_de_belalcazar_martin_horst.jpg"
+    },
+    {
+        "categoryId": 3,
+        "title": "Soldados_parrocos.",
+        "url": "/belalcazar/Soldados_parrocos.jpg"
+    },
+    {
+        "categoryId": 3,
+        "title": "sor_ortencia_fernandez_foto_vicariato_apostolico_de_T.",
+        "url": "/belalcazar/sor_ortencia_fernandez_foto_vicariato_apostolico_de_T.jpg"
+    },
+    {
+        "categoryId": 3,
+        "title": "visita_del_presidente_lleras_restrepo_1966_1970_18_de_marzo_1969.",
+        "url": "/belalcazar/visita_del_presidente_lleras_restrepo_1966_1970_18_de_marzo_1969.jpg"
+    },
+
+    {
+        "categoryId": 2,
+        "title": "aerea.",
+        "url": "/actualidad/Actualidad_aerea.jpg"
+    },
+
+    {
+        "categoryId": 2,
+        "title": "Aerea(1).",
+        "url": "/actualidad/Actualidad_Aerea(1).jpg"
+    },
+
+    {
+        "categoryId": 2,
+        "title": "Comunidad.",
+        "url": "/actualidad/Actualidad_Comunidad.jpg"
+    },
+
+    {
+        "categoryId": 2,
+        "title": "Comunidad(1).",
+        "url": "/actualidad/Actualidad_Comunidad(1).jpg"
+    },
+
+    {
+        "categoryId": 2,
+        "title": "Mecanismo_mujer.",
+        "url": "/actualidad/Actualidad_Mecanismo_mujer.jpg"
+    },
+
+    {
+        "categoryId": 2,
+        "title": "mecanismo.",
+        "url": "/actualidad/Actualidad_mecanismo.jpg"
+    },
+
+    {
+        "categoryId": 2,
+        "title": "Montañas.",
+        "url": "/actualidad/Actualidad_Montañas.jpg"
+    },
+
+    {
+        "categoryId": 2,
+        "title": "Montañas(1).",
+        "url": "/actualidad/Actualidad_Montañas(1).jpg"
+    },
+
+    {
+        "categoryId": 2,
+        "title": "Montañas(2).",
+        "url": "/actualidad/Actualidad_Montañas(2).jpg"
+    },
+
+    {
+        "categoryId": 2,
+        "title": "Montañas(3).",
+        "url": "/actualidad/Actualidad_Montañas(3).jpg"
+    },
+
+    {
+        "categoryId": 2,
+        "title": "Mujer_mayor.",
+        "url": "/actualidad/Actualidad_Mujer_mayor.jpg"
+    },
+
+    {
+        "categoryId": 2,
+        "title": "Oficinas.",
+        "url": "/actualidad/Actualidad_Oficinas.jpg"
+    },
+
+    {
+        "categoryId": 2,
+        "title": "Parroquia.",
+        "url": "/actualidad/Actualidad_Parroquia.jpg"
+    },
+
+    {
+        "categoryId": 2,
+        "title": "tierra.",
+        "url": "/actualidad/Actualidad_tierra.jpg"
+    },
+
+    {
+        "categoryId": 2,
+        "title": "Musical.",
+        "url": "/actualidad/Actulidad_Musical.jpg"
     }
+
+
+
 ]
