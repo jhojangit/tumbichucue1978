@@ -1,4 +1,6 @@
 .album__container{
+    width: 100%;
+    min-height: 100vh;
     background-image: url(/fondoFotos.jpg);
     background-repeat: no-repeat;
     background-size: cover;  
@@ -38,9 +40,117 @@
     columns: 1;
     padding:16px 32px;
     column-gap: 32px;
-
     margin-top: 50px;
 }
+
+
+
+
+/****************************************************************/
+
+
+.paginate__pagination--container{
+    width: 100%;
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 0.5rem;
+    list-style: none;
+}
+
+
+.paginate__pagination--break{
+    cursor: pointer;
+}
+
+.paginate__pagination--li{
+    list-style: none;
+    cursor: pointer;
+    color: aliceblue;
+}
+
+.paginate__pagination--page{
+    background-color: var(--numbersBackgroundColor);
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.paginate__pagination--page:hover{
+    background-color: var(--numbersBackgroundColorHover);
+}
+
+
+.paginate__pagination--active{
+    background-color: var(--numbersBackgroundActive);
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.paginate__pagination--activeTransparent {
+    background-color: rgba(199, 76, 15, 0);
+}
+
+.paginate__pagination--next-previous{
+    cursor: pointer;
+    color: var(--numbersBackgroundColor);
+    border: 1px solid var(--numbersBackgroundColor);
+    padding: .6rem;
+    border-radius: 10%;
+    font-weight: bold;
+}
+
+.paginate__pagination--next-previous:hover{
+    background-color: var(--numbersBackgroundColorHover);
+    color: aliceblue;
+    border: 1px solid transparent;
+}
+
+.paginate__pagination--disabled{
+    color: grey;
+    cursor: no-drop;
+    border: 1px solid grey;
+}
+
+.paginate__pagination--disabled:hover{
+    background-color: rgb(73, 72, 72);
+}
+
+
+@media(width > 400px){
+    .paginate__pagination--container{
+        justify-content: center;
+        gap: 2rem;
+    }
+
+
+    .paginate__pagination--page{
+        background-color: var(--numbersBackgroundColor);
+        width: 50px;
+        height: 50px;
+
+    }
+
+
+    .paginate__pagination--active{
+        background-color: var(--numbersBackgroundActive);
+        width: 50px;
+        height: 50px;
+
+    }
+    
+}
+
 
 
 

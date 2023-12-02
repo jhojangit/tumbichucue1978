@@ -1,43 +1,309 @@
 [
     {
         "categoryId": 14,
-        "id": 1,
         "title": "Calles de timana 1936",
         "url": "/timana/Callesdetimana1936.jpg"
     },
 
     {
         "categoryId": 14,
-        "id": 2,
         "title": "La Cacería del venadopor los Alemanes.",
         "url": "/timana/LaCaceríadelvenadoporlosAlemanes.jpg"
     },
 
     {
         "categoryId": 14,
-        "id": 3,
         "title": "La plaza de timana",
         "url": "/timana/laplazadetimana.jpg"
     },
 
     {
         "categoryId": 14,
-        "id": 4,
         "title": "Pericongo",
         "url": "/timana/pericongo.jpg"
     },
 
     {
         "categoryId": 14,
-        "id": 5,
         "title": "Plaza Principal de Timana huil. lo que hoy está la estatua de la Cacica Gaitana.",
         "url": "/timana/PlazaPrincipaldeTimanahuilaloquehoyestalaestatuadelaCacicaGaitana.jpg"
     },
 
     {
         "categoryId": 14,
-        "id": 6,
         "title": "Timana Huila, al fondo se ve la iglesia y la casa cural.",
         "url": "/timana/TimanaHuila,alfonosevelaiglesiaylacasacural.jpg"
+    },
+
+    {
+        "categoryId": 13,
+        "title": "Comunidad Atrapando rechazando.",
+        "url": "/tumbichcue/Comunidad_Atrapando_rechazando.jpg"
+    },
+
+    {
+        "categoryId": 13,
+        "title": "Observando Arbol.",
+        "url": "/tumbichcue/Observando_Arbol.jpg"
+    },
+
+    {
+        "categoryId": 12,
+        "title": "Antes de llegar a Aransazu.",
+        "url": "/talaga/Antes_de_llegar_a_Aransazu.jpg"
+    },
+
+    {
+        "categoryId": 12,
+        "title": "Camino_de_la_plata_a_Belalcazar.",
+        "url": "/talaga/Camino_de_la_plata_a_Belalcazar.jpg"
+    },
+
+    {
+        "categoryId": 12,
+        "title": "Camino_nacional_de_la_plata_para_salir_a_Cuetando.",
+        "url": "/talaga/Camino_nacional_de_la_plata_para_salir_a_Cuetando.jpg"
+    },
+
+    {
+        "categoryId": 12,
+        "title": "camino_nacional.",
+        "url": "/talaga/camino_nacional.jpg"
+    },
+
+    {
+        "categoryId": 12,
+        "title": "Camino_real_Salida_desde_la_Plata_Huila_hacía_Tierradentro.",
+        "url": "/talaga/Camino_real_Salida_desde_la_Plata_Huila_hacía_Tierradentro.jpg"
+    },
+
+    {
+        "categoryId": 12,
+        "title": "casas_indigenas_en_medio_de_camino_estas_servían_en_algunos_casos_como_hospedajes_de_los_viajeros_o_para_arrieros.",
+        "url": "/talaga/casas_indigenas_en_medio_de_camino_estas_servían_en_algunos_casos_como_hospedajes_de_los_viajeros_o_para_arrieros.jpg"
+    },
+
+    {
+        "categoryId": 12,
+        "title": "casas_viejas_entre_aguacatico_y_guapio.",
+        "url": "/talaga/casas_viejas_entre_aguacatico_y_guapio.jpg"
+    },
+
+    {
+        "categoryId": 12,
+        "title": "centro_de_Talaga_se puede_apreciar_detras_de_la_caza_cultivos_de_platano_tal_vez_atras_este_la_huerta_cacera.",
+        "url": "/talaga/centro_de_Talaga_se puede_apreciar_detras_de_la_caza_cultivos_de_platano_tal_vez_atras_este_la_huerta_cacera.jpg"
+    },
+
+    {
+        "categoryId": 12,
+        "title": "Copia_de_Montañas_de_Tierradentro_se_puede_apreciar_del_porque_se_llamó_tierradentro.",
+        "url": "/talaga/Copia_de_Montañas_de_Tierradentro_se_puede_apreciar_del_porque_se_llamó_tierradentro.jpg"
+    },
+
+    {
+        "categoryId": 12,
+        "title": "cuerdas_de_alta_tención_de_energia.",
+        "url": "/talaga/cuerdas_de_alta_tención_de_energia.jpg"
+    },
+
+    {
+        "categoryId": 12,
+        "title": "Desde_tiempos_inmemoriales_algunas_zonas_de_pajonal_sobre_todo_todo_el_cañon_de_Rio_Paez.",
+        "url": "/talaga/Desde_tiempos_inmemoriales_algunas_zonas_de_pajonal_sobre_todo_todo_el_cañon_de_Rio_Paez.jpg"
+    },
+    {
+        "categoryId": 12,
+        "title": "El_caballo_con_la_carga_del_zorron_este_servía_para_multicidad_de_cosas_como_para_llevar_agua_vino_chicha_comida_y_entre_otras.",
+        "url": "/talaga/El_caballo_con_la_carga_del_zorron_este_servía_para_multicidad_de_cosas_como_para_llevar_agua_vino_chicha_comida_y_entre_otras.jpg"
+    },
+    {
+        "categoryId": 12,
+        "title": "el_hato_de_minas_y_la_crianza_de_ganado.",
+        "url": "/talaga/el_hato_de_minas_y_la_crianza_de_ganado.jpg"
+    },
+    {
+        "categoryId": 12,
+        "title": "el_indigena_con_la_practica_de_curar_las_heridas_de_las_vacas.",
+        "url": "/talaga/el_indigena_con_la_practica_de_curar_las_heridas_de_las_vacas.jpg"
+    },
+    {
+        "categoryId": 12,
+        "title": "El_peñol_de_Fraile_sobre_rio_paez.",
+        "url": "/talaga/El_peñol_de_Fraile_sobre_rio_paez.jpg"
+    },
+    {
+        "categoryId": 12,
+        "title": "El_río_Paez_la_que_va_caer_a_Magdalena.",
+        "url": "/talaga/El_río_Paez_la_que_va_caer_a_Magdalena.jpg"
+    },
+    {
+        "categoryId": 12,
+        "title": "entrada_a_belalcazar.",
+        "url": "/talaga/entrada_a_belalcazar.jpg"
+    },
+    {
+        "categoryId": 12,
+        "title": "entrada_y_elaboración_de_cercas_de_un_lado_y_otro.",
+        "url": "/talaga/entrada_y_elaboración_de_cercas_de_un_lado_y_otro.jpg"
+    },
+    {
+        "categoryId": 12,
+        "title": "Expedinarios_Alemanes.",
+        "url": "/talaga/Expedinarios_Alemanes.jpg"
+    },
+    {
+        "categoryId": 12,
+        "title": "Iglesia_San_Abosta_de_Talaga_1635-1645.",
+        "url": "/talaga/Iglesia_San_Abosta_de_Talaga_1635-1645.jpg"
+    },
+    {
+        "categoryId": 12,
+        "title": "La_iglesia_de_Talaga, hecho con tapia, techo de paja y pintado con colores naturales de la región..",
+        "url": "/talaga/La_iglesia_de_Talaga, hecho con tapia, techo de paja y pintado con colores naturales de la región..jpg"
+    },
+    {
+        "categoryId": 12,
+        "title": "La_mirada_fija_del_Indígena_paéz_y_la_raza_de_la_vaca_común.",
+        "url": "/talaga/La_mirada_fija_del_Indígena_paéz_y_la_raza_de_la_vaca_común.jpg"
+    },
+    {
+        "categoryId": 12,
+        "title": "la_utilización_de_la_jama_para_capturar_los_incetos_se_puede_decir_que_las_intenciones_eran_mucho_mas_alla.",
+        "url": "/talaga/la_utilización_de_la_jama_para_capturar_los_incetos_se_puede_decir_que_las_intenciones_eran_mucho_mas_alla.jpg"
+    },
+    {
+        "categoryId": 12,
+        "title": "la_virginia_antes_de_llegar_a_puente_de_simbola_alfon_finca_de_minas_la_que_fue_colegio_menor_de_seminario_indigena_de_paez.",
+        "url": "/talaga/la_virginia_antes_de_llegar_a_puente_de_simbola_alfon_finca_de_minas_la_que_fue_colegio_menor_de_seminario_indigena_de_paez.jpg"
+    },
+    {
+        "categoryId": 12,
+        "title": "Las_misma_iglesia_de_Tálaga_y_al_lado_la_casa_cural.",
+        "url": "/talaga/Las_misma_iglesia_de_Tálaga_y_al_lado_la_casa_cural.jpg"
+    },
+    {
+        "categoryId": 12,
+        "title": "Las_niñas_nasas_sorprendidos_de_la_camara_y_de_las_personas.",
+        "url": "/talaga/Las_niñas_nasas_sorprendidos_de_la_camara_y_de_las_personas.jpg"
+    },
+    {
+        "categoryId": 12,
+        "title": "llegada_al_Resguardo_de_talaga_sobre_piedra_grande_alguno_nasas_posando_para_la_fotografía.",
+        "url": "/talaga/llegada_al_Resguardo_de_talaga_sobre_piedra_grande_alguno_nasas_posando_para_la_fotografía.jpg"
+    },
+    {
+        "categoryId": 12,
+        "title": "los_alemanes_con_la_mula_y_la_carga_encima.",
+        "url": "/talaga/los_alemanes_con_la_mula_y_la_carga_encima.jpg"
+    },
+    {
+        "categoryId": 12,
+        "title": "Lugar_desconocido.",
+        "url": "/talaga/Lugar_desconocido.jpg"
+    },
+    {
+        "categoryId": 12,
+        "title": "Montañas_de_Tierradentro_se_puede_apreciar_del_porque_se_llamó_tierradentro.",
+        "url": "/talaga/Montañas_de_Tierradentro_se_puede_apreciar_del_porque_se_llamó_tierradentro.jpg"
+    },
+    {
+        "categoryId": 12,
+        "title": "Planada_de_la_balsa_saliendo_de_la_plata.",
+        "url": "/talaga/Planada_de_la_balsa_saliendo_de_la_plata.jpg"
+    },
+    {
+        "categoryId": 12,
+        "title": "Planas_de_Balsa.",
+        "url": "/talaga/Planas_de_Balsa.jpg"
+    },
+    {
+        "categoryId": 12,
+        "title": "por_otra_vista_iglesia_de_talaga.",
+        "url": "/talaga/por_otra_vista_iglesia_de_talaga.jpg"
+    },
+    {
+        "categoryId": 12,
+        "title": "Puente_del_rio_Simbola_para_pasar_a_Talaga.",
+        "url": "/talaga/Puente_del_rio_Simbola_para_pasar_a_Talaga.jpg"
+    },
+    {
+        "categoryId": 12,
+        "title": "Puente_nacional_que_cunduce_para_Tierradentro_desde_la_plata.",
+        "url": "/talaga/Puente_nacional_que_cunduce_para_Tierradentro_desde_la_plata.jpg"
+    },
+    {
+        "categoryId": 12,
+        "title": "Ramadas_o_lugares_de_descanso.",
+        "url": "/talaga/Ramadas_o_lugares_de_descanso.jpg"
+    },
+    {
+        "categoryId": 12,
+        "title": "Rio_paez_sobre_lo_que_hoy_es_Aransazu.",
+        "url": "/talaga/Rio_paez_sobre_lo_que_hoy_es_Aransazu.jpg"
+    },
+    {
+        "categoryId": 12,
+        "title": "se_puede_apreciar_la_curva_de_Amerito_además_los_alemanes_no_tenían_una_sola_camara_como_se_puede_apreciar.",
+        "url": "/talaga/se_puede_apreciar_la_curva_de_Amerito_además_los_alemanes_no_tenían_una_sola_camara_como_se_puede_apreciar.jpg"
+    },
+    {
+        "categoryId": 12,
+        "title": "sector_de_Paez_llegando_quebrada_de_minas.",
+        "url": "/talaga/sector_de_Paez_llegando_quebrada_de_minas.jpg"
+    },
+    {
+        "categoryId": 12,
+        "title": "Vista_la_hacienda_de_Itaibe_Lugar_donde_los_Nasas_fueron_derrotados_por_los_españoles_por_traición_de_algunos_indigenas_de_la_misma_tribu.",
+        "url": "/talaga/Vista_la_hacienda_de_Itaibe_Lugar_donde_los_Nasas_fueron_derrotados_por_los_españoles_por_traición_de_algunos_indigenas_de_la_misma_tribu.jpg"
+    },
+
+    {
+        "categoryId": 11,
+        "title": "Capilla_resguardo_de_San_Andres.",
+        "url": "/pisimbala/Capilla_resguardo_de_San_Andres.jpg"
+    },
+
+    {
+        "categoryId": 11,
+        "title": "Dia_de_fiesta_y_celebracion_de_cabalgata_vemos_una_mujer_y_su_hijo_en_la_espalda_y_acompañado_por_un_hombre.",
+        "url": "/pisimbala/Dia_de_fiesta_y_celebracion_de_cabalgata_vemos_una_mujer_y_su_hijo_en_la_espalda_y_acompañado_por_un_hombre.jpg"
+    },
+
+    {
+        "categoryId": 11,
+        "title": "Fiesta_de_San_Andres.",
+        "url": "/pisimbala/Fiesta_de_San_Andres.jpg"
+    },
+
+    {
+        "categoryId": 11,
+        "title": "Forma_de_vivir_de_vestir_y_la_practica_de_la_puchiganga.",
+        "url": "/pisimbala/Forma_de_vivir_de_vestir_y_la_practica_de_la_puchiganga.jpg"
+    },
+
+    {
+        "categoryId": 11,
+        "title": "Hilada_de_la_mujer_Nasa.",
+        "url": "/pisimbala/Hilada_de_la_mujer_Nasa.jpg"
+    },
+
+    {
+        "categoryId": 11,
+        "title": "Las_mujeres_nasas_con_la_practica_de_las_jigras_de_cabuya.",
+        "url": "/pisimbala/Las_mujeres_nasas_con_la_practica_de_las_jigras_de_cabuya.jpg"
+    },
+
+    {
+        "categoryId": 11,
+        "title": "práctica_religiosa_de_la_comunidad_nasa_la_botada_de_la_cruz_despues_de_la_muerte_este_evento_se_realiza_despues_de_una_semana.",
+        "url": "/pisimbala/práctica_religiosa_de_la_comunidad_nasa_la_botada_de_la_cruz_despues_de_la_muerte_este_evento_se_realiza_despues_de_una_semana.jpg"
+    },
+
+    {
+        "categoryId": 11,
+        "title": "san_andres_actual_y_al_fondo_La_iglesia.",
+        "url": "/pisimbala/san_andres_actual_y_al_fondo_La_iglesia.jpg"
     }
+
 ]
