@@ -19,7 +19,7 @@ const Album = () => {
 
 
 
-    const itemsPerPage = 5
+    const itemsPerPage = 6
 
     const [itemOffset, setItemOffset] = useState(0);
 
