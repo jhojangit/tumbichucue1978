@@ -12,6 +12,7 @@
 .albumCard__img {
     border-radius: 4px;
     overflow: hidden;
+
 }
 
 .albumCard__img img {
@@ -26,6 +27,8 @@
     height: 100%;
     object-fit: contain;
     animation: reveal linear both;
+    animation-timeline: view();
+    animation-range: entry 10% cover 20%;
 }
 
 .albumCard__content {
@@ -34,12 +37,15 @@
 
 .albumCard__text {
     position: absolute;
-    bottom: 0px;
+    bottom: -5px;
     left: 0px;
     color: rgba(255, 255, 255, 0.692); 
+    background-color: rgba(0, 0, 0, 0.61);
     font-size: 21px; 
     z-index: 15; 
     display: none; 
+    margin: 1rem 1rem 1rem 0;
+    padding-left: 5px;
 }
 
 .albumCard__text {
@@ -69,3 +75,21 @@
         transform: translateY(0) scale(1);
     }
 }
+
+
+@media(width > 450px){
+
+    .albumCard__text {
+        position: absolute;
+        bottom: -15px;
+        left: 0px;
+        color: rgba(255, 255, 255, 0.692); 
+        background-color: rgba(0, 0, 0, 0);
+        font-size: 21px; 
+        z-index: 15; 
+        margin: 1rem 1rem 1rem 0;
+        padding-left: 0;
+    }
+
+}
+
