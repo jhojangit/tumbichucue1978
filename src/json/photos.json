@@ -308,6 +308,13 @@
 
     {
         "categoryId": 10,
+        "title": "Mosoco_1994.",
+        "url": "/mosoco/Mosoco_1994.jpg"
+    },
+
+    
+    {
+        "categoryId": 10,
         "title": "el_cuidado_y_el_trabajo_del_la_mujer_nasa.",
         "url": "/mosoco/el_cuidado_y_el_trabajo_del_la_mujer_nasa.jpg"
     },
@@ -325,11 +332,6 @@
         "url": "/mosoco/forma_de_vida_de_la_mujer_nasa_y_con_sus_hijos_como_enseñanza_del_diario_vivir.jpg"
     },
 
-    {
-        "categoryId": 10,
-        "title": "Mosoco_1994.",
-        "url": "/mosoco/Mosoco_1994.jpg"
-    },
 
     {
         "categoryId": 10,

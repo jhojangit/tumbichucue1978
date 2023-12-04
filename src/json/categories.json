@@ -3,84 +3,84 @@
         "id"  : 1,
         "url" : "/categories/timbachucue.JPG",
         "title": "27a Tumbichucue",
-        "description": "27a TUMBICHUCUE"
+        "description": "Es un lugar de profunda importancia para la vida de muchos indígenas, donde practican sus tradiciones ancestrales."
     },
 
     {
         "id"  : 2,
         "url" : "/categories/actualidad.jpg",
         "title": "Actualidad",
-        "description": "Actualidad"
+        "description": ""
     },
 
     {
         "id"  : 3,
         "url" : "/categories/belalcazar.jpg",
         "title": "Belalcazar Paez",
-        "description": "Belalcazar Paez"
+        "description": "Destaca por ser un territorio donde predomina el idioma Nasa Yuwe, con 17 autoridades ancestrales."
     },
 
     {
         "id"  : 4,
         "url" : "/categories/inza.jpg",
         "title": "Inza",
-        "description": "Inza"
+        "description": "El primer pueblo fundado y anteriormente el municipio más extenso de  Colombia"
     },
 
     {
         "id"  : 5,
         "url" : "/categories/laplata.jpg",
         "title": "LA PLATA HUILA",
-        "description": "LA PLATA HUILA, Antes sebastian de la plata o minas de la Plata"
+        "description": "Tuvo sus orígenes ligados a la explotación de una mina de plata por los primeros colonos, de donde deriva su nombre."
     },
 
     {
         "id"  : 6,
         "url" : "/categories/vitonco.jpg",
         "title": "Resguardo ancestral de Vitonco",
-        "description": "Resguardo ancestral de Vitonco, cuna del pueblo nasa. hijos de Juan Tama de las estrellas"
+        "description": "Era el lugar de encuentro de comuneros de Tierradentro durante festividades como San Pedro, San Juan y Semana Santa."
     },
 
     {
         "id"  : 7,
         "url" : "/categories/calderas.jpg",
         "title": "Resguardo de Calderas",
-        "description": "Resguardo de Calderas"
+        "description": "vio la mezcla de territorios entre los pueblos Paeces y Pijaos, quienes fueron traídos por los españoles tras la desaparición de los grupos originarios."
     },
 
     {
         "id"  : 8,
         "url" : "/categories/cuetando.jpg",
         "title": "Resguardo de Cuetando Paez Cauca",
-        "description": "Resguardo de Cuetando Paez Cauca"
+        "description": "fue el lugar donde descansó el único presidente de Colombia, Simón Bolívar, en su viaje de Popayán a Bogotá el 24 de diciembre de 1810."
     },
 
     {
         "id"  : 9,
         "url" : "/categories/lame.jpg",
         "title": "Resguardo de Lame",
-        "description": "Resguardo de Lame"
+        "description": " territorio de Plan de Palmares, guarda la historia y el mito de la culebra de Lame, donde se cuenta la leyenda de un niño atrapado por el río que se convirtió en culebra."
     },
 
     {
         "id"  : 10,
         "url" : "/categories/mosoco.jpg",
         "title": "Resguardo de Mosoco",
-        "description": "Resguardo de Mosoco"
+        "description": "fotografía que fue tomada antes de la avalancha de 1994, la cual, por el terremoto, todas estas casas de paja y tapia se cayeron y solo una quedó. "
     },
 
     {
         "id"  : 11,
         "url" : "/categories/pisimbala.jpg",
         "title": "Resguardo de San Andres de Pisimbala",
-        "description": "Resguardo de San Andres de Pisimbala"
+        "description": "territorio de maravillas y secretos de Tierra Adentro, resguarda algunos de los tesoros más bellos, incluyendo estatuas e hipogeos."
     },
 
     {
         "id"  : 12,
         "url" : "/categories/talaga.jpg",
         "title": "resguardo de talaga",
-        "description": "resguardo de talaga"
+        "description": "debe su nombre a su cacique, quien habitó esta región. En este sector, el conquistador Sebastián de Belalcázar fue derrotado por los Paeces en el famoso Peñón de Talaga."
     },
 
     {
@@ -94,7 +94,7 @@
         "id"  : 14,
         "url" : "/categories/timana.jpg",
         "title": "Timana Huila",
-        "description": "Timana Huila. territorio de los nasas o paeces"
+        "description": "Es uno de los primeros pueblos y una de las ciudades más antiguas en la tierra de los Paeces."
     }
 ]
 
