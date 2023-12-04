@@ -6,6 +6,7 @@ import NavbarTransparent from './components/navbar/NavbarTranparent'
 import Photos from './pages/photos/Photos'
 import Album from './pages/album/Album'
 import Footer from './components/footer/Footer'
+import Documental from './pages/documental/Documental'
 
 
 function App() {
@@ -26,7 +27,7 @@ function App() {
           <Route path='/information'      element={<Information/>} />
           <Route path='/fotografia'       element={<Photos/>} />
           <Route path='/album/:id'        element={<Album/>} />
-          <Route path='/documental'       element={<Information/>} />
+          <Route path='/documental'       element={<Documental/>} />
           <Route path='/blog'             element={<Information/>} />
           <Route path='*'                 element={<h1> 404 Esta ruta no existe</h1>} />
         </Routes>

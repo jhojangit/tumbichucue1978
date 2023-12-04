@@ -17,32 +17,33 @@ const Footer = () => {
                 </strong>
 
                 <p className='footer__item'> 
-                    <i className='bx bxs-phone-call'></i>
+                    <i className='bx bxs-phone-call footer__item--i'></i>
                     <br />
                         Contacto:
                             <br /> 
-                        <span>
+                        <span className='footer__item--span'>
                             3107050713
                         </span>
                         <hr />
                 </p>
 
                 <p className='footer__item'>
-                    <i class='bx bxs-envelope'></i>
+                    <i class='bx bxs-envelope footer__item--i'></i>
                     <br />
                         Universidad del Cauca 
                             <br />
-                        <span>
+                        <span className='footer__item--span'>
                             dyon@unicauca.edu.co
                         </span>
                         <hr />
                 </p>
 
                 <p className='footer__item'>
-                    <i class='bx bx-question-mark'></i>
+                    <i class='bx bx-question-mark footer__item--i'></i>
                     <br />
                         
-                        <a 
+                        <a
+                        className='footer__item--a'
                         href="https://www.facebook.com/resguardo.tumbichucue"
                         target="_blank"
                         rel="noopener noreferrer"
@@ -56,7 +57,8 @@ const Footer = () => {
 
 
                 <div className='footer__facebook'>
-                    <a 
+                    <a
+                    className='footer__item--a'
                         href="https://www.facebook.com/resguardo.tumbichucue"
                         target="_blank"
                         rel="noopener noreferrer"
@@ -72,13 +74,14 @@ const Footer = () => {
 
             <section className='footer__developer'>
                 
-                <strong>
+                <strong className='footer__developer--strong'>
                     Desarrollado por:
                 </strong>
 
                 <br />
 
-                <a 
+                <a  
+                    className='footer__item--a'
                     href="https://portfoliojhojan.netlify.app/" 
                     target="_blank" 
                     rel="noopener noreferrer">

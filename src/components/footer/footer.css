@@ -20,7 +20,7 @@
     text-align: center;
 }
 
-.footer__title, strong{
+.footer__title{
     color: rgb(243, 243, 243);
 }
 
@@ -28,12 +28,17 @@
     color: var(--white);
 }
 
-.footer__item i{
+.footer__item--i{
     color: rgb(255, 255, 255);
 }
 
-.footer__item span, a{
+.footer__item--span{
     color: white;
+    text-decoration: none;
+}
+
+.footer__item--a{
+    color: rgb(255, 255, 255);
     text-decoration: none;
 }
 
@@ -48,6 +53,10 @@
     padding-top: 1rem;
     margin-top: 2rem;
     text-align: center;
+}
+
+.footer__developer--strong{
+    color: rgb(243, 243, 243);
 }
 
 
