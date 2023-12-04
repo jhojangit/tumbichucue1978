@@ -28,7 +28,7 @@ select {
   margin-top: 10px;
   font-family: cursive, sans-serif;
   outline: 0;
-  background-color: rgba(221, 224, 228, 0);
+  background-color: rgba(221, 224, 228, 0.295);
   color: #030303;
   border: 1px transparent ;
   padding: 4px;
