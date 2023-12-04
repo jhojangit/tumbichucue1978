@@ -101,10 +101,13 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    color: aliceblue;
+    
 }
 
 .paginate__pagination--activeTransparent {
-    background-color: rgba(199, 76, 15, 0);
+    background-color: rgba(95, 87, 83, 0.767);
+    border-radius: 2rem;
 }
 
 .paginate__pagination--next-previous{
@@ -118,19 +121,17 @@
 
 .paginate__pagination--next-previous:hover{
     background-color: var(--numbersBackgroundColorHover);
-    color: aliceblue;
+    color: rgb(3, 3, 3);
     border: 1px solid transparent;
 }
 
 .paginate__pagination--disabled{
     color: grey;
     cursor: no-drop;
-    border: 1px solid grey;
+    
 }
 
-.paginate__pagination--disabled:hover{
-    background-color: rgb(73, 72, 72);
-}
+
 
 
 @media(width > 400px){

@@ -31,6 +31,7 @@ const Album = () => {
     const handlePageClick = (event) => {
         const newOffset = (event.selected * itemsPerPage) % photos.length;
         setItemOffset(newOffset);
+        window.scrollTo({top: 0, behavior: 'smooth'})
     };
 
 
