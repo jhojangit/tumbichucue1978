@@ -5,6 +5,7 @@ import Information from './pages/information/Information'
 import NavbarTransparent from './components/navbar/NavbarTranparent'
 import Photos from './pages/photos/Photos'
 import Album from './pages/album/Album'
+import Footer from './components/footer/Footer'
 
 
 function App() {
@@ -29,6 +30,10 @@ function App() {
           <Route path='/blog'             element={<Information/>} />
           <Route path='*'                 element={<h1> 404 Esta ruta no existe</h1>} />
         </Routes>
+
+        <Footer/>
+
+        
       </HashRouter>
     </>
   )

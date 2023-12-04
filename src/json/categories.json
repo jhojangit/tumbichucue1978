@@ -95,6 +95,13 @@
         "url" : "/categories/timana.jpg",
         "title": "Timana Huila",
         "description": "Es uno de los primeros pueblos y una de las ciudades más antiguas en la tierra de los Paeces."
+    },
+
+    {
+        "id"  : 15,
+        "url" : "/main.webp",
+        "title": "Gobernadores del resguardo de Tumbichucue",
+        "description": ""
     }
 ]
 
