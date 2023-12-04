@@ -21,3 +21,20 @@
 img{
   width: 100%;
 }
+
+select {
+  cursor: pointer;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  font-family: cursive, sans-serif;
+  outline: 0;
+  background-color: rgba(221, 224, 228, 0);
+  color: #030303;
+  border: 1px transparent ;
+  padding: 4px;
+  border-radius: 9px;
+  font-family: 'Kurale', serif;
+  font-weight: 500;
+
+
+}

@@ -1,9 +1,11 @@
 import React, { useEffect, useState } from 'react'
 import './navbarTransparent.css'
-import { Link } from 'react-router-dom'
+import { Link, useNavigate } from 'react-router-dom'
 
 
 const NavbarTransparent = () => {
+
+    const navigate = useNavigate()
 
     const [isOpenMenu, setIsOpenMenu] = useState(false)
     const [isHome, setIsHome] = useState(true)
@@ -33,6 +35,10 @@ const NavbarTransparent = () => {
         setIsOpenMenu(!isOpenMenu)
     }
 
+
+    const handleOptions = (option) => {
+        navigate(option.target.value)
+    }   
 
     return (
 
@@ -72,7 +78,18 @@ const NavbarTransparent = () => {
                         <li > <Link onClick={handleChangeRoute} className='navbar__transparent--li' to="/fotografia">FOTOGRAFÍA</Link> </li>
                         <li > <Link onClick={handleChangeRoute} className='navbar__transparent--li' to="/documental">DOCUMENTAL</Link> </li>
                         <li > <Link onClick={handleChangeRoute} className='navbar__transparent--li' to="/blog">BLOG</Link> </li>
-                        <li > <Link onClick={handleChangeRoute} className='navbar__transparent--li' to="/blog">MÁS</Link> </li>
+
+                        
+                        
+                        <select name="options" onChange={handleOptions}>
+                            <option value="mas" disabled  selected>MÁS</option>
+                            <option value="/fotografia">Option 1</option>
+                            <option value="/fotografia">Option 2</option>
+                            <option value="/fotografia">Option 3</option>
+                            <option value="/fotografia">Option 4</option>
+                            <option value="/fotografia">option 5</option>
+                        </select>
+
                     </ul>
 
 
