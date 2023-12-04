@@ -73,25 +73,6 @@ const Footer = () => {
 
             </section>
 
-            <section className='footer__developer'>
-
-                <strong className='footer__developer--strong'>
-                    Desarrollado por:
-                </strong>
-
-                <br />
-
-                <a
-                    className='footer__item--a'
-                    href="https://portfoliojhojan.netlify.app/"
-                    target="_blank"
-                    rel="noopener noreferrer">
-                    Jhojan R.G
-                </a>
-
-
-
-            </section>
 
 
         </footer>
