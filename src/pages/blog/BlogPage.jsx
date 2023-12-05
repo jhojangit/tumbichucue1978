@@ -212,7 +212,7 @@ const BlogPage = () => {
 
             <div className='blogPage__final'>
                 <p className='blogPage__title'>
-                    Fuente de información recopilado por:
+                    Fuente de información recopilada por:
                 </p>
 
                 <strong className='blogPage__name'>

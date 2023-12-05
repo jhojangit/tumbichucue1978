@@ -1,5 +1,6 @@
 import React from 'react'
 import './footer.css'
+import logoUniversidad from '/logoUniversidad.png'
 
 
 const Footer = () => {
@@ -12,9 +13,13 @@ const Footer = () => {
 
             <section className='footer__nav'>
 
-                <strong className='footer__title'>
-                    Territorio ancestral de Tumbichucue
-                </strong>
+                <img 
+                    className="footer__img" 
+                    src={logoUniversidad}
+                    title="Logo universidad del Cauca"
+                    alt="Logo universidad del Cauca" />
+
+
 
                 <p className='footer__item'>
                     <i className='bx bxs-phone-call footer__item--i'></i>
