@@ -31,6 +31,7 @@ function App() {
           <Route path='/documental'       element={<Documental/>} />
           <Route path='/blog'             element={<Information/>} />
           <Route path='/pdf'              element={<Pdf/>} />
+
           <Route path='*'                 element={<h1> 404 Esta ruta no existe</h1>} />
         </Routes>
 

@@ -37,8 +37,34 @@ const NavbarTransparent = () => {
 
 
     const handleOptions = (option) => {
-        navigate(option.target.value)
-        setIsOpenMenu(!isOpenMenu)
+
+
+        if(option.target.value === "/pdf"){
+            navigate(option.target.value)
+            setIsOpenMenu(!isOpenMenu)
+        }
+
+        if(option.target.value === "lame"){
+            window.open("https://drive.google.com/file/d/1iGhOrbAvlvwurfVtzvFz755Wtz1sIHNw/view?usp=sharing", "_blank");
+            setIsOpenMenu(!isOpenMenu)
+        }
+
+        if(option.target.value === "calderas"){
+            window.open("https://drive.google.com/file/d/1exqTL8Mn7ShoQbRUmYUx4zYlXlRJFhLH/view?usp=sharing", "_blank");
+            setIsOpenMenu(!isOpenMenu)
+        }
+
+        if(option.target.value === "guanas"){
+            window.open("https://drive.google.com/file/d/1lwV5NG0cJpxKbY7FX2Qh7eGlQ150xaD3/view?usp=sharing", "_blank");
+            setIsOpenMenu(!isOpenMenu)
+        }
+
+        if(option.target.value === "tumbichucue"){
+            window.open("https://drive.google.com/file/d/1yEFsddxYszHRL6YqCJUwLnj5cu6jvQt9/view?usp=sharing", "_blank");
+            setIsOpenMenu(!isOpenMenu)
+        }
+
+
     }   
 
     return (
@@ -85,10 +111,10 @@ const NavbarTransparent = () => {
                         <select name="options" onChange={handleOptions}>
                             <option value="mas" disabled  selected>MÁS</option>
                             <option value="/pdf">Lecturas en PDF</option>
-                            <option value="/fotografia">Colonial de Lame 1905</option>
-                            <option value="/fotografia">Colonial de Calderas 1914</option>
-                            <option value="/fotografia">Territorio de Tumbichucue 1978</option>
-                            <option value="/fotografia">Cédula real de Guanas</option>
+                            <option value="lame">Colonial de Lame 1905</option>
+                            <option value="calderas">Colonial de Calderas 1914</option>
+                            <option value="tumbichucue">Territorio de Tumbichucue 1978</option>
+                            <option value="guanas">Cédula real de Guanas</option>
                         </select>
 
                     </ul>
