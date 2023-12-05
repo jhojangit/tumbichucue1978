@@ -28,7 +28,7 @@ const Footer = () => {
                 </p>
 
                 <p className='footer__item'>
-                    <i class='bx bxs-envelope footer__item--i'></i>
+                    <i className='bx bxs-envelope footer__item--i'></i>
                     <br />
                     Universidad del Cauca
                     <br />

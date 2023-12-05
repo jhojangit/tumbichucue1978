@@ -8,6 +8,7 @@ import Album from './pages/album/Album'
 import Footer from './components/footer/Footer'
 import Documental from './pages/documental/Documental'
 import Pdf from './pages/pdf/Pdf'
+import BlogPage from './pages/blog/BlogPage'
 
 
 function App() {
@@ -29,7 +30,7 @@ function App() {
           <Route path='/fotografia'       element={<Photos/>} />
           <Route path='/album/:id'        element={<Album/>} />
           <Route path='/documental'       element={<Documental/>} />
-          <Route path='/blog'             element={<Information/>} />
+          <Route path='/blog'             element={<BlogPage/>} />
           <Route path='/pdf'              element={<Pdf/>} />
 
           <Route path='*'                 element={<h1> 404 Esta ruta no existe</h1>} />

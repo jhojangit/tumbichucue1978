@@ -1,0 +1,31 @@
+.blogPage__img{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 600px;
+    
+
+    margin: 1.5rem 0;
+
+
+}
+
+.font{
+    font-size: .8rem;
+}
+
+
+.blog__page--description{
+    font-size: .9rem;
+    font-style: italic;
+}
+
+
+
+
+.blog__page--fuente::before{
+    content: "Fuente: ";
+    font-weight: bold;
+}
