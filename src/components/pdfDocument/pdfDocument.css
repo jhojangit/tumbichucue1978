@@ -1,0 +1,33 @@
+.pdfDocument__container{
+    width: 100%;
+    max-width: 150px;
+
+    display: flex;
+    flex-direction: column;
+    
+    
+    justify-content: center;
+    align-items: center;
+    
+    
+    border-radius: .7rem;
+    margin: 3px;
+    padding: 5px;
+    gap: 1rem;
+
+    -webkit-box-shadow: 2px 2px 2px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 2px 2px 2px 1px rgba(0,0,0,0.75);
+    box-shadow: 2px 2px 2px 1px rgba(0,0,0,0.75);
+}
+
+.pdfDocument__img--container{
+    width: 70%;
+}
+
+
+.pdfDocument__text{
+    width: 100%;
+    text-align: justify;
+    font-size: .9rem;
+    
+}

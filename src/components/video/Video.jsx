@@ -1,25 +1,12 @@
 import React from 'react'
 import './video.css'
-const Video = ({videoURL}) => {
+const Video = ({videoURL, videoImg}) => {
     return (
-        <div className='video__container'>
-            <iframe 
-                src={videoURL}
-                width="100%" 
-                height="315" 
-                title="YouTube video player"
-                frameborder="0"
-                allow="accelerometer; 
-                    autoplay; 
-                    clipboard-write; 
-                    encrypted-media; 
-                    gyroscope; 
-                    picture-in-picture;
-                    web-share"
-                allowfullscreen>
-            </iframe>
-
-        </div>
+        <section className='video__container'>
+            <a href={videoURL} target="_blank" rel="noopener noreferrer">
+                <img className='video__img' src={videoImg} alt="" />
+            </a>
+        </section>
     )
 }
 

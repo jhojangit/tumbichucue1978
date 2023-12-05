@@ -1,17 +1,24 @@
 .documental__container{
-    width: 100%;
-    height: 100%;
-    min-height: 100vh;
-    padding: 1rem;
-    margin-top: 85px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 2rem;
-
     background-image: url("/fondoInfo.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
+
+    width: 100%;
+    height: 100%;
+    min-height: 100vh;
+    
+    padding: 1rem;
+    margin-top: 85px;
+    gap: 2rem;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.documental__title{
+    font-size: 1.2rem;
+    text-align: center;
 }

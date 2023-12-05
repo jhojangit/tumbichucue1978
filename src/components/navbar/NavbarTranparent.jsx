@@ -38,6 +38,7 @@ const NavbarTransparent = () => {
 
     const handleOptions = (option) => {
         navigate(option.target.value)
+        setIsOpenMenu(!isOpenMenu)
     }   
 
     return (
@@ -83,11 +84,11 @@ const NavbarTransparent = () => {
                         
                         <select name="options" onChange={handleOptions}>
                             <option value="mas" disabled  selected>MÁS</option>
-                            <option value="/fotografia">Option 1</option>
-                            <option value="/fotografia">Option 2</option>
-                            <option value="/fotografia">Option 3</option>
-                            <option value="/fotografia">Option 4</option>
-                            <option value="/fotografia">option 5</option>
+                            <option value="/pdf">Lecturas en PDF</option>
+                            <option value="/fotografia">Colonial de Lame 1905</option>
+                            <option value="/fotografia">Colonial de Calderas 1914</option>
+                            <option value="/fotografia">Territorio de Tumbichucue 1978</option>
+                            <option value="/fotografia">Cédula real de Guanas</option>
                         </select>
 
                     </ul>
