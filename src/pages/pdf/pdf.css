@@ -1,7 +1,10 @@
 .pdf__container{
     width: 100%;
     display: flex;
-
+    flex-direction: column;
+    padding-top: 80px;
+    align-items: center;
+    text-align: center;
     justify-content: center;
 
     background-image: url("/public/fondoFotos.jpg");

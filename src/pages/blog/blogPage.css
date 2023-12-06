@@ -11,6 +11,23 @@
     background-size: cover;  
 }
 
+#progress{
+    position: fixed;
+    top: 60px;
+    width: 0%;
+    left: 0;
+    background: rgb(131, 128, 128);
+    height: .5rem;
+
+    animation: progress-grow auto linear;
+    animation-timeline: scroll(root block);
+}
+
+@keyframes progress-grow {
+    from {width: 0%;}
+    to {width: 100%;}
+}
+
 .blogPage__title--main{
     font-size: 1.3rem;
 }

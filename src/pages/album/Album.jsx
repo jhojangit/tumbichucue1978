@@ -8,7 +8,6 @@ import ReactPaginate from 'react-paginate';
 
 
 
-
 const Album = () => {
 
     const { id } = useParams()
@@ -49,7 +48,7 @@ const Album = () => {
             <div className='album__gallery--container'>
                 {currentItems &&
                     currentItems.map((photo) => (
-                        <div div key={photo.url}>
+                        <div key={photo.url}>
                         <AlbumCard photo={photo} />
                     </div>
                     ))}

@@ -8,12 +8,16 @@
     align-items: center;
     justify-content: center;
 
-    background-image: url(/main.webp);
+    background-image: url("/main.webp");
+    background-image: url("/actualidad/Actualidad_Montañas(1).jpg");
+    background-image: url("/actualidad/Actualidad_Montañas.jpg");
+    background-image: url("/actualidad/Actualidad_Montañas3.jpg");
+    background-image: url("/actualidad/Actualidad_Montañas(2).jpg");
     background-repeat: no-repeat;
     background-size: cover;
 
+    background-position: bottom;
     filter: saturate(120%);
-
 }
 
 

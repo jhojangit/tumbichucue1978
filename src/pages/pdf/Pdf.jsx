@@ -7,8 +7,9 @@ const Pdf = () => {
     return (
         <section className='pdf__container'>
 
-            <section className='pdf__content'>
+            <h2>TEXTOS SOBRE LA HISTORIA DE LOS PAECES</h2>
 
+            <section className='pdf__content'>
 
                 <PdfDocument
                     title={"Capillas doctrineras de tierra dentro"}

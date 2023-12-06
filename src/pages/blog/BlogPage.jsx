@@ -20,6 +20,8 @@ const BlogPage = () => {
     return (
         <section className='blogPage__container'>
 
+            <div id='progress'></div>
+
             <h3 className='blogPage__title--main'>
                 Resguardo Indígena de Tumbichucue municipio de Inzá - Cauca
             </h3>
