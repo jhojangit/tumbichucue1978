@@ -31,7 +31,7 @@ const Album = () => {
     const handlePageClick = (event) => {
         const newOffset = (event.selected * itemsPerPage) % photos.length;
         setItemOffset(newOffset);
-        window.scrollTo({top: 0, behavior: 'smooth'})
+        window.scrollTo({ top: 0, behavior: 'smooth' })
     };
 
 
@@ -41,18 +41,54 @@ const Album = () => {
 
 
     useEffect(() => {
-        window.scrollTo({top:0, behavior:"smooth"})
+        window.scrollTo({ top: 0, behavior: "smooth" })
     }, []);
+
+
+    
+    const handelTop = () => {
+        window.scrollTo({ top: 0, behavior: "smooth" })
+    }
+
+
+
+
+
+
+    const [isScroll, setIsScroll] = useState(false);
+
+    const [scrollY, setScrollY] = useState(0);
+
+    const handleScroll = () => {
+        setScrollY(window.scrollY);
+
+
+    };
+
+    useEffect(() => {
+        window.addEventListener('scroll', handleScroll);
+
+        return () => {
+            window.removeEventListener('scroll', handleScroll);
+        };
+    }, []);
+
+
+    useEffect(() => {
+        scrollY
+        scrollY > 300 ? setIsScroll(true) : setIsScroll(false)
+
+    }, [scrollY]);
 
 
 
     return (
         <div className='album__container'>
 
-            <div 
+            <div
                 id='album__back'
                 onClick={handleNavigate}
-                >
+            >
             </div>
 
             <h2 className='album__description--title' >{category[0].title}</h2>
@@ -60,13 +96,22 @@ const Album = () => {
             <p className='album__description--description'>{category[0].description}</p>
 
 
+            <div
+                onClick={handelTop}
+                className={`album__top ${isScroll ? "album__top--visivility" : ""}`}>
+                <i class='bx bx-up-arrow-alt bx-md'></i>
+            </div>
+
+
+
+
 
             <div className='album__gallery--container'>
                 {currentItems &&
                     currentItems.map((photo) => (
                         <div key={photo.url}>
-                        <AlbumCard photo={photo} />
-                    </div>
+                            <AlbumCard photo={photo} />
+                        </div>
                     ))
                 }
             </div>
@@ -80,17 +125,18 @@ const Album = () => {
                 previousLabel="<"
                 renderOnZeroPageCount={null}
 
-                marginPagesDisplayed = {2}
+                marginPagesDisplayed={2}
                 containerClassName="paginate__pagination--container"
-                breakLinkClassName = "paginate__pagination--break"
+                breakLinkClassName="paginate__pagination--break"
                 pageClassName="paginate__pagination--li"
                 pageLinkClassName="paginate__pagination--page"
                 activeLinkClassName="paginate__pagination--active"
                 activeClassName="paginate__pagination--activeTransparent"
-                previousLinkClassName	="paginate__pagination--next-previous"
+                previousLinkClassName="paginate__pagination--next-previous"
                 nextLinkClassName="paginate__pagination--next-previous"
                 disabledLinkClassName="paginate__pagination--disabled"
             />
+
 
         </div>
     )
