@@ -1,4 +1,4 @@
-import React, { useRef, useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 import 'swiper/css/effect-coverflow';
@@ -11,6 +11,12 @@ import CategoriesCard from '../../components/categoriesCard/CategoriesCard';
 export default function Photos() {
 
     categories.sort((a, b) =>   b.id - a.id);
+
+    useEffect(() => {
+        window.scrollTo({top:0, behavior:"smooth"})
+    }, []);
+
+
 
 
     return (

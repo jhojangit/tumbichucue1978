@@ -1,6 +1,6 @@
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import './album.css'
-import { useParams } from 'react-router-dom'
+import { useNavigate, useParams } from 'react-router-dom'
 import album from '../../json/photos.json'
 import categories from '../../json/categories.json'
 import AlbumCard from '../../components/albumCard/AlbumCard'
@@ -11,6 +11,7 @@ import ReactPaginate from 'react-paginate';
 const Album = () => {
 
     const { id } = useParams()
+    const navigate = useNavigate()
 
 
     const photos = album.filter(element => element.categoryId == id)
@@ -34,10 +35,25 @@ const Album = () => {
     };
 
 
+    const handleNavigate = () => {
+        navigate("/fotografia")
+    }
+
+
+    useEffect(() => {
+        window.scrollTo({top:0, behavior:"smooth"})
+    }, []);
+
 
 
     return (
         <div className='album__container'>
+
+            <div 
+                id='album__back'
+                onClick={handleNavigate}
+                >
+            </div>
 
             <h2 className='album__description--title' >{category[0].title}</h2>
 
@@ -51,7 +67,8 @@ const Album = () => {
                         <div key={photo.url}>
                         <AlbumCard photo={photo} />
                     </div>
-                    ))}
+                    ))
+                }
             </div>
 
             <ReactPaginate

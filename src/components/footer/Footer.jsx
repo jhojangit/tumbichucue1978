@@ -21,7 +21,7 @@ const Footer = () => {
 
 
 
-                <p className='footer__item'>
+                <div className='footer__item'>
                     <i className='bx bxs-phone-call footer__item--i'></i>
                     <br />
                     Contacto:
@@ -29,10 +29,10 @@ const Footer = () => {
                     <span className='footer__item--span'>
                         3107050713
                     </span>
-                    <hr />
-                </p>
+                    <div id="footer__line"></div>
+                </div>
 
-                <p className='footer__item'>
+                <div className='footer__item'>
                     <i className='bx bxs-envelope footer__item--i'></i>
                     <br />
                     Universidad del Cauca
@@ -40,10 +40,10 @@ const Footer = () => {
                     <span className='footer__item--span'>
                         dyon@unicauca.edu.co
                     </span>
-                    <hr />
-                </p>
+                    <div id="footer__line"></div>
+                </div>
 
-                <p className='footer__item'>
+                <div className='footer__item'>
                     <i
                         className='bx bxl-whatsapp bx-md bx-tada footer__item--i'>
                     </i>
@@ -58,8 +58,8 @@ const Footer = () => {
 
                     </a>
 
-                    <hr />
-                </p>
+                    <div id="footer__line"></div>
+                </div>
 
 
                 <div className='footer__facebook'>

@@ -56,6 +56,12 @@
     cursor: pointer;
 }
 
+#footer__line{
+    width: 100%;
+    background-color: aliceblue;
+    height: 1px;
+}
+
 
 
 @media(width > 690px){
