@@ -1,10 +1,13 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import './documental.css'
 import Video from '../../components/video/Video'
 import img1 from '/1video.png'
 import img2 from '/2video.png'
 
 const Documental = () => {
+    useEffect(() => {
+        window.scrollTo({ top: 0, behavior: "smooth" })
+    }, []);
     return (
         <section className='documental__container'>
 

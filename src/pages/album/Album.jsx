@@ -14,6 +14,7 @@ const Album = () => {
     const navigate = useNavigate()
 
 
+
     const photos = album.filter(element => element.categoryId == id)
     const category = categories.filter(element => element.id == id)
 
@@ -99,7 +100,7 @@ const Album = () => {
             <div
                 onClick={handelTop}
                 className={`album__top ${isScroll ? "album__top--visivility" : ""}`}>
-                <i class='bx bx-up-arrow-alt bx-md'></i>
+                <i className='bx bx-up-arrow-alt bx-md'></i>
             </div>
 
 

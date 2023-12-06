@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import './blogPage.css'
 import BlogImg from '../../components/blogIMG/BlogImg'
 import img1 from '/blog/Imagen1.jpg'
@@ -17,6 +17,9 @@ import img10 from '/blog/Imagen10.jpg'
 
 
 const BlogPage = () => {
+    useEffect(() => {
+        window.scrollTo({ top: 0, behavior: "smooth" })
+    }, []);
     return (
         <section className='blogPage__container'>
 
