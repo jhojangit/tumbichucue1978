@@ -10,30 +10,7 @@
     align-items: center;
 }
 
-#album__back{
-    font-size: 1.5rem;
-    top: 4rem;
-    left: 10px;
-    position: fixed;
-    width: 60px;
-    height: 40px;
-    background-color: rgb(221, 223, 224);
-    z-index: 3;
-    text-align: center;
-    border-radius: .5rem;
-    cursor: pointer;
-}
 
-#album__back::after{
-    content: "🔙";
-}
-
-#album__back:hover{
-    font-size: 1.6rem;
-    width: 65px;
-    height: 45px;
-    background-color: rgb(239, 243, 245);
-}
 
 .album__top{
     position: fixed;

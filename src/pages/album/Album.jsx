@@ -36,11 +36,6 @@ const Album = () => {
     };
 
 
-    const handleNavigate = () => {
-        navigate("/fotografia")
-    }
-
-
     useEffect(() => {
         window.scrollTo({ top: 0, behavior: "smooth" })
     }, []);
@@ -86,11 +81,7 @@ const Album = () => {
     return (
         <div className='album__container'>
 
-            <div
-                id='album__back'
-                onClick={handleNavigate}
-            >
-            </div>
+ 
 
             <h2 className='album__description--title' >{category[0].title}</h2>
 
