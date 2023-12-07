@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import './album.css'
-import { useNavigate, useParams } from 'react-router-dom'
+import {useParams } from 'react-router-dom'
 import album from '../../json/photos.json'
 import categories from '../../json/categories.json'
 import AlbumCard from '../../components/albumCard/AlbumCard'
@@ -11,7 +11,7 @@ import ReactPaginate from 'react-paginate';
 const Album = () => {
 
     const { id } = useParams()
-    const navigate = useNavigate()
+
 
 
 
@@ -81,7 +81,7 @@ const Album = () => {
     return (
         <div className='album__container'>
 
- 
+
 
             <h2 className='album__description--title' >{category[0].title}</h2>
 
