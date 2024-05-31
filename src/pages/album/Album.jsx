@@ -102,6 +102,7 @@ const Album = () => {
                 {currentItems &&
                     currentItems.map((photo) => (
                         <div key={photo.url}>
+                        {/* <div key={photo.url} style={{ border: "1px solid black", padding: "0.5rem", marginBottom:"1rem" }} > */}
                             <AlbumCard photo={photo} />
                         </div>
                     ))

@@ -18,7 +18,7 @@
 
 
 .blog__page--description{
-    font-size: .9rem;
+    font-size: .7rem;
     font-style: italic;
 }
 
@@ -27,5 +27,5 @@
 
 .blog__page--fuente::before{
     content: "Fuente: ";
-    font-weight: bold;
 }
+

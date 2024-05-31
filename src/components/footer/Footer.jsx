@@ -33,9 +33,10 @@ const Footer = () => {
                 </div>
 
                 <div className='footer__item'>
-                    <i className='bx bxs-envelope footer__item--i'></i>
+                    
+                    Realizado por Jhon Eddy Díaz
                     <br />
-                    Universidad del Cauca
+                    Estudiante de Historia de la Universidad del Cauca
                     <br />
                     <span className='footer__item--span'>
                         dyon@unicauca.edu.co
