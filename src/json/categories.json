@@ -83,12 +83,6 @@
         "description": "debe su nombre a su cacique, quien habitó esta región. En este sector, el conquistador Sebastián de Belalcázar fue derrotado por los Paeces en el famoso Peñón de Talaga."
     },
 
-    {
-        "id"  : 13,
-        "url" : "/categories/tumbichcue.jpg",
-        "title": "Resguardo de Tumbichcue",
-        "description": "Resguardo de Tumbichcue, fue constituido en 1978, antes fue territorio de vitonco y luego en 1905 paso a Lame, y en 1914 de Calderas"
-    },
 
     {
         "id"  : 14,
@@ -100,7 +94,7 @@
     {
         "id"  : 15,
         "url" : "/main.webp",
-        "title": "Gobernadores del resguardo de Tumbichucue",
+        "title": "Resguardo de Tumbichucue",
         "description": ""
     }
 ]

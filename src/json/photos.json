@@ -1,313 +1,370 @@
 [
     {
         "categoryId": 14,
+        "id": 1,
         "title": "Calles de timana 1936",
         "url": "/timana/Callesdetimana1936.jpg"
     },
 
     {
         "categoryId": 14,
+        "id": 2,
         "title": "La Cacería del venado por los Alemanes.",
         "url": "/timana/LaCaceríadelvenadoporlosAlemanes.jpg"
     },
 
     {
         "categoryId": 14,
+        "id": 3,
         "title": "La plaza de timana",
         "url": "/timana/laplazadetimana.jpg"
     },
 
     {
         "categoryId": 14,
+        "id": 4,
         "title": "Pericongo",
         "url": "/timana/pericongo.jpg"
     },
 
     {
         "categoryId": 14,
+        "id": 5,
         "title": "Plaza principal de Timana huil. donde hoy está la estatua de la Cacica Gaitana.",
         "url": "/timana/PlazaPrincipaldeTimanahuilaloquehoyestalaestatuadelaCacicaGaitana.jpg"
     },
 
     {
         "categoryId": 14,
+        "id": 6,
         "title": "Timana Huila, al fondo se ve la iglesia y la casa cural.",
         "url": "/timana/TimanaHuila,alfonosevelaiglesiaylacasacural.jpg"
     },
 
     {
-        "categoryId": 13,
+        "categoryId": 1,
+        "id": 7,
         "title": "Comunidad atrapando y rechazando.",
         "url": "/tumbichcueResguado/tumbichucueResguardo1.jpg"
     },
 
     {
-        "categoryId": 13,
+        "categoryId": 1,
+        "id": 8,
         "title": "Observando Arbol.",
         "url": "/tumbichcueResguado/tumbichucueResguardo2.jpg"
     },
 
     {
         "categoryId": 12,
+        "id": 9,
         "title": "Antes de llegar a Aransazu.",
         "url": "/talaga/Antes_de_llegar_a_Aransazu.jpg"
     },
 
     {
         "categoryId": 12,
+        "id": 10,
         "title": "Camino_de_la_plata_a_Belalcazar.",
         "url": "/talaga/Camino_de_la_plata_a_Belalcazar.jpg"
     },
 
     {
         "categoryId": 12,
+        "id": 11,
         "title": "Camino_nacional_de_la_plata_para_salir_a_Cuetando.",
         "url": "/talaga/Camino_nacional_de_la_plata_para_salir_a_Cuetando.jpg"
     },
 
     {
         "categoryId": 12,
+        "id": 12,
         "title": "camino_nacional.",
         "url": "/talaga/camino_nacional.jpg"
     },
 
     {
         "categoryId": 12,
+        "id": 13,
         "title": "Camino_real. Salida_desde_la_Plata_Huila_hacía_Tierradentro.",
         "url": "/talaga/Camino_real_Salida_desde_la_Plata_Huila_hacía_Tierradentro.jpg"
     },
 
     {
         "categoryId": 12,
+        "id": 14,
         "title": "casas_indigenas_en_medio_de_camino._estas_servían_en_algunos_casos_como_hospedajes_de_los_viajeros_o_para_arrieros.",
         "url": "/talaga/casas_indigenas_en_medio_de_camino_estas_servían_en_algunos_casos_como_hospedajes_de_los_viajeros_o_para_arrieros.jpg"
     },
 
     {
         "categoryId": 12,
+        "id": 15,
         "title": "casas_viejas_entre_aguacatico_y_guapio.",
         "url": "/talaga/casas_viejas_entre_aguacatico_y_guapio.jpg"
     },
 
     {
         "categoryId": 12,
+        "id": 16,
         "title": "centro_de_Talaga._Se puede_apreciar_detras_de_la_caza_cultivos_de_platano,_tal_vez_atras_este_la_huerta_cacera.",
         "url": "/talaga/centro_de_Talaga_se puede_apreciar_detras_de_la_caza_cultivos_de_platano_tal_vez_atras_este_la_huerta_cacera.jpg"
     },
 
     {
         "categoryId": 12,
+        "id": 17,
         "title": "Montañas_de_Tierradentro._Se_puede_apreciar_el_porqué_se_llamó_tierradentro.",
         "url": "/talaga/Copia_de_Montañas_de_Tierradentro_se_puede_apreciar_del_porque_se_llamó_tierradentro.jpg"
     },
 
     {
         "categoryId": 12,
+        "id": 18,
         "title": "cuerdas_de_alta_tención_de_energia.",
         "url": "/talaga/cuerdas_de_alta_tención_de_energia.jpg"
     },
 
     {
         "categoryId": 12,
+        "id": 19,
         "title": "Desde_tiempos_inmemoriales_algunas_zonas_de_pajonal,_sobre_todo_el_cañon_de_Rio_Paez.",
         "url": "/talaga/Desde_tiempos_inmemoriales_algunas_zonas_de_pajonal_sobre_todo_todo_el_cañon_de_Rio_Paez.jpg"
     },
     {
         "categoryId": 12,
+        "id": 20,
         "title": "El_caballo_con_la_carga_del_zorron._Este_servía_para_multicidad_de_cosas,_como_para_llevar_agua,_vino,_chicha,_comida_y_entre_otras.",
         "url": "/talaga/El_caballo_con_la_carga_del_zorron_este_servía_para_multicidad_de_cosas_como_para_llevar_agua_vino_chicha_comida_y_entre_otras.jpg"
     },
     {
         "categoryId": 12,
+        "id": 21,
         "title": "el_hato_de_minas_y_la_crianza_de_ganado.",
         "url": "/talaga/el_hato_de_minas_y_la_crianza_de_ganado.jpg"
     },
     {
         "categoryId": 12,
+        "id": 22,
         "title": "el_indigena_con_la_practica_de_curar_las_heridas_de_las_vacas.",
         "url": "/talaga/el_indigena_con_la_practica_de_curar_las_heridas_de_las_vacas.jpg"
     },
     {
         "categoryId": 12,
+        "id": 23,
         "title": "El_peñol_de_Fraile_sobre_rio_paez.",
         "url": "/talaga/El_peñol_de_Fraile_sobre_rio_paez.jpg"
     },
     {
         "categoryId": 12,
+        "id": 24,
         "title": "El_río_Paez,_la_que_va_caer_a_Magdalena.",
         "url": "/talaga/El_río_Paez_la_que_va_caer_a_Magdalena.jpg"
     },
     {
         "categoryId": 12,
+        "id": 25,
         "title": "entrada_a_belalcazar.",
         "url": "/talaga/entrada_a_belalcazar.jpg"
     },
     {
         "categoryId": 12,
+        "id": 26,
         "title": "entrada_y_elaboración_de_cercas_de_un_lado_y_otro.",
         "url": "/talaga/entrada_y_elaboración_de_cercas_de_un_lado_y_otro.jpg"
     },
     {
         "categoryId": 12,
+        "id": 27,
         "title": "Expedinarios_Alemanes.",
         "url": "/talaga/Expedinarios_Alemanes.jpg"
     },
     {
         "categoryId": 12,
+        "id": 28,
         "title": "Iglesia_San_Abosta_de_Talaga_1635-1645.",
         "url": "/talaga/Iglesia_San_Abosta_de_Talaga_1635-1645.jpg"
     },
     {
         "categoryId": 12,
+        "id": 29,
         "title": "La_iglesia_de_Talaga, hecho con tapia, techo de paja y pintado con colores naturales de la región.",
         "url": "/talaga/La_iglesia_de_Talaga, hecho con tapia, techo de paja y pintado con colores naturales de la región..jpg"
     },
     {
         "categoryId": 12,
+        "id": 30,
         "title": "La_mirada_fija_del_Indígena_paéz_y_la_raza_de_la_vaca_común.",
         "url": "/talaga/La_mirada_fija_del_Indígena_paéz_y_la_raza_de_la_vaca_común.jpg"
     },
     {
         "categoryId": 12,
+        "id": 31,
         "title": "la_utilización_de_la_jama_para_capturar_los_incetos._Se_puede_decir_que_las_intenciones_eran_mucho_mas_allá.",
         "url": "/talaga/la_utilización_de_la_jama_para_capturar_los_incetos_se_puede_decir_que_las_intenciones_eran_mucho_mas_alla.jpg"
     },
     {
         "categoryId": 12,
+        "id": 32,
         "title": "la_virginia_antes_de_llegar_a_puente_de_simbola_al_fondo_la finca_de_minas,_la_que_fue_colegio_menor_de_seminario_indigena_de_paez.",
         "url": "/talaga/la_virginia_antes_de_llegar_a_puente_de_simbola_alfon_finca_de_minas_la_que_fue_colegio_menor_de_seminario_indigena_de_paez.jpg"
     },
     {
         "categoryId": 12,
+        "id": 33,
         "title": "La_misma_iglesia_de_Tálaga_y_al_lado_la_casa_cural.",
         "url": "/talaga/Las_misma_iglesia_de_Tálaga_y_al_lado_la_casa_cural.jpg"
     },
     {
         "categoryId": 12,
+        "id": 34,
         "title": "Las_niñas_nasas_sorprendidas_de_la_camara_y_de_las_personas.",
         "url": "/talaga/Las_niñas_nasas_sorprendidos_de_la_camara_y_de_las_personas.jpg"
     },
     {
         "categoryId": 12,
+        "id": 35,
         "title": "llegada_al_Resguardo_de_talaga_sobre_piedra_grande._Algunos_nasas_posando_para_la_fotografía.",
         "url": "/talaga/llegada_al_Resguardo_de_talaga_sobre_piedra_grande_alguno_nasas_posando_para_la_fotografía.jpg"
     },
     {
         "categoryId": 12,
+        "id": 36,
         "title": "los_alemanes_con_la_mula_y_la_carga_encima.",
         "url": "/talaga/los_alemanes_con_la_mula_y_la_carga_encima.jpg"
     },
     {
         "categoryId": 12,
+        "id": 37,
         "title": "Lugar_desconocido.",
         "url": "/talaga/Lugar_desconocido.jpg"
     },
     {
         "categoryId": 12,
+        "id": 38,
         "title": "Montañas_de_Tierradentro._Se_puede_apreciar_del_porqué_se_llamó_tierradentro.",
         "url": "/talaga/Montañas_de_Tierradentro_se_puede_apreciar_del_porque_se_llamó_tierradentro.jpg"
     },
     {
         "categoryId": 12,
+        "id": 39,
         "title": "Planada_de_la_balsa_saliendo_de_la_Plata.",
         "url": "/talaga/Planada_de_la_balsa_saliendo_de_la_plata.jpg"
     },
     {
         "categoryId": 12,
+        "id": 40,
         "title": "Planas_de_Balsa.",
         "url": "/talaga/Planas_de_Balsa.jpg"
     },
     {
         "categoryId": 12,
+        "id": 41,
         "title": "iglesia_de_talaga.",
         "url": "/talaga/por_otra_vista_iglesia_de_talaga.jpg"
     },
     {
         "categoryId": 12,
+        "id": 42,
         "title": "Puente_del_rio_Simbola_para_pasar_a_Talaga.",
         "url": "/talaga/Puente_del_rio_Simbola_para_pasar_a_Talaga.jpg"
     },
     {
         "categoryId": 12,
+        "id": 43,
         "title": "Puente_nacional_que_cunduce_para_Tierradentro_desde_la_plata.",
         "url": "/talaga/Puente_nacional_que_cunduce_para_Tierradentro_desde_la_plata.jpg"
     },
     {
         "categoryId": 12,
+        "id": 44,
         "title": "Ramadas_o_lugares_de_descanso.",
         "url": "/talaga/Ramadas_o_lugares_de_descanso.jpg"
     },
     {
         "categoryId": 12,
+        "id": 45,
         "title": "Rio_paez_sobre_lo_que_hoy_es_Aransazu.",
         "url": "/talaga/Rio_paez_sobre_lo_que_hoy_es_Aransazu.jpg"
     },
     {
         "categoryId": 12,
+        "id": 46,
         "title": "se_puede_apreciar_la_curva_de_Amerito,_además_los_alemanes_no_tenían_una_sola_cámara_como_se_puede_apreciar.",
         "url": "/talaga/se_puede_apreciar_la_curva_de_Amerito_además_los_alemanes_no_tenían_una_sola_camara_como_se_puede_apreciar.jpg"
     },
     {
         "categoryId": 12,
+        "id": 47,
         "title": "sector_de_Paez,_llegando_a quebrada_de_minas.",
         "url": "/talaga/sector_de_Paez_llegando_quebrada_de_minas.jpg"
     },
     {
         "categoryId": 12,
+        "id": 48,
         "title": "Vista_la_hacienda_de_Itaibe,_Lugar_donde_los_Nasas_fueron_derrotados_por_los_españoles,_por_traición_de_algunos_indigenas_de_la_misma_tribu.",
         "url": "/talaga/Vista_la_hacienda_de_Itaibe_Lugar_donde_los_Nasas_fueron_derrotados_por_los_españoles_por_traición_de_algunos_indigenas_de_la_misma_tribu.jpg"
     },
 
     {
         "categoryId": 11,
+        "id": 49,
         "title": "Capilla_resguardo_de_San_Andres.",
         "url": "/pisimbala/Capilla_resguardo_de_San_Andres.jpg"
     },
 
     {
         "categoryId": 11,
+        "id": 50,
         "title": "Dia_de_fiesta_y_celebracion_de_cabalgata_vemos_una_mujer_y_su_hijo_en_la_espalda_y_acompañado_por_un_hombre.",
         "url": "/pisimbala/Dia_de_fiesta_y_celebracion_de_cabalgata_vemos_una_mujer_y_su_hijo_en_la_espalda_y_acompañado_por_un_hombre.jpg"
     },
 
     {
         "categoryId": 11,
+        "id": 51,
         "title": "Fiesta_de_San_Andres.",
         "url": "/pisimbala/Fiesta_de_San_Andres.jpg"
     },
 
     {
         "categoryId": 11,
+        "id": 52,
         "title": "Forma_de_vivir_de_vestir_y_la_practica_de_la_puchiganga.",
         "url": "/pisimbala/Forma_de_vivir_de_vestir_y_la_practica_de_la_puchiganga.jpg"
     },
 
     {
         "categoryId": 11,
+        "id": 53,
         "title": "Hilada_de_la_mujer_Nasa.",
         "url": "/pisimbala/Hilada_de_la_mujer_Nasa.jpg"
     },
 
     {
         "categoryId": 11,
+        "id": 54,
         "title": "Las_mujeres_nasas_con_la_practica_de_las_jigras_de_cabuya.",
         "url": "/pisimbala/Las_mujeres_nasas_con_la_practica_de_las_jigras_de_cabuya.jpg"
     },
 
     {
         "categoryId": 11,
+        "id": 55,
         "title": "práctica_religiosa_de_la_comunidad_nasa_la_botada_de_la_cruz_despues_de_la_muerte_este_evento_se_realiza_despues_de_una_semana.",
         "url": "/pisimbala/práctica_religiosa_de_la_comunidad_nasa_la_botada_de_la_cruz_despues_de_la_muerte_este_evento_se_realiza_despues_de_una_semana.jpg"
     },
 
     {
         "categoryId": 11,
+        "id": 56,
         "title": "san_andres_actual_y_al_fondo_La_iglesia.",
         "url": "/pisimbala/san_andres_actual_y_al_fondo_La_iglesia.jpg"
     },
 
     {
         "categoryId": 10,
+        "id": 57,
         "title": "Mosoco_1994.",
         "url": "/mosoco/Mosoco_1994.jpg"
     },
@@ -315,12 +372,14 @@
     
     {
         "categoryId": 10,
+        "id": 58,
         "title": "el_cuidado_y_el_trabajo_del_la_mujer_nasa.",
         "url": "/mosoco/el_cuidado_y_el_trabajo_del_la_mujer_nasa.jpg"
     },
 
     {
         "categoryId": 10,
+        "id": 59,
         "title": "Estanco_resguardo_de_Mosoco.",
         "url": "/mosoco/Estanco_resguardo_de_Mosoco.jpg"
     },
@@ -328,6 +387,7 @@
     
     {
         "categoryId": 10,
+        "id": 60,
         "title": "forma_de_vida_de_la_mujer_nasa_y_con_sus_hijos_como_enseñanza_del_diario_vivir.",
         "url": "/mosoco/forma_de_vida_de_la_mujer_nasa_y_con_sus_hijos_como_enseñanza_del_diario_vivir.jpg"
     },
@@ -335,72 +395,84 @@
 
     {
         "categoryId": 10,
+        "id": 61,
         "title": "mujer_nasa_con_su_hija_hilando_lana.",
         "url": "/mosoco/mujer_nasa_con_su_hija_hilando_lana.jpg"
     },
 
     {
         "categoryId": 9,
+        "id": 62,
         "title": "Capilla_resguardo_de_Lame.",
         "url": "/lame/Capilla_resguardo_de_Lame.jpg"
     },
 
     {
         "categoryId": 9,
+        "id": 63,
         "title": "La_mujer_nasa_Hilando_Lana.",
         "url": "/lame/La_mujer_nasa_Hilando_Lana.jpg"
     },
 
     {
         "categoryId": 9,
+        "id": 64,
         "title": "Mujeres_nasa.",
         "url": "/lame/Mujeres_nasa.jpg"
     },
 
     {
         "categoryId": 8,
+        "id": 65,
         "title": "Aleman_montado_su_caballo.",
         "url": "/paez/Aleman_montado_su_caballo.jpg"
     },
 
     {
         "categoryId": 8,
+        "id": 66,
         "title": "Casa _Familiar_resguardo_de_Cuetando.",
         "url": "/paez/Casa _Familiar_resguardo_de_Cuetando.jpg"
     },
 
     {
         "categoryId": 8,
+        "id": 67,
         "title": "Casa_Familiar_Cuetando_(1).",
         "url": "/paez/Casa_Familiar_Cuetando_(1).jpg"
     },
 
     {
         "categoryId": 8,
+        "id": 68,
         "title": "Casa_familiar_Cuetando_(2).",
         "url": "/paez/Casa_familiar_Cuetando_(2).jpg"
     },
 
     {
         "categoryId": 8,
+        "id": 69,
         "title": "Casa_Familiar_cuetando.",
         "url": "/paez/Casa_Familiar_cuetando.jpg"
     },
 
     {
         "categoryId": 8,
+        "id": 70,
         "title": "Casas_del_Resguardo_de_Cuetando.",
         "url": "/paez/Casas_del_Resguardo_de_Cuetando.jpg"
     },
 
     {
         "categoryId": 8,
+        "id": 71,
         "title": "Compañeros_de_Martin_Horst.",
         "url": "/paez/Compañeros_de_Martin_Horst.jpg"
     },
 
     {
         "categoryId": 8,
+        "id": 72,
         "title": "Cuetando_salida_para_Belelcazar.",
         "url": "/paez/Cuetando_salida_para_Belelcazar.jpg"
     },
@@ -408,24 +480,28 @@
 
     {
         "categoryId": 8,
+        "id": 73,
         "title": "Puente_de_Cuetando_para_Cruzar_al_otro_lado_hecho_con_materiales_de_Guadua.",
         "url": "/paez/Puente_de_Cuetando_para_Cruzar_al_otro_lado_hecho_con_materiales_de_Guadua.jpg"
     },
 
     {
         "categoryId": 8,
+        "id": 74,
         "title": "Resguardo_de_Cuetando_calle_y_lugar_donde_paso_la_navidad_el_padre_de_la_patria_y_el_único_presidente_en_el_año_1823.",
         "url": "/paez/Resguardo_de_Cuetando_calle_y_lugar_donde_paso_la_navidad_el_padre_de_la_patria_y_el_único_presidente_en_el_año_1823.jpg"
     },
 
     {
         "categoryId": 8,
+        "id": 75,
         "title": "Resguardo_de_Cuetando_entrada_de_los_Expedicionarios_sobre_región_de_Terradentro.",
         "url": "/paez/Resguardo_de_Cuetando_entrada_de_los_Expedicionarios_sobre_región_de_Terradentro.jpg"
     },
 
     {
         "categoryId": 7,
+        "id": 76,
         "title": "Mujer_e_infante.",
         "url": "/calderas/Mujer_e_infante.jpg"
     },
@@ -433,204 +509,238 @@
     
     {
         "categoryId": 7,
+        "id": 77,
         "title": "Trabajando_en_tierra.",
         "url": "/calderas/Trabajando_en_tierra.jpg"
     },
 
     {
         "categoryId": 7,
+        "id": 78,
         "title": "Mujer_Hilando.",
         "url": "/calderas/Mujer_Hilando.jpg"
     },
 
     {
         "categoryId": 6,
+        "id": 79,
         "title": "A_la_misma_niña_podemos_ver_como_en_su_brazo_lleva_la_puchicanga_el_tejido_de_lana_para_elaboracion_de_sus_trajes.",
         "url": "/vitonco/A_la_misma_niña_podemos_ver_como_en_su_brazo_lleva_la_puchicanga_el_tejido_de_lana_para_elaboracion_de_sus_trajes.jpg"
     },
 
     {
         "categoryId": 6,
+        "id": 80,
         "title": "Aqui_se_puede_apreciar_como_el_lugar_esta_sobre_casi_entre_las_montañas.",
         "url": "/vitonco/Aqui_se_puede_apreciar_como_el_lugar_esta_sobre_casi_entre_las_montañas.jpg"
     },
 
     {
         "categoryId": 6,
+        "id": 81,
         "title": "Calle_de_vitonco_centro.",
         "url": "/vitonco/Calle_de_vitonco_centro.jpg"
     },
 
     {
         "categoryId": 6,
+        "id": 82,
         "title": "Calles_de_Vitonco.",
         "url": "/vitonco/Calles_de_Vitonco.jpg"
     },
 
     {
         "categoryId": 6,
+        "id": 83,
         "title": "Camino_de_herradura_y_tipo_de_cerca_al_lado_del_camino.",
         "url": "/vitonco/Camino_de_herradura_y_tipo_de_cerca_al_lado_del_camino.jpg"
     },
 
     {
         "categoryId": 6,
+        "id": 84,
         "title": "Camino_que_cunduce_para_Resguardo_de_Lame_o_para_Mososco.",
         "url": "/vitonco/Camino_que_cunduce_para_Resguardo_de_Lame_o_para_Mososco.jpg"
     },
 
     {
         "categoryId": 6,
+        "id": 85,
         "title": "Cargada_de_la_leña_de_una_mujer_nasa_y_atras_una_niña.",
         "url": "/vitonco/Cargada_de_la_leña_de_una_mujer_nasa_y_atras_una_niña.jpg"
     },
 
     {
         "categoryId": 6,
+        "id": 86,
         "title": "casa_familiar.",
         "url": "/vitonco/casa_familiar.jpg"
     },
 
     {
         "categoryId": 6,
+        "id": 87,
         "title": "casa_nasa_al_fondo_la_cordillera_central.",
         "url": "/vitonco/casa_nasa_al_fondo_la_cordillera_central.jpg"
     },
 
     {
         "categoryId": 6,
+        "id": 88,
         "title": "Casas_familiares_donde_vivían_minimo_4_a_6_personas.",
         "url": "/vitonco/Casas_familiares_donde_vivían_minimo_4_a_6_personas.jpg"
     },
 
     {
         "categoryId": 6,
+        "id": 89,
         "title": "cetro_del_Resguardo_de_vitonco_fundada_en_1640.",
         "url": "/vitonco/cetro_del_Resguardo_de_vitonco_fundada_en_1640.jpg"
     },
 
     {
         "categoryId": 6,
+        "id": 90,
         "title": "documento.",
         "url": "/vitonco/documento.jpg"
     },
 
     {
         "categoryId": 6,
+        "id": 91,
         "title": "En_esta_fotogrfía_podemos_apreciar_las_diferencias_de_vestido_entre_el_indigena_y_los_alemanes.",
         "url": "/vitonco/En_esta_fotogrfía_podemos_apreciar_las_diferencias_de_vestido_entre_el_indigena_y_los_alemanes.jpg"
     },
 
     {
         "categoryId": 6,
+        "id": 92,
         "title": "Encuentro_de_un_indígena_con_el_Aleman_Martin_Horst_además_como_el_indigena_lleva_la_caña_cargando_en_su_espalda.",
         "url": "/vitonco/Encuentro_de_un_indígena_con_el_Aleman_Martin_Horst_además_como_el_indigena_lleva_la_caña_cargando_en_su_espalda.jpg"
     },
 
     {
         "categoryId": 6,
+        "id": 93,
         "title": "estructuras_de_las_casas_de_tapia_y_uso_de_las_materias_como_ojas_de_caña_y_tierra.",
         "url": "/vitonco/estructuras_de_las_casas_de_tapia_y_uso_de_las_materias_como_ojas_de_caña_y_tierra.jpg"
     },
 
     {
         "categoryId": 6,
+        "id": 94,
         "title": "Formas_de_vestir_de_la_mujer_nasa.",
         "url": "/vitonco/Formas_de_vestir_de_la_mujer_nasa.jpg"
     },
 
     {
         "categoryId": 6,
+        "id": 95,
         "title": "Hombres_en_armas.",
         "url": "/vitonco/Hombres_en_armas.jpg"
     },
 
     {
         "categoryId": 6,
+        "id": 96,
         "title": "La_casa_Nasa_fue_un_lugar_donde_tenía_la_tulpa_en_la_noche_dormían_al_redero_del_fogon_para_no_aguantar_del_frio.",
         "url": "/vitonco/La_casa_Nasa_fue_un_lugar_donde_tenía_la_tulpa_en_la_noche_dormían_al_redero_del_fogon_para_no_aguantar_del_frio.jpg"
     },
 
     {
         "categoryId": 6,
+        "id": 97,
         "title": "la_mujer_nasa_llegando_de_ir_a_dar_de_comer_al_esposo_y_de_regreso_trayendo_leña_para_la_cena.",
         "url": "/vitonco/la_mujer_nasa_llegando_de_ir_a_dar_de_comer_al_esposo_y_de_regreso_trayendo_leña_para_la_cena.jpg"
     },
 
     {
         "categoryId": 6,
+        "id": 98,
         "title": "La_niña_Nasa_cargando_en_la_espalda_a_su_hermano_podemos_apreciar_el_vestido_y_el_uso_del_chumbe_de_la_niña.",
         "url": "/vitonco/La_niña_Nasa_cargando_en_la_espalda_a_su_hermano_podemos_apreciar_el_vestido_y_el_uso_del_chumbe_de_la_niña.jpg"
     },
 
     {
         "categoryId": 6,
+        "id": 99,
         "title": "Los_alemanes_en_la_Tienda.",
         "url": "/vitonco/Los_alemanes_en_la_Tienda.jpg"
     },
 
     {
         "categoryId": 6,
+        "id": 100,
         "title": "mapa_paez_indians.",
         "url": "/vitonco/mapa_paez_indians.jpg"
     },
 
     {
         "categoryId": 6,
+        "id": 101,
         "title": "Martin_Horst_posandose_para_la_fotogrfía_alfondo_Nevado_del_Huila.",
         "url": "/vitonco/Martin_Horst_posandose_para_la_fotogrfía_alfondo_Nevado_del_Huila.jpg"
     },
 
     {
         "categoryId": 6,
+        "id": 102,
         "title": "Niños_de_vitonco_y_su_forma_de_vestir_al_fondo_las_montañas_de_Tumbichcue.",
         "url": "/vitonco/Niños_de_vitonco_y_su_forma_de_vestir_al_fondo_las_montañas_de_Tumbichcue.jpg"
     },
 
     {
         "categoryId": 6,
+        "id": 103,
         "title": "SE_DIC~1.",
         "url": "/vitonco/SE_DIC~1.JPG"
     },
 
     {
         "categoryId": 6,
+        "id": 104,
         "title": "Sobre_camino_de_herradura_camino_que_va_de_Páez_a_silvia.",
         "url": "/vitonco/Sobre_camino_de_herradura_camino_que_va_de_Páez_a_silvia.jpg"
     },
 
     {
         "categoryId": 6,
+        "id": 105,
         "title": "Subida_de_las_mulas_sobre_la_vereda_de_Taravira.",
         "url": "/vitonco/Subida_de_las_mulas_sobre_la_vereda_de_Taravira.jpg"
     },
 
     {
         "categoryId": 6,
+        "id": 106,
         "title": "territorio_de_Vitonco.",
         "url": "/vitonco/territorio_de_Vitonco.jpg"
     },
 
     {
         "categoryId": 6,
+        "id": 107,
         "title": "Tienda_del_resguardo_de_Vitonco.",
         "url": "/vitonco/Tienda_del_resguardo_de_Vitonco.jpg"
     },
 
     {
         "categoryId": 6,
+        "id": 108,
         "title": "trapiche_de_moler_caña.",
         "url": "/vitonco/trapiche_de_moler_caña.jpg"
     },
 
     {
         "categoryId": 6,
+        "id": 109,
         "title": "visita_resguardo_de_Suin.",
         "url": "/vitonco/visita_resguardo_de_Suin.jpg"
     },
 
     {
         "categoryId": 5,
+        "id": 110,
         "title": "Aqui_podemos_apreciar_al_fondo_la_iglesia_de_la_plata_huila_y_lo_que_hoy_es_Parque_Principal_antes_tenía_prado.",
         "url": "/plata/Aqui_podemos_apreciar_al_fondo_la_iglesia_de_la_plata_huila_y_lo_que_hoy_es_Parque_Principal_antes_tenía_prado.jpg"
     },
@@ -638,6 +748,7 @@
 
     {
         "categoryId": 5,
+        "id": 111,
         "title": "CAMINO~1.",
         "url": "/plata/CAMINO~1.JPG"
     },
@@ -645,209 +756,248 @@
 
     {
         "categoryId": 5,
+        "id": 112,
         "title": "Celebración_de_la_vía_que_cunducía_de_la_Plata_pasando_por_Belalcazar_Páez_que_iba_dar_a_Santander_de_Quilichau_1979.",
         "url": "/plata/Celebración_de_la_vía_que_cunducía_de_la_Plata_pasando_por_Belalcazar_Páez_que_iba_dar_a_Santander_de_Quilichau_1979.jpg"
     },
 
     {
         "categoryId": 5,
+        "id": 113,
         "title": "estudiantes_de_la_Plata_1935.",
         "url": "/plata/estudiantes_de_la_Plata_1935.jpg"
     },
 
     {
         "categoryId": 5,
+        "id": 114,
         "title": "Estudiantes_y_algunas_madres_de_familia_en_la_Plata_Huila.",
         "url": "/plata/Estudiantes_y_algunas_madres_de_familia_en_la_Plata_Huila.jpg"
     },
 
     {
         "categoryId": 5,
+        "id": 115,
         "title": "La_iglesia_de_la_Plata_y_atrás_la_montaña_que_encierra_la_ciudad.",
         "url": "/plata/La_iglesia_de_la_Plata_y_atrás_la_montaña_que_encierra_la_ciudad.jpg"
     },
 
     {
         "categoryId": 5,
+        "id": 116,
         "title": "Llegada_de_los_expedicionarios_alemanes_a_la_plata_huila.",
         "url": "/plata/Llegada_de_los_expedicionarios_alemanes_a_la_plata_huila.jpg"
     },
 
     {
         "categoryId": 5,
+        "id": 117,
         "title": "niños_de_la_plata_Huila_en_el_año_1935.",
         "url": "/plata/niños_de_la_plata_Huila_en_el_año_1935.jpg"
     },
 
     {
         "categoryId": 5,
+        "id": 118,
         "title": "San_sebastían_de_la_plata_1935_salida_para_Bogota.",
         "url": "/plata/San_sebastían_de_la_plata_1935_salida_para_Bogota.jpg"
     },
 
     {
         "categoryId": 5,
+        "id": 119,
         "title": "Un_niño_en_la_calle_de_la_plata_con_su_basija_de_barro.",
         "url": "/plata/Un_niño_en_la_calle_de_la_plata_con_su_basija_de_barro.jpg"
     },
 
     {
         "categoryId": 5,
+        "id": 120,
         "title": "Una_mujer_y_un_niño_en_los_años_30_en_la_plata_además_podemos_apreciar_la_forma_de_vestir_y_los_pisos_de_la_casa.",
         "url": "/plata/Una_mujer_y_un_niño_en_los_años_30_en_la_plata_además_podemos_apreciar_la_forma_de_vestir_y_los_pisos_de_la_casa.jpg"
     },
 
     {
         "categoryId": 4,
+        "id": 121,
         "title": "la_primera_toma_guerrillera_en_colombia_en_la_base_de_inza_frente_a_la_iglesia_amo_jesus_de_guanacas.",
         "url": "/inza/la_primera_toma_guerrillera_en_colombia_en_la_base_de_inza_frente_a_la_iglesia_amo_jesus_de_guanacas.jpg"
     },
     
     {
         "categoryId": 4,
+        "id": 122,
         "title": "mujer_nasa_en_plaza_de_mercado_aun_la_casa_existe_la_casa_fue_comprada_en_el_año_2005_por_resguardo_de_Tumbichucue.",
         "url": "/inza/mujer_nasa_en_plaza_de_mercado_aun_la_casa_existe_la_casa_fue_comprada_en_el_año_2005_por_resguardo_de_Tumbichucue.jpg"
     },
 
     {
         "categoryId": 3,
+        "id": 123,
         "title": "belalaczar_moderna.",
         "url": "/belalcazar/belalaczar_moderna.jpg"
     },
     {
         "categoryId": 3,
+        "id": 124,
         "title": "belalcazar.",
         "url": "/belalcazar/belalcazar.jpg"
     },
     {
         "categoryId": 3,
+        "id": 125,
         "title": "bendicion_de_la_imagen_de_san_vicente_de_paul_mos_Enrique_vallejo_padre_Gonzalo_reyes.",
         "url": "/belalcazar/bendicion_de_la_imagen_de_san_vicente_de_paul_mos_Enrique_vallejo_padre_Gonzalo_reyes.jpg"
     },
     {
         "categoryId": 3,
+        "id": 126,
         "title": "Capilla.",
         "url": "/belalcazar/Capilla.jpg"
     },
     {
         "categoryId": 3,
+        "id": 127,
         "title": "carta_de_reclamación_porque_no_eran_adecuados_para_las_niñas.",
         "url": "/belalcazar/carta_de_reclamación_porque_no_eran_adecuados_para_las_niñas.jpg"
     },
     {
         "categoryId": 3,
+        "id": 128,
         "title": "carta.",
         "url": "/belalcazar/carta.jpg"
     },
     {
         "categoryId": 3,
+        "id": 129,
         "title": "Comunidad_de_mujeres_2.",
         "url": "/belalcazar/Comunidad_de_mujeres_2.jpg"
     },
     {
         "categoryId": 3,
+        "id": 130,
         "title": "Comunidad_de_mujeres.",
         "url": "/belalcazar/Comunidad_de_mujeres.jpg"
     },
     {
         "categoryId": 3,
+        "id": 131,
         "title": "Comunidad_de_mujeres2.",
         "url": "/belalcazar/Comunidad_de_mujeres2.jpg"
     },
     {
         "categoryId": 3,
+        "id": 132,
         "title": "Comunidad_reunida.",
         "url": "/belalcazar/Comunidad_reunida.jpg"
     },
     {
         "categoryId": 3,
+        "id": 133,
         "title": "convento.",
         "url": "/belalcazar/convento.jpg"
     },
     {
         "categoryId": 3,
+        "id": 134,
         "title": "belalaczar_moderna.",
         "url": "/belalcazar/belalaczar_moderna.jpg"
     },
     {
         "categoryId": 3,
+        "id": 135,
         "title": "creacion_de_la_casa_cural_al_lado_de_la_iglesia_de_bellacazar.",
         "url": "/belalcazar/creacion_de_la_casa_cural_al_lado_de_la_iglesia_de_bellacazar.jpg"
     },
     {
         "categoryId": 3,
+        "id": 136,
         "title": "DESFILE_DE_ESTUDIANTES_DE_BELALCAZAR.",
         "url": "/belalcazar/DESFILE_DE_ESTUDIANTES_DE_BELALCAZAR.jpg"
     },
     {
         "categoryId": 3,
+        "id": 137,
         "title": "el_arbol_de_saman_se_cree_que_ya_tiene_25_años_de_sembrado_agunos_cabildos_de_comunidad_de_avirama.",
         "url": "/belalcazar/el_arbol_de_saman_se_cree_que_ya_tiene_25_años_de_sembrado_agunos_cabildos_de_comunidad_de_avirama.jpg"
     },
     {
         "categoryId": 3,
+        "id": 138,
         "title": "el_negro_pablo_emilio_lemus_valencia.",
         "url": "/belalcazar/el_negro_pablo_emilio_lemus_valencia.jpg"
     },
     {
         "categoryId": 3,
+        "id": 139,
         "title": "en_2015.",
         "url": "/belalcazar/en_2015.jpg"
     },
     {
         "categoryId": 3,
+        "id": 140,
         "title": "En_esta_fotografia_se_aprecia_niñas_negritas_que_llegaron_en_la_colonia_ppara_trabajar_en_minas_de_sal.",
         "url": "/belalcazar/En_esta_fotografia_se_aprecia_niñas_negritas_que_llegaron_en_la_colonia_ppara_trabajar_en_minas_de_sal.jpg"
     },
     {
         "categoryId": 3,
+        "id": 141,
         "title": "en_los_años_50.",
         "url": "/belalcazar/en_los_años_50.jpg"
     },
     {
         "categoryId": 3,
+        "id": 142,
         "title": "estudiantes_de_la_norma_superiror_de_monseñor_enrrique_vallejo_de_Tierradentro.",
         "url": "/belalcazar/estudiantes_de_la_norma_superiror_de_monseñor_enrrique_vallejo_de_Tierradentro.jpg"
     },
     {
         "categoryId": 3,
+        "id": 143,
         "title": "estudiantes_normal_superior_paez.",
         "url": "/belalcazar/estudiantes_normal_superior_paez.jpg"
     },
     {
         "categoryId": 3,
+        "id": 144,
         "title": "grupo_de_estudiantes_mujeres.",
         "url": "/belalcazar/grupo_de_estudiantes_mujeres.jpg"
     },
     {
         "categoryId": 3,
+        "id": 145,
         "title": "Grupo_musical_geremias_perdomo.",
         "url": "/belalcazar/Grupo_musical_geremias_perdomo.jpg"
     },
     {
         "categoryId": 3,
+        "id": 146,
         "title": "iglesia_de_Belalcazar.",
         "url": "/belalcazar/iglesia_de_Belalcazar.jpg"
     },
     {
         "categoryId": 3,
+        "id": 147,
         "title": "Iglesia.",
         "url": "/belalcazar/Iglesia.jpg"
     },
     {
         "categoryId": 3,
+        "id": 148,
         "title": "Iglesia(1).",
         "url": "/belalcazar/Iglesia(1).jpg"
     },
     
     {
         "categoryId": 3,
+        "id": 149,
         "title": "interiro_de_la_Belalcazar.",
         "url": "/belalcazar/interiro_de_la_Belalcazar.jpg"
     },
 
     {
         "categoryId": 3,
+        "id": 150,
         "title": "intruducción_del_documento.",
         "url": "/belalcazar/intruducción_del_documento.jpg"
     },
@@ -855,6 +1005,7 @@
 
     {
         "categoryId": 3,
+        "id": 151,
         "title": "la_carta_enviada_para_que_mandaran_todo_lo_necesario_para_enseñanza_de_los_estudiantes.",
         "url": "/belalcazar/la_carta_enviada_para_que_mandaran_todo_lo_necesario_para_enseñanza_de_los_estudiantes.jpg"
     },
@@ -862,48 +1013,56 @@
 
     {
         "categoryId": 3,
+        "id": 152,
         "title": "monjas_de_la_escuela_normal_superior_1953..",
         "url": "/belalcazar/monjas_de_la_escuela_normal_superior_1953..jpg"
     },
 
     {
         "categoryId": 3,
+        "id": 153,
         "title": "Mujeres_Arrodilladas.",
         "url": "/belalcazar/Mujeres_Arrodilladas.jpg"
     },
 
     {
         "categoryId": 3,
+        "id": 154,
         "title": "Iglesia.",
         "url": "/belalcazar/Iglesia.jpg"
     },
 
     {
         "categoryId": 3,
+        "id": 155,
         "title": "mujeres_posando_sobre_la_iglesia_recien_cunstruida_amediados_de_los_años_30.",
         "url": "/belalcazar/mujeres_posando_sobre_la_iglesia_recien_cunstruida_amediados_de_los_años_30.jpg"
     },
 
     {
         "categoryId": 3,
+        "id": 156,
         "title": "Mujeres.",
         "url": "/belalcazar/Mujeres.jpg"
     },
 
     {
         "categoryId": 3,
+        "id": 157,
         "title": "Mujeres2.",
         "url": "/belalcazar/Mujeres2.jpg"
     },
 
     {
         "categoryId": 3,
+        "id": 158,
         "title": "nombre_del_documento.",
         "url": "/belalcazar/nombre_del_documento.jpg"
     },
 
     {
         "categoryId": 3,
+        "id": 159,
         "title": "obra_en_construccion.",
         "url": "/belalcazar/obra_en_construccion.jpg"
     },
@@ -911,149 +1070,175 @@
 
     {
         "categoryId": 3,
+        "id": 160,
         "title": "padre_y_las_niñas_de_la_normal.",
         "url": "/belalcazar/padre_y_las_niñas_de_la_normal.jpg"
     },
     {
         "categoryId": 3,
+        "id": 161,
         "title": "practica_de_ejercicios.",
         "url": "/belalcazar/practica_de_ejercicios.jpg"
     },
 
     {
         "categoryId": 3,
+        "id": 162,
         "title": "primer_documento_escrito_en_nasa_yuwe_por_el_cura_de_talaga_en_1755_y_editado_en_paris_1877_el_docuemento_reposa_en_la_biblioteca_Nacional_de_Colombia.",
         "url": "/belalcazar/primer_documento_escrito_en_nasa_yuwe_por_el_cura_de_talaga_en_1755_y_editado_en_paris_1877_el_docuemento_reposa_en_la_biblioteca_Nacional_de_Colombia.jpg"
     },
     {
         "categoryId": 3,
+        "id": 163,
         "title": "Reunion_Alto_parroco.",
         "url": "/belalcazar/Reunion_Alto_parroco.jpg"
     },
     {
         "categoryId": 3,
+        "id": 164,
         "title": "salida_de_campesinos_para_pedir_el_mejoramiento_del_via_al_valle.",
         "url": "/belalcazar/salida_de_campesinos_para_pedir_el_mejoramiento_del_via_al_valle.jpg"
     },
     {
         "categoryId": 3,
+        "id": 165,
         "title": "saman_de_belalcazar_martin_horst.",
         "url": "/belalcazar/saman_de_belalcazar_martin_horst.jpg"
     },
     {
         "categoryId": 3,
+        "id": 166,
         "title": "Soldados_parrocos.",
         "url": "/belalcazar/Soldados_parrocos.jpg"
     },
     {
         "categoryId": 3,
+        "id": 167,
         "title": "sor_ortencia_fernandez_foto_vicariato_apostolico_de_T.",
         "url": "/belalcazar/sor_ortencia_fernandez_foto_vicariato_apostolico_de_T.jpg"
     },
     {
         "categoryId": 3,
+        "id": 168,
         "title": "visita_del_presidente_lleras_restrepo_1966_1970_18_de_marzo_1969.",
         "url": "/belalcazar/visita_del_presidente_lleras_restrepo_1966_1970_18_de_marzo_1969.jpg"
     },
 
     {
         "categoryId": 2,
+        "id": 169,
         "title": "aerea.",
         "url": "/actualidad/Actualidad_aerea.jpg"
     },
 
     {
         "categoryId": 2,
+        "id": 170,
         "title": "Aerea(1).",
         "url": "/actualidad/Actualidad_Aerea(1).jpg"
     },
 
     {
         "categoryId": 2,
+        "id": 171,
         "title": "Comunidad.",
         "url": "/actualidad/Actualidad_Comunidad.jpg"
     },
 
     {
         "categoryId": 2,
+        "id": 172,
         "title": "Comunidad(1).",
         "url": "/actualidad/Actualidad_Comunidad(1).jpg"
     },
 
     {
         "categoryId": 2,
+        "id": 173,
         "title": "Mecanismo_mujer.",
         "url": "/actualidad/Actualidad_Mecanismo_mujer.jpg"
     },
 
     {
         "categoryId": 2,
+        "id": 174,
         "title": "mecanismo.",
         "url": "/actualidad/Actualidad_mecanismo.jpg"
     },
 
     {
         "categoryId": 2,
+        "id": 175,
         "title": "Montañas.",
         "url": "/actualidad/Actualidad_Montañas.jpg"
     },
 
     {
         "categoryId": 2,
+        "id": 176,
         "title": "Montañas(1).",
         "url": "/actualidad/Actualidad_Montañas(1).jpg"
     },
 
     {
         "categoryId": 2,
+        "id": 177,
         "title": "Montañas(2).",
         "url": "/actualidad/Actualidad_Montañas(2).jpg"
     },
 
     {
         "categoryId": 2,
+        "id": 178,
         "title": "Montañas.",
         "url": "/actualidad/Actualidad_Montañas3.jpg"
     },
 
     {
         "categoryId": 2,
+        "id": 179,
         "title": "Mujer_mayor.",
         "url": "/actualidad/Actualidad_Mujer_mayor.jpg"
     },
 
     {
         "categoryId": 2,
+        "id": 180,
         "title": "Oficinas.",
         "url": "/actualidad/Actualidad_Oficinas.jpg"
     },
 
     {
         "categoryId": 2,
+        "id": 181,
         "title": "Parroquia.",
         "url": "/actualidad/Actualidad_Parroquia.jpg"
     },
 
     {
         "categoryId": 2,
+        "id": 182,
         "title": "Parroquia.",
         "url": "/actualidad/Actualidad_Parroquia.jpg"
     },
 
     {
         "categoryId": 2,
+        "id": 183,
         "title": "Iglesia_de_San_andres.",
         "url": "/actualidad/Iglesia_de_San_andres.jpg"
     },
 
     {
         "categoryId": 2,
+        "id": 184,
         "title": "San_andres.",
         "url": "/actualidad/San_andres.jpg"
     },
 
     {
         "categoryId": 2,
+        "id": 185,
         "title": "Musical.",
         "url": "/actualidad/Actulidad_Musical.jpg"
     },
@@ -1062,6 +1247,7 @@
 
     {
         "categoryId": 1,
+        "id": 186,
         "title": "Fotos_de_Anthony_Henman_en_1971.",
         "url": "/tumbichucue/0_Fotos_de_Anthony_Henman_en_1971_(2).JPG"
     },
@@ -1069,164 +1255,195 @@
     
     {
         "categoryId": 1,
+        "id": 187,
         "title": "Puente_de_Tumbichukue_1972.",
         "url": "/tumbichucue/1_Puente_de_Tumbichukue_1972.JPG"
     },
     
     {
         "categoryId": 1,
+        "id": 188,
         "title": "En_Tumbichukue_1972.",
         "url": "/tumbichucue/2_En_Tumbichukue_1972.JPG"
     },
     {
         "categoryId": 1,
+        "id": 189,
         "title": "3_molino_de_trigo_en_Tumbichukue_1972.",
         "url": "/tumbichucue/3_molino_de_trigo_en_Tumbichukue_1972.JPG"
     },
     {
         "categoryId": 1,
+        "id": 190,
         "title": "En_Tumnichukue_1972.",
         "url": "/tumbichucue/4_En_Tumnichukue_1972.JPG"
     },
     {
         "categoryId": 1,
+        "id": 191,
         "title": "escuela_en_Tumbichukue_1972.",
         "url": "/tumbichucue/5_escuela_en_Tumbichukue_1972.JPG"
     },
     {
         "categoryId": 1,
+        "id": 192,
         "title": "Con_Eduvigis_Fernandez_1972.",
         "url": "/tumbichucue/6_Con_Eduvigis_Fernandez_1972.jpg"
     },
 
     {
         "categoryId": 1,
+        "id": 193,
         "title": "Tumbichukue_1972.",
         "url": "/tumbichucue/7_Tumbichukue_1972.JPG"
     },
     {
         "categoryId": 1,
+        "id": 194,
         "title": "8_en_Popayán-Las_Guacas_viendo_lulo,5_oct_1988.",
         "url": "/tumbichucue/8_en_Popayán-Las_Guacas_viendo_lulo,5_oct_1988.JPG"
     },
     {
         "categoryId": 1,
+        "id": 195,
         "title": "9_En_Timbio_con_la_CRC.",
         "url": "/tumbichucue/9_En_Timbio_con_la_CRC.JPG"
     },
     {
         "categoryId": 1,
+        "id": 196,
         "title": "Donde_Alvaro_Diaz_con_su_trigo_4_sept_1989.",
         "url": "/tumbichucue/11_Donde_Alvaro_Diaz_con_su_trigo_4_sept_1989.JPG"
     },
     {
         "categoryId": 1,
+        "id": 197,
         "title": "Donde_Alvaro_Diaz_con_su_trigo_4_sept_1989.",
         "url": "/tumbichucue/12_Donde_Alvaro_Diaz_con_su_trigo_4_sept_1989.JPG"
     },
     {
         "categoryId": 1,
+        "id": 198,
         "title": "Donde_Alvaro_Diaz_con_su_trigo_4_sept_1989.",
         "url": "/tumbichucue/13_Donde_Alvaro_Diaz_con_su_trigo_4_sept_1989.JPG"
     },
     {
         "categoryId": 1,
+        "id": 199,
         "title": "Donde_Alvaro_Diaz_con_su_trigo_4_sept_1989.",
         "url": "/tumbichucue/14_Donde_Alvaro_Diaz_con_su_trigo_4_sept_1989.JPG"
     },
     {
         "categoryId": 1,
+        "id": 200,
         "title": "Donde_Alvaro_Diaz_con_su_trigo_4_sept_1989.",
         "url": "/tumbichucue/15_Donde_Alvaro_Diaz_con_su_trigo_4_sept_1989.JPG"
     },
     {
         "categoryId": 1,
+        "id": 201,
         "title": "Donde_Alvaro_Diaz_con_su_trigo_4_sept_1989.",
         "url": "/tumbichucue/16_Donde_Alvaro_Diaz_con_su_trigo_4_sept_1989.JPG"
     },
     {
         "categoryId": 1,
+        "id": 202,
         "title": "Donde_Alvaro_Diaz_con_su_trigo_4_sept_1989.",
         "url": "/tumbichucue/17_Donde_Alvaro_Diaz_con_su_trigo_4_sept_1989.JPG"
     },
 
     {
         "categoryId": 1,
+        "id": 203,
         "title": "Tumbichukue_1988.",
         "url": "/tumbichucue/18_Tumbichukue_1988_89.JPG"
     },
     {
         "categoryId": 1,
+        "id": 204,
         "title": "Tumbichukue_1988.",
         "url": "/tumbichucue/19_Tumbichukue_1988_89.JPG"
     },
     {
         "categoryId": 1,
+        "id": 205,
         "title": "Tumbichukue_1988.",
         "url": "/tumbichucue/20_Tumbichukue_1988_89.JPG"
     },
     {
         "categoryId": 1,
+        "id": 206,
         "title": "Tumbichukue_1988.",
         "url": "/tumbichucue/21_Tumbichukue_1988_89.JPG"
     },
     {
         "categoryId": 1,
+        "id": 207,
         "title": "Tumbichukue_1988.",
         "url": "/tumbichucue/22_Tumbichukue_1988_89.JPG"
     },
     {
         "categoryId": 1,
+        "id": 208,
         "title": "Tumbichukue_1988.",
         "url": "/tumbichucue/23_Tumbichukue_1988_89.JPG"
     },
 
     {
         "categoryId": 1,
+        "id": 209,
         "title": "En 1988.",
         "url": "/tumbichucue/20A_EN_1988_89.JPG"
     },
 
     {
         "categoryId": 1,
+        "id": 210,
         "title": "Ovejas_1988.",
         "url": "/tumbichucue/23a_Ovejas_1988.JPG"
     },
 
     {
         "categoryId": 1,
+        "id": 211,
         "title": "El_hoy_finado_PabloTumbichukue_12_sept_1989.",
         "url": "/tumbichucue/24_El_hoy_finado_PabloTumbichukue_12_sept_1989.JPG"
     },
 
     {
         "categoryId": 1,
+        "id": 212,
         "title": "Ovejas_1990.",
         "url": "/tumbichucue/24aa_Ovejas_1990.JPG"
     },
     {
         "categoryId": 1,
+        "id": 213,
         "title": "Ovejas_1990.",
         "url": "/tumbichucue/24b_Ovejas_1990.JPG"
     },
 
     {
         "categoryId": 1,
+        "id": 214,
         "title": "Tumbichukue_1988a.",
         "url": "/tumbichucue/24_Tumbichukue_1988.JPG"
     },
     {
         "categoryId": 1,
+        "id": 215,
         "title": "Tumbichukue_1988.",
         "url": "/tumbichucue/25_Tumbichukue_1988.JPG"
     },
     {
         "categoryId": 1,
+        "id": 216,
         "title": "Tumbichukue_1988c.",
         "url": "/tumbichucue/26_Tumbichukue_1988.JPG"
     },
     {
         "categoryId": 1,
+        "id": 217,
         "title": "31 Reunión en Tumbichukue para innaugurar el establo FAT. Jorge Fernandez de sueter negro y blanco. 21 octubre 1990 (1).",
         "url": "/tumbichucue/31 Reunión en Tumbichukue para innaugurar el establo FAT. Jorge Fernandez de sueter negro y blanco. 21 octubre 1990 (1).JPG"
     },
@@ -1235,228 +1452,273 @@
 
     {
         "categoryId": 1,
+        "id": 218,
         "title": "31 Reunión en Tumbichukue para innaugurar el establo FAT. Jorge Fernandez de sueter negro y blanco. 21 octubre 1990 (2).",
         "url": "/tumbichucue/31 Reunión en Tumbichukue para innaugurar el establo FAT. Jorge Fernandez de sueter negro y blanco. 21 octubre 1990 (2).JPG"
     },
 
     {
         "categoryId": 1,
+        "id": 219,
         "title": "31 Reunión en Tumbichukue para innaugurar el establo FAT. Jorge Fernandez de sueter negro y blanco. 21 octubre 1990 (6).",
         "url": "/tumbichucue/31 Reunión en Tumbichukue para innaugurar el establo FAT. Jorge Fernandez de sueter negro y blanco. 21 octubre 1990 (6).JPG"
     },
 
     {
         "categoryId": 1,
+        "id": 220,
         "title": "31a En Tumbichukue. 21 octubre 1990.",
         "url": "/tumbichucue/31a En Tumbichukue. 21 octubre 1990 (4).JPG"
     },
     {
         "categoryId": 1,
+        "id": 221,
         "title": "31b Reunión en Tumbichukue para innaugurar el establo FAT. Jorge Fernandez de sueter negro y blanco. 21 octubre 1990 (11).",
         "url": "/tumbichucue/31b Reunión en Tumbichukue para innaugurar el establo FAT. Jorge Fernandez de sueter negro y blanco. 21 octubre 1990 (11).JPG"
     },
     {
         "categoryId": 1,
+        "id": 222,
         "title": "31b Reunión en Tumbichukue para innaugurar el establo FAT. Jorge Fernandez de sueter negro y blanco. 21 octubre 1990 (12).",
         "url": "/tumbichucue/31b Reunión en Tumbichukue para innaugurar el establo FAT. Jorge Fernandez de sueter negro y blanco. 21 octubre 1990 (12).JPG"
     },
     {
         "categoryId": 1,
+        "id": 223,
         "title": "31b Reunión en Tumbichukue para innaugurar el establo FAT. Jorge Fernandez de sueter negro y blanco. 21 octubre 1990 (16).",
         "url": "/tumbichucue/31b Reunión en Tumbichukue para innaugurar el establo FAT. Jorge Fernandez de sueter negro y blanco. 21 octubre 1990 (16).JPG"
     },
     {
         "categoryId": 1,
+        "id": 224,
         "title": "31b Reunión en Tumbichukue para innaugurar el establo FAT. Jorge Fernandez de sueter negro y blanco. 21 octubre 1990 (18).",
         "url": "/tumbichucue/31b Reunión en Tumbichukue para innaugurar el establo FAT. Jorge Fernandez de sueter negro y blanco. 21 octubre 1990 (18).JPG"
     },
     {
         "categoryId": 1,
+        "id": 225,
         "title": "31b Reunión en Tumbichukue para innaugurar el establo FAT. Jorge Fernandez de sueter negro y blanco. 21 octubre 1990 (19).",
         "url": "/tumbichucue/31b Reunión en Tumbichukue para innaugurar el establo FAT. Jorge Fernandez de sueter negro y blanco. 21 octubre 1990 (19).JPG"
     },
     {
         "categoryId": 1,
+        "id": 226,
         "title": "31b Reunión en Tumbichukue para innaugurar el establo FAT. Jorge Fernandez de sueter negro y blanco. 21 octubre 1990 (20).",
         "url": "/tumbichucue/31b Reunión en Tumbichukue para innaugurar el establo FAT. Jorge Fernandez de sueter negro y blanco. 21 octubre 1990 (20).JPG"
     },
     {
         "categoryId": 1,
+        "id": 227,
         "title": "31b Reunión en Tumbichukue para innaugurar el establo FAT. Jorge Fernandez de sueter negro y blanco. 21 octubre 1990 (21).",
         "url": "/tumbichucue/31b Reunión en Tumbichukue para innaugurar el establo FAT. Jorge Fernandez de sueter negro y blanco. 21 octubre 1990 (21).JPG"
     },
     {
         "categoryId": 1,
+        "id": 228,
         "title": "182e Israel, Corpus e Hildebrando Achipiz. Abajo, Perdomo, Muelas y Cometa. A mi lado José  D. Perdomo y detrás de él Emiro Pito.",
         "url": "/tumbichucue/182e Israel, Corpus e Hildebrando Achipiz. Abajo, Perdomo, Muelas y Cometa. A mi lado José  D. Perdomo y detrás de él Emiro Pito.JPG"
     },
     {
         "categoryId": 1,
+        "id": 229,
         "title": "61 Adan Pame tal vez el 29 jun 1991.",
         "url": "/tumbichucue/61 Adan Pame tal vez el 29 jun 1991.JPG"
     },
     {
         "categoryId": 1,
+        "id": 230,
         "title": "184 Material para Tumbichukue. Agosto 1991.",
         "url": "/tumbichucue/184 Material para Tumbichukue. Agosto 1991.JPG"
     },
     {
         "categoryId": 1,
+        "id": 231,
         "title": "187 En Tumbichukue entregando cuentas de gastos de proyectos. Los dos hijos de Adán Pame a mi izquierda. 5 agosto 1991.",
         "url": "/tumbichucue/187 En Tumbichukue entregando cuentas de gastos de proyectos. Los dos hijos de Adán Pame a mi izquierda. 5 agosto 1991.JPG"
     },
     {
         "categoryId": 1,
+        "id": 232,
         "title": "189 A cada extremo los hijos de Adan Pame en Tumbichucue. 5 agosto 1991. (2).",
         "url": "/tumbichucue/189 A cada extremo los hijos de Adan Pame en Tumbichucue. 5 agosto 1991. (2).JPG"
     },
     {
         "categoryId": 1,
+        "id": 233,
         "title": "189 A cada extremo los hijos de Adan Pame en Tumbichucue. 5 agosto 1991. (14).",
         "url": "/tumbichucue/189 A cada extremo los hijos de Adan Pame en Tumbichucue. 5 agosto 1991. (14).JPG"
     },
     {
         "categoryId": 1,
+        "id": 234,
         "title": "189 A cada extremo los hijos de Adan Pame en Tumbichucue. 5 agosto 1991. (15).",
         "url": "/tumbichucue/189 A cada extremo los hijos de Adan Pame en Tumbichucue. 5 agosto 1991. (15).JPG"
     },
     {
         "categoryId": 1,
+        "id": 235,
         "title": "189 A cada extremo los hijos de Adan Pame en Tumbichucue. 5 agosto 1991. (17).",
         "url": "/tumbichucue/189 A cada extremo los hijos de Adan Pame en Tumbichucue. 5 agosto 1991. (17).JPG"
     },
     {
         "categoryId": 1,
+        "id": 236,
         "title": "189 A cada extremo los hijos de Adan Pame en Tumbichucue. 5 agosto 1991. (19).",
         "url": "/tumbichucue/189 A cada extremo los hijos de Adan Pame en Tumbichucue. 5 agosto 1991. (19).JPG"
     },
     {
         "categoryId": 1,
+        "id": 237,
         "title": "189a Banda de Tumbichukue 1992 (1).",
         "url": "/tumbichucue/189a Banda de Tumbichukue 1992 (1).JPG"
     },
     {
         "categoryId": 1,
+        "id": 238,
         "title": "189a Banda de Tumbichukue 1992 (7).",
         "url": "/tumbichucue/189a Banda de Tumbichukue 1992 (7).JPG"
     },
     {
         "categoryId": 1,
+        "id": 239,
         "title": "190 Tumbichucueños en el dia del campesino en Inzá. 19 julio 1992. (1).",
         "url": "/tumbichucue/190 Tumbichucueños en el dia del campesino en Inzá. 19 julio 1992. (1).JPG"
     },
     {
         "categoryId": 1,
+        "id": 240,
         "title": "190 Tumbichucueños en el dia del campesino en Inzá. 19 julio 1992. (2).",
         "url": "/tumbichucue/190 Tumbichucueños en el dia del campesino en Inzá. 19 julio 1992. (2).JPG"
     },
     {
         "categoryId": 1,
+        "id": 241,
         "title": "190 Tumbichucueños en el dia del campesino en Inzá. 19 julio 1992. (4).",
         "url": "/tumbichucue/190 Tumbichucueños en el dia del campesino en Inzá. 19 julio 1992. (4).JPG"
     },
     {
         "categoryId": 1,
+        "id": 242,
         "title": "191 Coopperativa 1992 (3).",
         "url": "/tumbichucue/191 Coopperativa 1992 (3).JPG"
     },
     {
         "categoryId": 1,
+        "id": 243,
         "title": "191 Coopperativa 1992 (4).",
         "url": "/tumbichucue/191 Coopperativa 1992 (4).JPG"
     },
     {
         "categoryId": 1,
+        "id": 244,
         "title": "191a Adan pame y ventura Díaz leyendo sobre la venida de Gaviria a San Andrés. El funado Isaias Ipia primero a la derecha. 14 nov 1992.",
         "url": "/tumbichucue/191a Adan pame y ventura Díaz leyendo sobre la venida de Gaviria a San Andrés. El funado Isaias Ipia primero a la derecha. 14 nov 1992.JPG"
     },
     {
         "categoryId": 1,
+        "id": 245,
         "title": "191b En el Museo del oro con gente de Tierradentro. 26 nov 1992. (8).",
         "url": "/tumbichucue/191b En el Museo del oro con gente de Tierradentro. 26 nov 1992. (8).JPG"
     },
     {
         "categoryId": 1,
+        "id": 246,
         "title": "253f.",
         "url": "/tumbichucue/253f.JPG"
     },
     {
         "categoryId": 1,
+        "id": 247,
         "title": "550b Primer carro el mio en entrar a Tumbichukue en 1995 (1).",
         "url": "/tumbichucue/550b Primer carro el mio en entrar a Tumbichukue en 1995 (1).JPG"
     },
     {
         "categoryId": 1,
+        "id": 248,
         "title": "550b Primer carro el mio en entrar a Tumbichukue en 1995 (3).",
         "url": "/tumbichucue/550b Primer carro el mio en entrar a Tumbichukue en 1995 (3).JPG"
     },
     {
         "categoryId": 1,
+        "id": 249,
         "title": "690h Cuarto día de expedición. Alvaro mambeando en el chuscal. 15 feb 1996.",
         "url": "/tumbichucue/690h Cuarto día de expedición. Alvaro mambeando en el chuscal. 15 feb 1996.JPG"
     },
     {
         "categoryId": 1,
+        "id": 250,
         "title": "693 Cesar Negret con la banda de Tumbichucue en Juan tama, Inzá. 29 oct 1998. (1).",
         "url": "/tumbichucue/693 Cesar Negret con la banda de Tumbichucue en Juan tama, Inzá. 29 oct 1998. (1).JPG"
     },
     {
         "categoryId": 1,
+        "id": 251,
         "title": "693 Cesar Negret con la banda de Tumbichucue en Juan tama, Inzá. 29 oct 1998. (7).",
         "url": "/tumbichucue/693 Cesar Negret con la banda de Tumbichucue en Juan tama, Inzá. 29 oct 1998. (7).JPG"
     },
     {
         "categoryId": 1,
+        "id": 252,
         "title": "693 Cesar Negret con la banda de Tumbichucue en Juan tama, Inzá. 29 oct 1998. (8).",
         "url": "/tumbichucue/693 Cesar Negret con la banda de Tumbichucue en Juan tama, Inzá. 29 oct 1998. (8).JPG"
     },
     {
         "categoryId": 1,
+        "id": 253,
         "title": "693 Cesar Negret con la banda de Tumbichucue en Juan tama, Inzá. 29 oct 1998. (13).",
         "url": "/tumbichucue/693 Cesar Negret con la banda de Tumbichucue en Juan tama, Inzá. 29 oct 1998. (13).JPG"
     },
     {
         "categoryId": 1,
+        "id": 254,
         "title": "694 Dionisio Ipia y Carlos Guejia en la Mesa de Caloto rumbo al Nevado del Huila. 19 enero 1999. (28).",
         "url": "/tumbichucue/694 Dionisio Ipia y Carlos Guejia en la Mesa de Caloto rumbo al Nevado del Huila. 19 enero 1999. (28).JPG"
     },
     {
         "categoryId": 1,
+        "id": 255,
         "title": "1975 Archivo Elías Sevilla Casas.",
         "url": "/tumbichucue/1975 Archivo Elías Sevilla Casas.jpg"
     },
     {
         "categoryId": 1,
+        "id": 256,
         "title": "1976 mujer de Tumbichucue archivo Elias Sevilla Casas.",
         "url": "/tumbichucue/1976 mujer de Tumbichucue archivo Elias Sevilla Casas.jpg"
     },
     {
         "categoryId": 1,
+        "id": 257,
         "title": "1980 Archivo Elias Sevilla casas.",
         "url": "/tumbichucue/1980 Archivo Elias Sevilla casas.jpg"
     },
     {
         "categoryId": 1,
+        "id": 258,
         "title": "Archivo Elias Casas.",
         "url": "/tumbichucue/Archivo Elias Casas.jpg"
     },
     {
         "categoryId": 1,
+        "id": 259,
         "title": "Archivo Elías Sevilla Casas 1975.",
         "url": "/tumbichucue/Archivo Elías Sevilla Casas 1975.jpg"
     },
     {
         "categoryId": 1,
+        "id": 260,
         "title": "Archivo Elías Sevilla Casas 1978.",
         "url": "/tumbichucue/Archivo Elías Sevilla Casas 1978.jpg"
     },
     {
         "categoryId": 1,
+        "id": 261,
         "title": "Archivo Elías Sevilla Casas.",
         "url": "/tumbichucue/Archivo Elías Sevilla Casas.jpg"
     },
     {
         "categoryId": 1,
+        "id": 262,
         "title": "Elías Sevilla Casas. 1975.",
         "url": "/tumbichucue/Elías Sevilla Casas. 1975.jpg"
     }

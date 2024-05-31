@@ -13,6 +13,7 @@
     flex-direction: column;
     align-items: center;
     padding: 1rem;
+    padding-bottom: 4rem;
 }
 
 .information__title{
