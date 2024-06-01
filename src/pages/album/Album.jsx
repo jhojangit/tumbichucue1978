@@ -103,18 +103,19 @@ const Album = () => {
                     currentItems.map((photo) => (
                             <div key={photo.url} 
                                 style={{ 
+                                    textAlign: "center",
                                     borderBottom: "1px solid grey", 
                                     borderLeft: "1px solid grey", 
                                     borderRight: "1px solid grey", 
                                     borderRadius:"0.3rem",
                                     padding: "0.2rem",
-                                    marginBottom:".5rem" 
+                                    marginBottom:"2rem" 
                                 }} >
                                     
                             <p>{photo.id}</p>
                             <p>{photo.title}</p>
-                            <p>{photo.year}</p>
-                            <p>{photo.author}</p>
+                            <p>Año: {photo.year}</p>
+                            <p>Autor: {photo.author}</p>
                             <AlbumCard photo={photo} />
                         </div>
                     ))
