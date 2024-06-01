@@ -24,7 +24,8 @@ function App() {
 
         
         <Routes>
-{/*           <Route path='/'                 element={<Navigate to="/home" />} /> 
+          
+          <Route path='/'                 element={<Navigate to="/home" />} /> 
           <Route path='/home'             element={<Home/>} />
           <Route path='/information'      element={<Information/>} />
           <Route path='/fotografia'       element={<Photos/>} />
@@ -32,7 +33,7 @@ function App() {
           <Route path='/documental'       element={<Documental/>} />
           <Route path='/blog'             element={<BlogPage/>} />
           <Route path='/pdf'              element={<Pdf/>} />
- */}
+
           <Route path='*'                 element={<h1> 404 Esta ruta no existe</h1>} />
         </Routes>
 
