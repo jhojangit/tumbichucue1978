@@ -111,7 +111,7 @@ const Album = () => {
                                     marginBottom:".5rem" 
                                 }} >
                             <AlbumCard photo={photo} />
-                            {/* <p>{photo.id}</p> */}
+                            <p>{photo.id}</p>
                             <p>{photo.title}</p>
                             <p>{photo.year}</p>
                             <p>{photo.author}</p>
