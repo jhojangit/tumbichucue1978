@@ -2,16 +2,10 @@
     {
         "id"  : 1,
         "url" : "/categories/timbachucue.JPG",
-        "title": "27a Tumbichucue",
+        "title": "Resguardo de Tumbichucue",
         "description": "Es un lugar de profunda importancia para la vida de muchos indígenas, donde practican sus tradiciones ancestrales."
     },
 
-    {
-        "id"  : 2,
-        "url" : "/categories/actualidad.jpg",
-        "title": "Actualidad",
-        "description": ""
-    },
 
     {
         "id"  : 3,
@@ -93,8 +87,8 @@
 
     {
         "id"  : 15,
-        "url" : "/main.webp",
-        "title": "Resguardo de Tumbichucue",
+        "url" : "/categories/actualidad.jpg",
+        "title": "Tumbichucue en la actualidad",
         "description": ""
     }
 ]

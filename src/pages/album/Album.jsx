@@ -101,9 +101,12 @@ const Album = () => {
             <div className='album__gallery--container'>
                 {currentItems &&
                     currentItems.map((photo) => (
-                            <div key={photo.url} style={{ border: "1px solid black", padding: "0.5rem", marginBottom:"1rem" }} >
+                            <div key={photo.url} style={{ borderBottom: "1px solid black", padding: "0.2rem", marginBottom:".5rem" }} >
                             <AlbumCard photo={photo} />
-                            <p>{photo.id}</p>
+                            {/* <p>{photo.id}</p> */}
+                            <p>{photo.title}</p>
+                            <p>{photo.year}</p>
+                            <p>{photo.author}</p>
                         </div>
                     ))
                 }

@@ -3,223 +3,291 @@
         "categoryId": 14,
         "id": 1,
         "title": "Calles de timana 1936",
-        "url": "/timana/Callesdetimana1936.jpg"
+        "url": "/timana/Callesdetimana1936.jpg",
+        "year": "1980",
+        "author": "Alguein"
     },
 
     {
         "categoryId": 14,
         "id": 2,
         "title": "La Cacería del venado por los Alemanes.",
-        "url": "/timana/LaCaceríadelvenadoporlosAlemanes.jpg"
+        "url": "/timana/LaCaceríadelvenadoporlosAlemanes.jpg",
+        "year": "",
+        "author": ""
     },
 
     {
         "categoryId": 14,
         "id": 3,
         "title": "La plaza de timana",
-        "url": "/timana/laplazadetimana.jpg"
+        "url": "/timana/laplazadetimana.jpg",
+        "year": "",
+        "author": ""
     },
 
     {
         "categoryId": 14,
         "id": 4,
         "title": "Pericongo",
-        "url": "/timana/pericongo.jpg"
+        "url": "/timana/pericongo.jpg",
+        "year": "",
+        "author": ""
     },
 
     {
         "categoryId": 14,
         "id": 5,
         "title": "Plaza principal de Timana huil. donde hoy está la estatua de la Cacica Gaitana.",
-        "url": "/timana/PlazaPrincipaldeTimanahuilaloquehoyestalaestatuadelaCacicaGaitana.jpg"
+        "url": "/timana/PlazaPrincipaldeTimanahuilaloquehoyestalaestatuadelaCacicaGaitana.jpg",
+        "year": "",
+        "author": ""
     },
 
     {
         "categoryId": 14,
         "id": 6,
         "title": "Timana Huila, al fondo se ve la iglesia y la casa cural.",
-        "url": "/timana/TimanaHuila,alfonosevelaiglesiaylacasacural.jpg"
+        "url": "/timana/TimanaHuila,alfonosevelaiglesiaylacasacural.jpg",
+        "year": "",
+        "author": ""
     },
 
     {
         "categoryId": 1,
         "id": 7,
         "title": "Comunidad atrapando y rechazando.",
-        "url": "/tumbichcueResguado/tumbichucueResguardo1.jpg"
+        "url": "/tumbichcueResguado/tumbichucueResguardo1.jpg",
+        "year": "",
+        "author": ""
     },
 
     {
         "categoryId": 1,
         "id": 8,
         "title": "Observando Arbol.",
-        "url": "/tumbichcueResguado/tumbichucueResguardo2.jpg"
+        "url": "/tumbichcueResguado/tumbichucueResguardo2.jpg",
+        "year": "",
+        "author": ""
     },
 
     {
         "categoryId": 12,
         "id": 9,
         "title": "Antes de llegar a Aransazu.",
-        "url": "/talaga/Antes_de_llegar_a_Aransazu.jpg"
+        "url": "/talaga/Antes_de_llegar_a_Aransazu.jpg",
+        "year": "",
+        "author": ""
     },
 
     {
         "categoryId": 12,
         "id": 10,
         "title": "Camino_de_la_plata_a_Belalcazar.",
-        "url": "/talaga/Camino_de_la_plata_a_Belalcazar.jpg"
+        "url": "/talaga/Camino_de_la_plata_a_Belalcazar.jpg",
+        "year": "",
+        "author": ""
     },
 
     {
         "categoryId": 12,
         "id": 11,
         "title": "Camino_nacional_de_la_plata_para_salir_a_Cuetando.",
-        "url": "/talaga/Camino_nacional_de_la_plata_para_salir_a_Cuetando.jpg"
+        "url": "/talaga/Camino_nacional_de_la_plata_para_salir_a_Cuetando.jpg",
+        "year": "",
+        "author": ""
     },
 
     {
         "categoryId": 12,
         "id": 12,
         "title": "camino_nacional.",
-        "url": "/talaga/camino_nacional.jpg"
+        "url": "/talaga/camino_nacional.jpg",
+        "year": "",
+        "author": ""
     },
 
     {
         "categoryId": 12,
         "id": 13,
         "title": "Camino_real. Salida_desde_la_Plata_Huila_hacía_Tierradentro.",
-        "url": "/talaga/Camino_real_Salida_desde_la_Plata_Huila_hacía_Tierradentro.jpg"
+        "url": "/talaga/Camino_real_Salida_desde_la_Plata_Huila_hacía_Tierradentro.jpg",
+        "year": "",
+        "author": ""
     },
 
     {
         "categoryId": 12,
         "id": 14,
         "title": "casas_indigenas_en_medio_de_camino._estas_servían_en_algunos_casos_como_hospedajes_de_los_viajeros_o_para_arrieros.",
-        "url": "/talaga/casas_indigenas_en_medio_de_camino_estas_servían_en_algunos_casos_como_hospedajes_de_los_viajeros_o_para_arrieros.jpg"
+        "url": "/talaga/casas_indigenas_en_medio_de_camino_estas_servían_en_algunos_casos_como_hospedajes_de_los_viajeros_o_para_arrieros.jpg",
+        "year": "",
+        "author": ""
     },
 
     {
         "categoryId": 12,
         "id": 15,
         "title": "casas_viejas_entre_aguacatico_y_guapio.",
-        "url": "/talaga/casas_viejas_entre_aguacatico_y_guapio.jpg"
+        "url": "/talaga/casas_viejas_entre_aguacatico_y_guapio.jpg",
+        "year": "",
+        "author": ""
     },
 
     {
         "categoryId": 12,
         "id": 16,
         "title": "centro_de_Talaga._Se puede_apreciar_detras_de_la_caza_cultivos_de_platano,_tal_vez_atras_este_la_huerta_cacera.",
-        "url": "/talaga/centro_de_Talaga_se puede_apreciar_detras_de_la_caza_cultivos_de_platano_tal_vez_atras_este_la_huerta_cacera.jpg"
+        "url": "/talaga/centro_de_Talaga_se puede_apreciar_detras_de_la_caza_cultivos_de_platano_tal_vez_atras_este_la_huerta_cacera.jpg",
+        "year": "",
+        "author": ""
     },
 
     {
         "categoryId": 12,
         "id": 17,
         "title": "Montañas_de_Tierradentro._Se_puede_apreciar_el_porqué_se_llamó_tierradentro.",
-        "url": "/talaga/Copia_de_Montañas_de_Tierradentro_se_puede_apreciar_del_porque_se_llamó_tierradentro.jpg"
+        "url": "/talaga/Copia_de_Montañas_de_Tierradentro_se_puede_apreciar_del_porque_se_llamó_tierradentro.jpg",
+        "year": "",
+        "author": ""
     },
 
     {
         "categoryId": 12,
         "id": 18,
         "title": "cuerdas_de_alta_tención_de_energia.",
-        "url": "/talaga/cuerdas_de_alta_tención_de_energia.jpg"
+        "url": "/talaga/cuerdas_de_alta_tención_de_energia.jpg",
+        "year": "",
+        "author": ""
     },
 
     {
         "categoryId": 12,
         "id": 19,
         "title": "Desde_tiempos_inmemoriales_algunas_zonas_de_pajonal,_sobre_todo_el_cañon_de_Rio_Paez.",
-        "url": "/talaga/Desde_tiempos_inmemoriales_algunas_zonas_de_pajonal_sobre_todo_todo_el_cañon_de_Rio_Paez.jpg"
+        "url": "/talaga/Desde_tiempos_inmemoriales_algunas_zonas_de_pajonal_sobre_todo_todo_el_cañon_de_Rio_Paez.jpg",
+        "year": "",
+        "author": ""
     },
     {
         "categoryId": 12,
         "id": 20,
         "title": "El_caballo_con_la_carga_del_zorron._Este_servía_para_multicidad_de_cosas,_como_para_llevar_agua,_vino,_chicha,_comida_y_entre_otras.",
-        "url": "/talaga/El_caballo_con_la_carga_del_zorron_este_servía_para_multicidad_de_cosas_como_para_llevar_agua_vino_chicha_comida_y_entre_otras.jpg"
+        "url": "/talaga/El_caballo_con_la_carga_del_zorron_este_servía_para_multicidad_de_cosas_como_para_llevar_agua_vino_chicha_comida_y_entre_otras.jpg",
+        "year": "",
+        "author": ""
     },
     {
         "categoryId": 12,
         "id": 21,
         "title": "el_hato_de_minas_y_la_crianza_de_ganado.",
-        "url": "/talaga/el_hato_de_minas_y_la_crianza_de_ganado.jpg"
+        "url": "/talaga/el_hato_de_minas_y_la_crianza_de_ganado.jpg",
+        "year": "",
+        "author": ""
     },
     {
         "categoryId": 12,
         "id": 22,
         "title": "el_indigena_con_la_practica_de_curar_las_heridas_de_las_vacas.",
-        "url": "/talaga/el_indigena_con_la_practica_de_curar_las_heridas_de_las_vacas.jpg"
+        "url": "/talaga/el_indigena_con_la_practica_de_curar_las_heridas_de_las_vacas.jpg",
+        "year": "",
+        "author": ""
     },
     {
         "categoryId": 12,
         "id": 23,
         "title": "El_peñol_de_Fraile_sobre_rio_paez.",
-        "url": "/talaga/El_peñol_de_Fraile_sobre_rio_paez.jpg"
+        "url": "/talaga/El_peñol_de_Fraile_sobre_rio_paez.jpg",
+        "year": "",
+        "author": ""
     },
     {
         "categoryId": 12,
         "id": 24,
         "title": "El_río_Paez,_la_que_va_caer_a_Magdalena.",
-        "url": "/talaga/El_río_Paez_la_que_va_caer_a_Magdalena.jpg"
+        "url": "/talaga/El_río_Paez_la_que_va_caer_a_Magdalena.jpg",
+        "year": "",
+        "author": ""
     },
     {
         "categoryId": 12,
         "id": 25,
         "title": "entrada_a_belalcazar.",
-        "url": "/talaga/entrada_a_belalcazar.jpg"
+        "url": "/talaga/entrada_a_belalcazar.jpg",
+        "year": "",
+        "author": ""
     },
     {
         "categoryId": 12,
         "id": 26,
         "title": "entrada_y_elaboración_de_cercas_de_un_lado_y_otro.",
-        "url": "/talaga/entrada_y_elaboración_de_cercas_de_un_lado_y_otro.jpg"
+        "url": "/talaga/entrada_y_elaboración_de_cercas_de_un_lado_y_otro.jpg",
+        "year": "",
+        "author": ""
     },
     {
         "categoryId": 12,
         "id": 27,
         "title": "Expedinarios_Alemanes.",
-        "url": "/talaga/Expedinarios_Alemanes.jpg"
+        "url": "/talaga/Expedinarios_Alemanes.jpg",
+        "year": "",
+        "author": ""
     },
     {
         "categoryId": 12,
         "id": 28,
         "title": "Iglesia_San_Abosta_de_Talaga_1635-1645.",
-        "url": "/talaga/Iglesia_San_Abosta_de_Talaga_1635-1645.jpg"
+        "url": "/talaga/Iglesia_San_Abosta_de_Talaga_1635-1645.jpg",
+        "year": "",
+        "author": ""
     },
     {
         "categoryId": 12,
         "id": 29,
         "title": "La_iglesia_de_Talaga, hecho con tapia, techo de paja y pintado con colores naturales de la región.",
-        "url": "/talaga/La_iglesia_de_Talaga, hecho con tapia, techo de paja y pintado con colores naturales de la región..jpg"
+        "url": "/talaga/La_iglesia_de_Talaga, hecho con tapia, techo de paja y pintado con colores naturales de la región..jpg",
+        "year": "",
+        "author": ""
     },
     {
         "categoryId": 12,
         "id": 30,
         "title": "La_mirada_fija_del_Indígena_paéz_y_la_raza_de_la_vaca_común.",
-        "url": "/talaga/La_mirada_fija_del_Indígena_paéz_y_la_raza_de_la_vaca_común.jpg"
+        "url": "/talaga/La_mirada_fija_del_Indígena_paéz_y_la_raza_de_la_vaca_común.jpg",
+        "year": "",
+        "author": ""
     },
     {
         "categoryId": 12,
         "id": 31,
         "title": "la_utilización_de_la_jama_para_capturar_los_incetos._Se_puede_decir_que_las_intenciones_eran_mucho_mas_allá.",
-        "url": "/talaga/la_utilización_de_la_jama_para_capturar_los_incetos_se_puede_decir_que_las_intenciones_eran_mucho_mas_alla.jpg"
+        "url": "/talaga/la_utilización_de_la_jama_para_capturar_los_incetos_se_puede_decir_que_las_intenciones_eran_mucho_mas_alla.jpg",
+        "year": "",
+        "author": ""
     },
     {
         "categoryId": 12,
         "id": 32,
         "title": "la_virginia_antes_de_llegar_a_puente_de_simbola_al_fondo_la finca_de_minas,_la_que_fue_colegio_menor_de_seminario_indigena_de_paez.",
-        "url": "/talaga/la_virginia_antes_de_llegar_a_puente_de_simbola_alfon_finca_de_minas_la_que_fue_colegio_menor_de_seminario_indigena_de_paez.jpg"
+        "url": "/talaga/la_virginia_antes_de_llegar_a_puente_de_simbola_alfon_finca_de_minas_la_que_fue_colegio_menor_de_seminario_indigena_de_paez.jpg",
+        "year": "",
+        "author": ""
     },
     {
         "categoryId": 12,
         "id": 33,
         "title": "La_misma_iglesia_de_Tálaga_y_al_lado_la_casa_cural.",
-        "url": "/talaga/Las_misma_iglesia_de_Tálaga_y_al_lado_la_casa_cural.jpg"
+        "url": "/talaga/Las_misma_iglesia_de_Tálaga_y_al_lado_la_casa_cural.jpg",
+        "year": "",
+        "author": ""
     },
     {
         "categoryId": 12,
         "id": 34,
         "title": "Las_niñas_nasas_sorprendidas_de_la_camara_y_de_las_personas.",
-        "url": "/talaga/Las_niñas_nasas_sorprendidos_de_la_camara_y_de_las_personas.jpg"
+        "url": "/talaga/Las_niñas_nasas_sorprendidos_de_la_camara_y_de_las_personas.jpg",
+        "year": "",
+        "author": ""
     },
     {
         "categoryId": 12,
@@ -1125,119 +1193,119 @@
     },
 
     {
-        "categoryId": 2,
+        "categoryId": 15,
         "id": 169,
         "title": "aerea.",
         "url": "/actualidad/Actualidad_aerea.jpg"
     },
 
     {
-        "categoryId": 2,
+        "categoryId": 15,
         "id": 170,
         "title": "Aerea(1).",
         "url": "/actualidad/Actualidad_Aerea(1).jpg"
     },
 
     {
-        "categoryId": 2,
+        "categoryId": 15,
         "id": 171,
         "title": "Comunidad.",
         "url": "/actualidad/Actualidad_Comunidad.jpg"
     },
 
     {
-        "categoryId": 2,
+        "categoryId": 15,
         "id": 172,
         "title": "Comunidad(1).",
         "url": "/actualidad/Actualidad_Comunidad(1).jpg"
     },
 
     {
-        "categoryId": 2,
+        "categoryId": 15,
         "id": 173,
         "title": "Mecanismo_mujer.",
         "url": "/actualidad/Actualidad_Mecanismo_mujer.jpg"
     },
 
     {
-        "categoryId": 2,
+        "categoryId": 15,
         "id": 174,
         "title": "mecanismo.",
         "url": "/actualidad/Actualidad_mecanismo.jpg"
     },
 
     {
-        "categoryId": 2,
+        "categoryId": 15,
         "id": 175,
         "title": "Montañas.",
         "url": "/actualidad/Actualidad_Montañas.jpg"
     },
 
     {
-        "categoryId": 2,
+        "categoryId": 15,
         "id": 176,
         "title": "Montañas(1).",
         "url": "/actualidad/Actualidad_Montañas(1).jpg"
     },
 
     {
-        "categoryId": 2,
+        "categoryId": 15,
         "id": 177,
         "title": "Montañas(2).",
         "url": "/actualidad/Actualidad_Montañas(2).jpg"
     },
 
     {
-        "categoryId": 2,
+        "categoryId": 15,
         "id": 178,
         "title": "Montañas.",
         "url": "/actualidad/Actualidad_Montañas3.jpg"
     },
 
     {
-        "categoryId": 2,
+        "categoryId": 15,
         "id": 179,
         "title": "Mujer_mayor.",
         "url": "/actualidad/Actualidad_Mujer_mayor.jpg"
     },
 
     {
-        "categoryId": 2,
+        "categoryId": 15,
         "id": 180,
         "title": "Oficinas.",
         "url": "/actualidad/Actualidad_Oficinas.jpg"
     },
 
     {
-        "categoryId": 2,
+        "categoryId": 15,
         "id": 181,
         "title": "Parroquia.",
         "url": "/actualidad/Actualidad_Parroquia.jpg"
     },
 
     {
-        "categoryId": 2,
+        "categoryId": 15,
         "id": 182,
         "title": "Parroquia.",
         "url": "/actualidad/Actualidad_Parroquia.jpg"
     },
 
     {
-        "categoryId": 2,
+        "categoryId": 15,
         "id": 183,
         "title": "Iglesia_de_San_andres.",
         "url": "/actualidad/Iglesia_de_San_andres.jpg"
     },
 
     {
-        "categoryId": 2,
+        "categoryId": 15,
         "id": 184,
         "title": "San_andres.",
         "url": "/actualidad/San_andres.jpg"
     },
 
     {
-        "categoryId": 2,
+        "categoryId": 15,
         "id": 185,
         "title": "Musical.",
         "url": "/actualidad/Actulidad_Musical.jpg"
