@@ -116,14 +116,6 @@
         "author": "Martín Horts"
     },
 
-    {
-        "categoryId": 12,
-        "id": 14,
-        "title": "Casa indígena en medio del camino real de Guanacas",
-        "url": "/talaga/casas_indígenas_en_medio_de_camino_estas_servían_en_algunos_casos_como_hospedajes_de_los_viajeros_o_para_arrieros.jpg",
-        "year": "1930 - 1945",
-        "author": "Martín Horts"
-    },
 
     {
         "categoryId": 12,
@@ -185,14 +177,7 @@
         "year": "1935 - 1945",
         "author": "Martín Horts"
     },
-    {
-        "categoryId": 12,
-        "id": 22,
-        "title": "indígena curando una vaca sobre el camino real de Guanacas.",
-        "url": "/talaga/el_indígena_con_la_practica_de_curar_las_heridas_de_las_vacas.jpg",
-        "year": "1935 - 1945",
-        "author": "Martín Horts"
-    },
+
     {
         "categoryId": 12,
         "id": 23,
@@ -262,14 +247,6 @@
         "id": 31,
         "title": "Trampa de Hama para capturar insectos sobre el camino real de Guanacas.",
         "url": "/talaga/la_utilización_de_la_jama_para_capturar_los_incetos_se_puede_decir_que_las_intenciones_eran_mucho_mas_alla.jpg",
-        "year": "1935 - 1945",
-        "author": "Martín Horts"
-    },
-    {
-        "categoryId": 12,
-        "id": 32,
-        "title": "Pueblo de virgen, antes de llegar a símbola. Camino que va de la Plata a Santander de Quilichao.",
-        "url": "/talaga/la_virginia_antes_de_llegar_a_puente_de_simbola_alfon_finca_de_minas_la_que_fue_colegio_menor_de_seminario_indígena_de_paez.jpg",
         "year": "1935 - 1945",
         "author": "Martín Horts"
     },
@@ -383,555 +360,430 @@
     {
         "categoryId": 11,
         "id": 49,
-        "title": "Capilla_resguardo_de_San_Andres.",
+        "title": "Iglesia de San Andrés de Pisimbala.",
         "url": "/pisimbala/Capilla_resguardo_de_San_Andres.jpg",
-        "year": "",
-        "author": ""
+        "year": "1945 - 1955",
+        "author": "Segundo Bernal Villa"
     },
 
     {
         "categoryId": 11,
         "id": 50,
-        "title": "Dia_de_fiesta_y_celebracion_de_cabalgata_vemos_una_mujer_y_su_hijo_en_la_espalda_y_acompañado_por_un_hombre.",
+        "title": "Mujer Naza - Espalda un niño y al rededor unos indígenas",
         "url": "/pisimbala/Dia_de_fiesta_y_celebracion_de_cabalgata_vemos_una_mujer_y_su_hijo_en_la_espalda_y_acompañado_por_un_hombre.jpg",
-        "year": "",
-        "author": ""
+        "year": "1936",
+        "author": "Gregorio Hernández de Alva"
     },
 
     {
         "categoryId": 11,
         "id": 51,
-        "title": "Fiesta_de_San_Andres.",
+        "title": "Unos Campesinos e indígenas en la fiesta de San pedro.",
         "url": "/pisimbala/Fiesta_de_San_Andres.jpg",
-        "year": "",
-        "author": ""
+        "year": "1936",
+        "author": "Gregorio Hernández de Alva"
     },
 
     {
         "categoryId": 11,
         "id": 52,
-        "title": "Forma_de_vivir_de_vestir_y_la_practica_de_la_puchiganga.",
+        "title": "Mujer hilando lana",
         "url": "/pisimbala/Forma_de_vivir_de_vestir_y_la_practica_de_la_puchiganga.jpg",
-        "year": "",
-        "author": ""
+        "year": "1945 - 1955",
+        "author": "Segundo Bernal Villa"
     },
 
     {
         "categoryId": 11,
         "id": 53,
-        "title": "Hilada_de_la_mujer_Nasa.",
+        "title": "MuJer Naza tejiendo lana de ovejo y puchicanga",
         "url": "/pisimbala/Hilada_de_la_mujer_Nasa.jpg",
-        "year": "",
-        "author": ""
+        "year": "1940 - 1943",
+        "author": "Hery Lehman"
     },
 
     {
         "categoryId": 11,
         "id": 54,
-        "title": "Las_mujeres_nasas_con_la_practica_de_las_jigras_de_cabuya.",
+        "title": "Mujeres con jigras de cabuya",
         "url": "/pisimbala/Las_mujeres_nasas_con_la_practica_de_las_jigras_de_cabuya.jpg",
-        "year": "",
-        "author": ""
+        "year": "Sf",
+        "author": "Anónimo"
     },
 
     {
         "categoryId": 11,
         "id": 55,
-        "title": "práctica_religiosa_de_la_comunidad_nasa_la_botada_de_la_cruz_despues_de_la_muerte_este_evento_se_realiza_despues_de_una_semana.",
+        "title": "Celebración del día de las ánimas",
         "url": "/pisimbala/práctica_religiosa_de_la_comunidad_nasa_la_botada_de_la_cruz_despues_de_la_muerte_este_evento_se_realiza_despues_de_una_semana.jpg",
-        "year": "",
-        "author": ""
+        "year": "1940 - 1943",
+        "author": "Hery Lehman"
     },
 
     {
         "categoryId": 11,
         "id": 56,
-        "title": "san_andres_actual_y_al_fondo_La_iglesia.",
+        "title": "Cancha de fútbol y atrás iglesia coloial.",
         "url": "/pisimbala/san_andres_actual_y_al_fondo_La_iglesia.jpg",
-        "year": "",
-        "author": ""
+        "year": "2020",
+        "author": "Anónimo"
     },
 
     {
         "categoryId": 10,
         "id": 57,
-        "title": "Mosoco_1994.",
+        "title": "Resguardo indígena de Mosoco antes del terremoto de 1994.",
         "url": "/mosoco/Mosoco_1994.jpg",
-        "year": "",
-        "author": ""
+        "year": "Sf",
+        "author": "Anónimo"
     },
 
     
     {
         "categoryId": 10,
         "id": 58,
-        "title": "el_cuidado_y_el_trabajo_del_la_mujer_nasa.",
+        "title": "Mujer Naza con su traje típico.",
         "url": "/mosoco/el_cuidado_y_el_trabajo_del_la_mujer_nasa.jpg",
-        "year": "",
-        "author": ""
+        "year": "Sf",
+        "author": "Anónimo"
     },
 
     {
         "categoryId": 10,
         "id": 59,
-        "title": "Estanco_resguardo_de_Mosoco.",
+        "title": "Estanco resguardo de Mosoco.",
         "url": "/mosoco/Estanco_resguardo_de_Mosoco.jpg",
-        "year": "",
-        "author": ""
-    },
-
-    
-    {
-        "categoryId": 10,
-        "id": 60,
-        "title": "forma_de_vida_de_la_mujer_nasa_y_con_sus_hijos_como_enseñanza_del_diario_vivir.",
-        "url": "/mosoco/forma_de_vida_de_la_mujer_nasa_y_con_sus_hijos_como_enseñanza_del_diario_vivir.jpg",
-        "year": "",
-        "author": ""
-    },
-
-
-    {
-        "categoryId": 10,
-        "id": 61,
-        "title": "mujer_nasa_con_su_hija_hilando_lana.",
-        "url": "/mosoco/mujer_nasa_con_su_hija_hilando_lana.jpg",
-        "year": "",
-        "author": ""
+        "year": "1935 - 1945",
+        "author": "Martín Horts"
     },
 
     {
         "categoryId": 9,
         "id": 62,
-        "title": "Capilla_resguardo_de_Lame.",
+        "title": "iglesia del resguardo indígena de Lame.",
         "url": "/lame/Capilla_resguardo_de_Lame.jpg",
-        "year": "",
-        "author": ""
-    },
-
-    {
-        "categoryId": 9,
-        "id": 63,
-        "title": "La_mujer_nasa_Hilando_Lana.",
-        "url": "/lame/La_mujer_nasa_Hilando_Lana.jpg",
-        "year": "",
-        "author": ""
-    },
-
-    {
-        "categoryId": 9,
-        "id": 64,
-        "title": "Mujeres_nasa.",
-        "url": "/lame/Mujeres_nasa.jpg",
-        "year": "",
-        "author": ""
+        "year": "1992",
+        "author": "Ventura Díaz"
     },
 
     {
         "categoryId": 8,
         "id": 65,
-        "title": "Aleman_montado_su_caballo.",
+        "title": "Alemán montado en su mula - Camino real de Guanacas .",
         "url": "/paez/Aleman_montado_su_caballo.jpg",
-        "year": "",
-        "author": ""
+        "year": "9135 - 1945",
+        "author": "Martín Horts"
     },
 
     {
         "categoryId": 8,
         "id": 66,
-        "title": "Casa _Familiar_resguardo_de_Cuetando.",
+        "title": "Casa en tapia con corredor empietradas sobre el camino real de Guanacas.",
         "url": "/paez/Casa _Familiar_resguardo_de_Cuetando.jpg",
-        "year": "",
-        "author": ""
+        "year": "1935 - 1945",
+        "author": "Martín Horts"
     },
 
     {
         "categoryId": 8,
         "id": 67,
-        "title": "Casa_Familiar_Cuetando_(1).",
+        "title": "Casa en bareque - Entrada al resguardo de cuetando.",
         "url": "/paez/Casa_Familiar_Cuetando_(1).jpg",
-        "year": "",
-        "author": ""
+        "year": "1935 - 1945",
+        "author": "Martín Horts"
     },
 
     {
         "categoryId": 8,
         "id": 68,
-        "title": "Casa_familiar_Cuetando_(2).",
+        "title": "Entrada de Cuetando",
         "url": "/paez/Casa_familiar_Cuetando_(2).jpg",
-        "year": "",
-        "author": ""
+        "year": "1935 - 1945",
+        "author": "Martín Horts"
     },
 
     {
         "categoryId": 8,
         "id": 69,
-        "title": "Casa_Familiar_cuetando.",
+        "title": "Entrada al pueblo de Cuetando.",
         "url": "/paez/Casa_Familiar_cuetando.jpg",
-        "year": "",
-        "author": ""
+        "year": "1935 - 1945",
+        "author": "Martín Horts"
     },
 
     {
         "categoryId": 8,
         "id": 70,
-        "title": "Casas_del_Resguardo_de_Cuetando.",
+        "title": "Centro del pueblo de Cuetando.",
         "url": "/paez/Casas_del_Resguardo_de_Cuetando.jpg",
-        "year": "",
-        "author": ""
+        "year": "1935 - 1945",
+        "author": "Martín Horts"
     },
 
     {
         "categoryId": 8,
         "id": 71,
-        "title": "Compañeros_de_Martin_Horst.",
+        "title": "Alemanes observando la naturaleza.",
         "url": "/paez/Compañeros_de_Martin_Horst.jpg",
-        "year": "",
-        "author": ""
+        "year": "1935 - 1945",
+        "author": "Martín Horts"
     },
 
     {
         "categoryId": 8,
         "id": 72,
-        "title": "Cuetando_salida_para_Belelcazar.",
+        "title": "Alemanes saliendo del pueblo de Cuetando.",
         "url": "/paez/Cuetando_salida_para_Belelcazar.jpg",
-        "year": "",
-        "author": ""
+        "year": "1935 - 1945",
+        "author": "Martín Horts"
     },
 
 
     {
         "categoryId": 8,
         "id": 73,
-        "title": "Puente_de_Cuetando_para_Cruzar_al_otro_lado_hecho_con_materiales_de_Guadua.",
+        "title": "Puente de Cuetando para pasar a la Plata.",
         "url": "/paez/Puente_de_Cuetando_para_Cruzar_al_otro_lado_hecho_con_materiales_de_Guadua.jpg",
-        "year": "",
-        "author": ""
+        "year": "1935 - 1945",
+        "author": "Martín Horts"
     },
 
     {
         "categoryId": 8,
         "id": 74,
-        "title": "Resguardo_de_Cuetando_calle_y_lugar_donde_paso_la_navidad_el_padre_de_la_patria_y_el_único_presidente_en_el_año_1823.",
+        "title": "Entrada del pueblo de Cuetando.",
         "url": "/paez/Resguardo_de_Cuetando_calle_y_lugar_donde_paso_la_navidad_el_padre_de_la_patria_y_el_único_presidente_en_el_año_1823.jpg",
-        "year": "",
-        "author": ""
+        "year": "1935 - 1945",
+        "author": "Martín Horts"
     },
 
     {
         "categoryId": 8,
         "id": 75,
-        "title": "Resguardo_de_Cuetando_entrada_de_los_Expedicionarios_sobre_región_de_Terradentro.",
+        "title": "Alemanes entrando al pueblo de Cuetandp.",
         "url": "/paez/Resguardo_de_Cuetando_entrada_de_los_Expedicionarios_sobre_región_de_Terradentro.jpg",
-        "year": "",
-        "author": ""
-    },
-
-    {
-        "categoryId": 7,
-        "id": 76,
-        "title": "Mujer_e_infante.",
-        "url": "/calderas/Mujer_e_infante.jpg",
-        "year": "",
-        "author": ""
+        "year": "1935 - 1945",
+        "author": "Martín Horts"
     },
 
     
     {
         "categoryId": 7,
         "id": 77,
-        "title": "Trabajando_en_tierra.",
+        "title": "Indígenas en minga en Calderas.",
         "url": "/calderas/Trabajando_en_tierra.jpg",
-        "year": "",
-        "author": ""
+        "year": "1945 - 1955",
+        "author": "Segundo Bernal Villa"
     },
 
-    {
-        "categoryId": 7,
-        "id": 78,
-        "title": "Mujer_Hilando.",
-        "url": "/calderas/Mujer_Hilando.jpg",
-        "year": "",
-        "author": ""
-    },
+
 
     {
         "categoryId": 6,
         "id": 79,
-        "title": "A_la_misma_niña_podemos_ver_como_en_su_brazo_lleva_la_puchicanga_el_tejido_de_lana_para_elaboracion_de_sus_trajes.",
+        "title": "Una niña Naza y en su espalda un bebé.",
         "url": "/vitonco/A_la_misma_niña_podemos_ver_como_en_su_brazo_lleva_la_puchicanga_el_tejido_de_lana_para_elaboracion_de_sus_trajes.jpg",
-        "year": "",
-        "author": ""
+        "year": "1935 - 1945",
+        "author": "Martín Horts"
     },
 
     {
         "categoryId": 6,
         "id": 80,
-        "title": "Aqui_se_puede_apreciar_como_el_lugar_esta_sobre_casi_entre_las_montañas.",
+        "title": "Calles de Vitonco.",
         "url": "/vitonco/Aqui_se_puede_apreciar_como_el_lugar_esta_sobre_casi_entre_las_montañas.jpg",
-        "year": "",
-        "author": ""
+        "year": "1935 - 1945",
+        "author": "Martín Horts"
     },
 
     {
         "categoryId": 6,
         "id": 81,
-        "title": "Calle_de_vitonco_centro.",
+        "title": "Niño con su traje típico.",
         "url": "/vitonco/Calle_de_vitonco_centro.jpg",
-        "year": "",
-        "author": ""
+        "year": "1935 - 1945",
+        "author": "Martín Horts"
     },
 
     {
         "categoryId": 6,
         "id": 82,
-        "title": "Calles_de_Vitonco.",
+        "title": "Calles y tipos de casas de Vitinco.",
         "url": "/vitonco/Calles_de_Vitonco.jpg",
-        "year": "",
-        "author": ""
+        "year": "1935 - 1945",
+        "author": "Martín Horts"
     },
 
     {
         "categoryId": 6,
         "id": 83,
-        "title": "Camino_de_herradura_y_tipo_de_cerca_al_lado_del_camino.",
+        "title": "Camino de Vitoncó a Zuín - Camino de Herradura.",
         "url": "/vitonco/Camino_de_herradura_y_tipo_de_cerca_al_lado_del_camino.jpg",
-        "year": "",
-        "author": ""
+        "year": "1935 - 1945",
+        "author": "Martín Horts"
     },
 
     {
         "categoryId": 6,
         "id": 84,
-        "title": "Camino_que_cunduce_para_Resguardo_de_Lame_o_para_Mososco.",
+        "title": "Camino de Vitoncó hacia Mosonco.",
         "url": "/vitonco/Camino_que_cunduce_para_Resguardo_de_Lame_o_para_Mososco.jpg",
-        "year": "",
-        "author": ""
+        "year": "1935 - 1945",
+        "author": "Martín Horts"
     },
 
     {
         "categoryId": 6,
         "id": 85,
-        "title": "Cargada_de_la_leña_de_una_mujer_nasa_y_atras_una_niña.",
+        "title": "Mujer Naza cargando en su espalda unos trozos de palo.",
         "url": "/vitonco/Cargada_de_la_leña_de_una_mujer_nasa_y_atras_una_niña.jpg",
-        "year": "",
-        "author": ""
+        "year": "1935 - 1945",
+        "author": "Martín Horts"
     },
 
     {
         "categoryId": 6,
         "id": 86,
-        "title": "casa_familiar.",
+        "title": "Vitónco centro.",
         "url": "/vitonco/casa_familiar.jpg",
-        "year": "",
-        "author": ""
+        "year": "1935 - 1945",
+        "author": "Martín Horts"
     },
 
     {
         "categoryId": 6,
         "id": 87,
-        "title": "casa_nasa_al_fondo_la_cordillera_central.",
+        "title": "Casa indígena en tapia.",
         "url": "/vitonco/casa_nasa_al_fondo_la_cordillera_central.jpg",
-        "year": "",
-        "author": ""
+        "year": "1935 - 1945",
+        "author": "Martín Horts"
     },
 
     {
         "categoryId": 6,
         "id": 88,
-        "title": "Casas_familiares_donde_vivían_minimo_4_a_6_personas.",
+        "title": "Casas Nazas y un cerdo.",
         "url": "/vitonco/Casas_familiares_donde_vivían_minimo_4_a_6_personas.jpg",
-        "year": "",
-        "author": ""
+        "year": "1935 - 1945",
+        "author": "Martín Horts"
     },
 
     {
         "categoryId": 6,
         "id": 89,
-        "title": "cetro_del_Resguardo_de_vitonco_fundada_en_1640.",
+        "title": "Calles de Vitonco.",
         "url": "/vitonco/cetro_del_Resguardo_de_vitonco_fundada_en_1640.jpg",
-        "year": "",
-        "author": ""
+        "year": "1935 - 1945",
+        "author": "Martín Horts"
     },
 
     {
         "categoryId": 6,
         "id": 90,
-        "title": "documento.",
+        "title": "Plasma en la imagen de gran nación Naza.",
         "url": "/vitonco/documento.jpg",
-        "year": "",
-        "author": ""
+        "year": "Sf",
+        "author": "Anónimo"
     },
 
-    {
-        "categoryId": 6,
-        "id": 91,
-        "title": "En_esta_fotogrfía_podemos_apreciar_las_diferencias_de_vestido_entre_el_indígena_y_los_alemanes.",
-        "url": "/vitonco/En_esta_fotogrfía_podemos_apreciar_las_diferencias_de_vestido_entre_el_indígena_y_los_alemanes.jpg",
-        "year": "",
-        "author": ""
-    },
-
-    {
-        "categoryId": 6,
-        "id": 92,
-        "title": "Encuentro_de_un_indígena_con_el_Aleman_Martin_Horst_además_como_el_indígena_lleva_la_caña_cargando_en_su_espalda.",
-        "url": "/vitonco/Encuentro_de_un_indígena_con_el_Aleman_Martin_Horst_además_como_el_indígena_lleva_la_caña_cargando_en_su_espalda.jpg",
-        "year": "",
-        "author": ""
-    },
 
     {
         "categoryId": 6,
         "id": 93,
-        "title": "estructuras_de_las_casas_de_tapia_y_uso_de_las_materias_como_ojas_de_caña_y_tierra.",
+        "title": "Calles de Vitonco.",
         "url": "/vitonco/estructuras_de_las_casas_de_tapia_y_uso_de_las_materias_como_ojas_de_caña_y_tierra.jpg",
-        "year": "",
-        "author": ""
+        "year": "1935 - 1945",
+        "author": "Martín Horts"
     },
 
     {
         "categoryId": 6,
         "id": 94,
-        "title": "Formas_de_vestir_de_la_mujer_nasa.",
+        "title": "Mujeres vestidas de prendas ancestrales.",
         "url": "/vitonco/Formas_de_vestir_de_la_mujer_nasa.jpg",
-        "year": "",
-        "author": ""
+        "year": "1935 - 1945",
+        "author": "Martín Horts"
     },
 
     {
         "categoryId": 6,
         "id": 95,
-        "title": "Hombres_en_armas.",
+        "title": "Indígenas Naza posando sobre un potrero.",
         "url": "/vitonco/Hombres_en_armas.jpg",
-        "year": "",
-        "author": ""
+        "year": "1935 - 1945",
+        "author": "Martín Horts"
     },
 
     {
         "categoryId": 6,
         "id": 96,
-        "title": "La_casa_Nasa_fue_un_lugar_donde_tenía_la_tulpa_en_la_noche_dormían_al_redero_del_fogon_para_no_aguantar_del_frio.",
+        "title": "Hojas de caña y caña de maíz.",
         "url": "/vitonco/La_casa_Nasa_fue_un_lugar_donde_tenía_la_tulpa_en_la_noche_dormían_al_redero_del_fogon_para_no_aguantar_del_frio.jpg",
-        "year": "",
-        "author": ""
+        "year": "1935 - 1945",
+        "author": "Martín Horts"
     },
 
     {
         "categoryId": 6,
         "id": 97,
-        "title": "la_mujer_nasa_llegando_de_ir_a_dar_de_comer_al_esposo_y_de_regreso_trayendo_leña_para_la_cena.",
+        "title": "Una mujer Naza acompañada de su hija cargando agua en un totumo.",
         "url": "/vitonco/la_mujer_nasa_llegando_de_ir_a_dar_de_comer_al_esposo_y_de_regreso_trayendo_leña_para_la_cena.jpg",
-        "year": "",
-        "author": ""
-    },
-
-    {
-        "categoryId": 6,
-        "id": 98,
-        "title": "La_niña_Nasa_cargando_en_la_espalda_a_su_hermano_podemos_apreciar_el_vestido_y_el_uso_del_chumbe_de_la_niña.",
-        "url": "/vitonco/La_niña_Nasa_cargando_en_la_espalda_a_su_hermano_podemos_apreciar_el_vestido_y_el_uso_del_chumbe_de_la_niña.jpg",
-        "year": "",
-        "author": ""
+        "year": "1935 - 1945",
+        "author": "Martín Horts"
     },
 
     {
         "categoryId": 6,
         "id": 99,
-        "title": "Los_alemanes_en_la_Tienda.",
+        "title": "Estanquillo de Vitonco.",
         "url": "/vitonco/Los_alemanes_en_la_Tienda.jpg",
-        "year": "",
-        "author": ""
+        "year": "1935 - 1945",
+        "author": "Martín Horts"
     },
 
     {
         "categoryId": 6,
         "id": 100,
-        "title": "mapa_paez_indians.",
+        "title": "Mapa de la gran nación Naza.",
         "url": "/vitonco/mapa_paez_indians.jpg",
-        "year": "",
-        "author": ""
+        "year": "Sf",
+        "author": "Anónimo"
     },
 
     {
         "categoryId": 6,
         "id": 101,
-        "title": "Martin_Horst_posandose_para_la_fotogrfía_alfondo_Nevado_del_Huila.",
+        "title": "Alemán en una mula cargado de zurrón sobre el camino real de Vitoncó a Toez.",
         "url": "/vitonco/Martin_Horst_posandose_para_la_fotogrfía_alfondo_Nevado_del_Huila.jpg",
-        "year": "",
-        "author": ""
-    },
-
-    {
-        "categoryId": 6,
-        "id": 102,
-        "title": "Niños_de_vitonco_y_su_forma_de_vestir_al_fondo_las_montañas_de_Tumbichcue.",
-        "url": "/vitonco/Niños_de_vitonco_y_su_forma_de_vestir_al_fondo_las_montañas_de_Tumbichcue.jpg",
-        "year": "",
-        "author": ""
-    },
-
-    {
-        "categoryId": 6,
-        "id": 103,
-        "title": "SE_DIC~1.",
-        "url": "/vitonco/SE_DIC~1.JPG",
-        "year": "",
-        "author": ""
-    },
-
-    {
-        "categoryId": 6,
-        "id": 104,
-        "title": "Sobre_camino_de_herradura_camino_que_va_de_Páez_a_silvia.",
-        "url": "/vitonco/Sobre_camino_de_herradura_camino_que_va_de_Páez_a_silvia.jpg",
-        "year": "",
-        "author": ""
+        "year": "1935 - 1945",
+        "author": "Martín Horts"
     },
 
     {
         "categoryId": 6,
         "id": 105,
-        "title": "Subida_de_las_mulas_sobre_la_vereda_de_Taravira.",
+        "title": "El camino de Vitonco hacia Mosoco.",
         "url": "/vitonco/Subida_de_las_mulas_sobre_la_vereda_de_Taravira.jpg",
-        "year": "",
-        "author": ""
-    },
-
-    {
-        "categoryId": 6,
-        "id": 106,
-        "title": "territorio_de_Vitonco.",
-        "url": "/vitonco/territorio_de_Vitonco.jpg",
-        "year": "",
-        "author": ""
+        "year": "1935 - 1945",
+        "author": "Martín Horts"
     },
 
     {
         "categoryId": 6,
         "id": 107,
-        "title": "Tienda_del_resguardo_de_Vitonco.",
+        "title": "Alemanes en estanquillo de Vitonco.",
         "url": "/vitonco/Tienda_del_resguardo_de_Vitonco.jpg",
-        "year": "",
-        "author": ""
-    },
-
-    {
-        "categoryId": 6,
-        "id": 108,
-        "title": "trapiche_de_moler_caña.",
-        "url": "/vitonco/trapiche_de_moler_caña.jpg",
-        "year": "",
-        "author": ""
+        "year": "1935 - 1945",
+        "author": "Martín Horts"
     },
 
     {
         "categoryId": 6,
         "id": 109,
-        "title": "visita_resguardo_de_Suin.",
+        "title": "Camino de Vitonco hacia resguardo de Lame - Se observan las cordilleras de Tumbichucue.",
         "url": "/vitonco/visita_resguardo_de_Suin.jpg",
-        "year": "",
-        "author": ""
+        "year": "1935 - 1945",
+        "author": "Martín Horts"
     },
 
     {
@@ -993,19 +845,19 @@
     {
         "categoryId": 4,
         "id": 121,
-        "title": "la_primera_toma_guerrillera_en_colombia_en_la_base_de_inza_frente_a_la_iglesia_amo_jesus_de_guanacas.",
+        "title": "Llegada del cascabel en el municipio de Inza.",
         "url": "/inza/la_primera_toma_guerrillera_en_colombia_en_la_base_de_inza_frente_a_la_iglesia_amo_jesus_de_guanacas.jpg",
-        "year": "",
-        "author": ""
+        "year": "1986",
+        "author": "Anónimo"
     },
     
     {
         "categoryId": 4,
         "id": 122,
-        "title": "mujer_nasa_en_plaza_de_mercado_aun_la_casa_existe_la_casa_fue_comprada_en_el_año_2005_por_resguardo_de_Tumbichucue.",
+        "title": "Una pareja de indígenas en el pueblo de Inza.",
         "url": "/inza/mujer_nasa_en_plaza_de_mercado_aun_la_casa_existe_la_casa_fue_comprada_en_el_año_2005_por_resguardo_de_Tumbichucue.jpg",
-        "year": "",
-        "author": ""
+        "year": "1936",
+        "author": "Gregorio Hernández de Alva"
     },
 
     {
@@ -1291,14 +1143,6 @@
         "author": ""
     },
 
-    {
-        "categoryId": 3,
-        "id": 157,
-        "title": "Mujeres2.",
-        "url": "/belalcazar/Mujeres2.jpg",
-        "year": "",
-        "author": ""
-    },
 
     {
         "categoryId": 3,
@@ -1604,7 +1448,7 @@
     {
         "categoryId": 1,
         "id": 192,
-        "title": "Casa indígena de Tumbichucue - Doña Eduvigis_Fernandez_1972.",
+        "title": "Casa indígena de Tumbichucue - Doña Eduvigis Fernandez_1972.",
         "url": "/tumbichucue/6_Con_Eduvigis_Fernandez_1972.jpg",
         "year": "1973",
         "author": "Anthony Henman"
