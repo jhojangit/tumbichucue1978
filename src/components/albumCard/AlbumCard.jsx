@@ -13,6 +13,10 @@ const AlbumCard = ({ photo }) => {
     return (
         <div className={`albumCard__container ${isExpanded ? 'expanded' : ''}`} onClick={toggleExpand}>
             <div className='albumCard__content'>
+                    {/* <p>{photo.id}</p> */} 
+                    <p>{photo.title}</p>
+                    <p>Año: {photo.year}</p>
+                    <p>Autor: {photo.author}</p>
                 <div className='albumCard__img'>
                     <img
                         loading='lazy'

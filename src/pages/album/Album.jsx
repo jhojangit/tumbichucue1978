@@ -110,11 +110,6 @@ const Album = () => {
                                     padding: "0.2rem",
                                     marginBottom:"2rem" 
                                 }} >
-                                    
-                            <p>{photo.id}</p>
-                            <p>{photo.title}</p>
-                            <p>Año: {photo.year}</p>
-                            <p>Autor: {photo.author}</p>
                             <AlbumCard photo={photo} />
                         </div>
                     ))
