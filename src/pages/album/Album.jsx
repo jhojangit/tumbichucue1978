@@ -103,7 +103,6 @@ const Album = () => {
                     currentItems.map((photo) => (
                             <div key={photo.url} 
                                 style={{ 
-                                    borderBottom: "1px solid grey", 
                                     borderLeft: "1px solid grey", 
                                     borderRight: "1px solid grey", 
                                     borderRadius:"0.3rem",
