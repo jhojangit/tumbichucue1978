@@ -576,6 +576,14 @@
         "author": "Segundo Bernal Villa"
     },
 
+    {
+        "categoryId": 7,
+        "id": 78,
+        "title": "Poblado de Calderas.",
+        "url": "/calderas/poblado_de_calderas.jpg",
+        "year": "2023",
+        "author": "Jhon Díaz"
+    },
 
 
     {
@@ -1337,23 +1345,6 @@
         "author": "Anónimo"
     },
 
-    {
-        "categoryId": 9,
-        "id": 181,
-        "title": "Parroquia de Lame.",
-        "url": "/actualidad/Actualidad_Parroquia.jpg",
-        "year": "2021",
-        "author": "Jhon Díaz"
-    },
-
-    {
-        "categoryId": 9,
-        "id": 182,
-        "title": "Parroquia de Lame.",
-        "url": "/actualidad/Actualidad_Parroquia.jpg",
-        "year": "2021",
-        "author": "Jhon Díaz"
-    },
 
     {
         "categoryId": 11,

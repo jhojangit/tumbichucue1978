@@ -11,7 +11,9 @@ const Information = () => {
 
     <section className='information__container'>
 
-      <h2 className='information__title'>Constitución del Resguardo de Tumbichucue en el marco de la R. A INCORA 1978</h2>
+      <h2 className='information__title'>
+        Constitución del Resguardo de Tumbichucue en el marco de la R. A INCORA 1978
+      </h2>
 
       <h4 className='information__subtitle'>
         Contexto Geográfico del Resguardo Ancestral de Tumbichucue
